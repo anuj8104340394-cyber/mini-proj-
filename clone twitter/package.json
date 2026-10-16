@@ -1,0 +1,24 @@
+{
+  "name": "twitter-clone-mvp",
+  "version": "1.0.0",
+  "description": "Small-scale Twitter-like social media web app (MVP)",
+  "scripts": {
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "seed": "npm --prefix server run seed",
+    "start": "npm --prefix server start",
+    "build": "npm --prefix client run build"
+  },
+  "keywords": [
+    "twitter",
+    "twitter-clone",
+    "react",
+    "vite",
+    "tailwind",
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "ISC"
+}

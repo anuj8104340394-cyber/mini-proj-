@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Production build outputs
+client/dist/
+dist/
+
+# Uploaded temporary local files
+server/uploads/*
+!server/uploads/.gitkeep
+
+# Environment files (keep .env.example for sharing)
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Logs & Debug
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# System
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

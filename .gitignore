@@ -1,0 +1,52 @@
+# Node / Javascript
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.vite/
+**/.vite/
+
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.venv*/
+**/.venv/
+**/.venv*/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+**/bmc.db
+
+# Environment variables & secrets (keep .env.example)
+.env
+.env.local
+.env.*.local
+**/.env
+**/.env.local
+**/.env.*.local
+!.env.example
+!**/.env.example
+
+# Temporary uploads
+clone twitter/server/uploads/*
+!clone twitter/server/uploads/.gitkeep
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# System & IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

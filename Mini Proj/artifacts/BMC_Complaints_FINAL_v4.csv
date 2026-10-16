@@ -1,0 +1,850 @@
+﻿ID,ward_code,ward_area,location,main_category,sub_issue,official_sla_days,has_media,image_url,severity_source,severity_score,date,source,is_real,text,language,cluster_id,photo_severity_score,cluster_size,text_severity_score,final_severity_score,severity_source_used,rank_in_cluster,is_top_in_cluster
+SEED0001,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPAv_--a0AAdv-b?format=jpg&name=small,claude_reviewed_text,3,2026-07-20,twitter,yes,Barely 3 months old and it has almost successfully dissolved back into nature as a pile of gravel and potholes.,en,-1.0,2.0,1.0,3,2.45,text+photo (fused),145.0,False
+SEED0002,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/mumbaimatterz/status/2086826940791652608/video/1,claude_reviewed_text,2,2026-07-19,twitter,yes,"Under the new #PedestrianFirst drive, they’ve combined the footpath upgrade and the garbage collection initiative into a single, convenient ditch.",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),169.0,False
+SEED0003,A,Fort,Fort,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/mumbaimatterz/status/2086766200789581932/video/1,claude_reviewed_text,3,2026-07-18,twitter,yes,"#illegalhawkers to pedestrians be like, footpath chahiye, chal Foot मेरे Path se.. It's a total Food Paradise outside Axis Bank at the Jn of SA Brelvi Road, Sir PM Marg Road, Fort,",en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),64.0,False
+SEED0004,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPVt5hfaYAA8WpU?format=jpg&name=small,claude_reviewed_text,3,2026-07-17,twitter,yes,This #IllegalHawker hasn't spared this apology of a Infrastructure aka Footpath.,en,-1.0,2.2,1.0,3,2.56,text+photo (fused),139.0,False
+SEED0005,A,Nariman Point,Nariman Point,Encroachment,Encroachment complaint,,yes,https://pbs.twimg.com/media/HPL9NeDbMAAq0PP?format=jpg&name=medium,claude_reviewed_text,2,2026-07-15,twitter,yes,"#IllegalHawkers First Nariman Point, Jamnalal Bajaj Marg, Vidhan Bhavan Marg, J Tata Marg, Mumbai-20",en,-1.0,2.4,1.0,2,2.22,text+photo (fused),159.0,False
+SEED0006,,,,Other,Other civic complaint,,yes,https://pbs.twimg.com/media/HPFu7y9bYAASQsz?format=jpg&name=small,claude_reviewed_text,2,2026-07-14,twitter,yes,"When are you going to remove these illegal banners of the 'Emperor',",en,-1.0,1.9,1.0,2,1.94,text+photo (fused),251.0,False
+SEED0007,F/N,Matunga,Matunga,Encroachment,Encroachment complaint,,yes,https://pbs.twimg.com/media/HO3D9P9aoAASts3?format=jpg&name=small,claude_reviewed_text,2,2026-07-13,twitter,yes,"Plz get rid of this illegal Pan Gutkha Tea Stall bang opp Smart Bazaar, Vardaraj Addya Marg Matunga West",en,-1.0,1.7,1.0,2,1.83,text+photo (fused),260.0,False
+SEED0008,,,,Environment,Environment complaint,,yes,https://pbs.twimg.com/media/HOenK5lbQAAt7oa?format=jpg&name=small,claude_reviewed_text,3,2026-07-12,twitter,yes,"More than 3 weeks since this tree collapsed during that sudden storm.Most of the branches were removed in couple of days, but why isn't this being cleared?",en,0.0,2.8,3.0,3,2.89,text+photo (fused),3.0,False
+SEED0009,,,,Public health,Public health complaint,,yes,https://pbs.twimg.com/media/HOSqRY_bMAA0e6V?format=jpg&name=small,claude_reviewed_text,3,2026-07-11,twitter,yes,Nothing says “public health” like a full pigeon buffet right outside a doctor’s clinic. Symptoms: feathers & droppings. Diagnosis: chronic law-breaking.,en,-1.0,3.0,1.0,3,3.0,text+photo (fused),65.0,False
+SEED0010,G/S,Prabhadevi,Prabhadevi,Encroachment,Encroachment complaint,,yes,https://x.com/mumbaimatterz/status/2081652700123717924/video/1,claude_reviewed_text,3,2026-07-10,twitter,yes,Today's video of the illegal construction taking place at Prabhadevi Beach,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),66.0,False
+SEED0011,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HN58gYxasAAInqD?format=jpg&name=small,claude_reviewed_text,2,2026-07-09,twitter,yes,"Walls beside the footpath of the not so long ago re-opened, Bellasis Bridge nr Mumbai Central Stn.Gutka spit",en,-1.0,1.9,1.0,2,1.94,text+photo (fused),252.0,False
+SEED0012,P/N,Goregaon East,Goregaon East,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HNz7q3lboAAURKF?format=jpg&name=small,claude_reviewed_text,4,2026-07-08,twitter,yes,Roof of this pedestrian crossing bridge coming off in Goregaon East Mumbai on WEH.This will lead to untoward accidents if not attended.,en,-1.0,3.9,1.0,4,3.95,text+photo (fused),42.0,False
+SEED0013,F/N,Sion,Sion,Other,Other civic complaint,,yes,https://x.com/mumbaimatterz/status/2079580060538028067/video/2,claude_reviewed_text,2,2026-07-07,twitter,yes,mybmc never happens to spot such massive Illegal Extensions & take ACTION.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),170.0,False
+SEED0014,H/W,Bandra,Bandra,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/sipaniamit/status/2079443658584248731/video/1,claude_reviewed_text,3,2026-07-06,twitter,yes,"Was Bandra Skywalk built as a 5-star hawker flea market with complimentary paan perfume and trash runway, or as a basic footpath for pedestrians not to play hopscotch over vendors and garbage?""",en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),67.0,False
+SEED0015,F/N,Matunga,Matunga,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/mumbaimatterz/status/2075899558606114991/video/1,claude_reviewed_text,2,2026-07-05,twitter,yes,"It is being alleged that this box chained to the Skywalk connected to Matunga W, Z Bridge belongs to a mybmcwardGN Staff of the anti-encroachment dept, who is also a #illegalHawker.",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),171.0,False
+SEED0016,F/N,Matunga,Matunga,Water Supply,Water/sewerage complaint,4.0,yes,https://x.com/mumbaimatterz/status/2075886066553463054/video/1,claude_reviewed_text,3,2026-07-04,twitter,yes,"Despite drains getting clogged due to cement slurry & slush, they are in league with the #BuilderMafia and allowing these builders Rustomjee & Dosti on Chatrapati Shivaji Maharaj Marg, Matunga West to keep the drains opens& let the pipes directly.",en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),68.0,False
+SEED0017,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HMyMc1vb0AACfuy?format=jpg&name=small,claude_reviewed_text,3,2026-07-03,twitter,yes,"oes this road qualify for a ""pothole theme park"" certification, or are we still pretending it’s meant for driving?",en,-1.0,2.9,1.0,3,2.95,text+photo (fused),122.0,False
+SEED0018,,,,Other,Other civic complaint,,yes,https://pbs.twimg.com/media/HMxmC-QawAAx8x-?format=jpg&name=small,claude_reviewed_text,3,2026-07-02,twitter,yes,"The piegon feeding still on at Gokuldham Market, opposite Agrawal Diagonistic, the grain store beside Print Hub observed to be offering sacks of grain in the mornings. Even huge rats are seen at night coming to feed on the grains",en,-1.0,2.5,1.0,3,2.73,text+photo (fused),134.0,False
+SEED0019,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/mumbaimatterz/status/2074863959866491264/video/1,claude_reviewed_text,3,2026-07-01,twitter,yes,"Rains for 10 minutes & the water doesn't drain away for 3/4 days, Why? bcoz the slope is inwards towards the center. The same with the flyover ahead",en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),69.0,False
+SEED0020,G/N,Mahim,Mahim,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HMiHEJ4acAAzJuv?format=jpg&name=4096x4096,claude_reviewed_text,4,2026-06-30,twitter,yes,"Look so many trees on the verge of collapsing at Chatrapati Shivaji Maharaj Marg & Dharmaveer Sambhaji Raje Marg, Mahim. But who cares.. roots already cut during road CONcreting.",en,-1.0,3.0,1.0,4,3.45,text+photo (fused),53.0,False
+SEED0021,,,,Environment,Environment complaint,,yes,https://pbs.twimg.com/media/HMeKGkKacAAusvD?format=jpg&name=small,claude_reviewed_text,2,2026-06-29,twitter,yes,An illegal garage structure built on a tree and tree island was removed overnight after a post was sent to mybmc It is now back within few days. Ready to kill the old tree again.,en,-1.0,2.7,1.0,2,2.39,text+photo (fused),153.0,False
+SEED0022,G/N,Mahim,Mahim,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/mumbaimatterz/status/2073781469110296873/video/1,claude_reviewed_text,4,2026-06-28,twitter,yes,"Mahim FOB at the Jn of Mori Road/Senapati Bapat, earlier full of squatters seems to have been given out by mybmc for advertising & this is the condition of it after today's squally weather. It has got torn and entire frame may fall over someone below.",en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),13.0,False
+SEED0023,S,Bhandup,Bhandup,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HMX4-ZAaIAAyhwu?format=jpg&name=small,claude_reviewed_text,4,2026-06-27,twitter,yes,Seems the Bhandup Road Cave In could have been averted...if mybmc had paid heed to citizens complaints. Seems one more case of appeasing the Builder lobby.,en,-1.0,3.2,1.0,4,3.56,text+photo (fused),48.0,False
+SEED0024,G/N,Dadar,Dadar,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HMWw70ba0AA90qN?format=jpg&name=900x900,claude_reviewed_text,4,2026-06-26,twitter,yes,Dangerous potholes just outside Dadar WesternRly station on Senapati Bapat Marg.,en,21.0,4.0,4.0,4,4.0,text+photo (fused),2.0,False
+SEED0025,F/N,Sion,Sion,Environment,Environment complaint,,yes,https://pbs.twimg.com/media/HMPs458awAAN_Gd?format=jpg&name=small,claude_reviewed_text,3,2026-06-25,twitter,yes,Seems mybmc is waiting for the entire building to crash along with the tree so that mayor_mumbai can visit with camera team and order suspension of few BMC staff.,en,-1.0,3.7,1.0,3,3.39,text+photo (fused),55.0,False
+SEED0026,,,,Water Supply,Water/sewerage complaint,4.0,yes,https://x.com/mumbaimatterz/status/2072266434999390438/video/1,claude_reviewed_text,2,2026-06-24,twitter,yes,Please STOP this noise..Each time a vehicle passes over the Drain Lid it makes a Loud noise..,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),172.0,False
+SEED0027,,,,Other,Other civic complaint,,yes,https://pbs.twimg.com/media/HLzEMmRasAA8BZr?format=jpg&name=small,claude_reviewed_text,2,2026-06-23,twitter,yes,iven to understand by locals that mybmcwardGN will not remove these materials as it belongs to its own staff.,en,-1.0,2.8,1.0,2,2.44,text+photo (fused),147.0,False
+SEED0028,,,,Environment,Environment complaint,,yes,https://pbs.twimg.com/media/HL0CG3ZbYAAFPFe?format=jpg&name=small,claude_reviewed_text,1,2026-06-22,twitter,yes,"Spending public money on a ""Save Tree -Save Planet"" sign right next to a dead tree is peak mybmc efficiency.",en,-1.0,1.0,1.0,1,1.0,text+photo (fused),265.0,False
+SEED0029,G/N,Dadar,Dadar,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HLofip2bkAAeeo3?format=jpg&name=small,claude_reviewed_text,2,2026-06-21,twitter,yes,ollards on the Pedestrian crossing on NC Kelkar Road Dadar have been deliberately removed so that Bikers can easily pass thru.,en,-1.0,1.3,1.0,2,1.62,text+photo (fused),263.0,False
+SEED0030,G/N,Dadar,Dadar,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/mumbaimatterz/status/2069715927130907105/video/1,claude_reviewed_text,2,2026-06-20,twitter,yes,Messengers of Diseases aka Pigeons on the footpath at Dadar East ... Another illegal kabutarkhana,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),173.0,False
+SEED0031,F/N,Sion,Sion,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/mumbaimatterz/status/2069674056039981283/video/1,claude_reviewed_text,5,2026-06-19,twitter,yes,"More than a month has passed.There is absolutely No ACTION, neither from mybmc mybmcinfra or MTPHereToHelp to remove the the exposed cables lying on Sion Bridge over the CR tracks next to LTMG Sion Hospital.",en,-1.0,,1.0,5,5.0,text-only (claude-reviewed),1.0,False
+SEED0032,,,,Solid Waste Management (SWM),Solid waste management complaint,1.0,yes,https://x.com/KamathUrich/status/2065820243684196556/video/2,claude_reviewed_text,4,2026-06-18,twitter,yes,Seems food Vada paav is cooked stored in a garbage dump & served over the counter.,en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),14.0,False
+SEED0033,G/N,Mahim,Mahim,Other,Other civic complaint,,yes,https://x.com/mumbaimatterz/status/2064285541101875443/video/1,claude_reviewed_text,2,2026-06-17,twitter,yes,floors being added to the illegal Settlements at Mahim West.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),174.0,False
+SEED0034,F/N,Sion,Sion,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HKBkflvbMAA6Gj-?format=jpg&name=small,claude_reviewed_text,4,2026-06-16,twitter,yes,Seems #Mumbai is waiting for a Fire🔥 Tragedy similar to #DelhiHotelFire🔥 which claimed several lives.Nothing has been learnt by mybmc Have a look at these Tin Sheds/Hotels on LBS Road from Sion to Kurla with fancy names.,en,-1.0,1.1,1.0,4,2.41,text+photo (fused),152.0,False
+SEED0035,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HJjEs0Ea8AAYS1H?format=jpg&name=small,claude_reviewed_text,2,2026-06-15,twitter,yes,And as predicted the Sir Bhalchandra Road Name board goes Missing..mybmc mybmcWardFN mybmcinfra Seems this Cattle feeding point wanted more visibility.No Accountability No Responsibility,en,-1.0,1.0,1.0,2,1.45,text+photo (fused),264.0,False
+SEED0036,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HJfyQi-agAAHu7m?format=jpg&name=small,claude_reviewed_text,2,2026-06-14,twitter,yes,baap ka Footpath Anyone can Hijack a Footoath in Mumbai & mybmc mybmcwardKE will as always remain a mute spectator.,en,25.0,1.5,3.0,2,1.73,text+photo (fused),3.0,False
+SEED0037,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HJTaOiEbsAAVPo7?format=jpg&name=900x900,claude_reviewed_text,2,2026-06-13,twitter,yes,A newly laid CONcrete road broken up & then patched up shoddily...,en,-1.0,2.8,1.0,2,2.44,text+photo (fused),148.0,False
+SEED0038,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HJUpM54bAAA59gy?format=jpg&name=small,claude_reviewed_text,2,2026-06-12,twitter,yes,"No Licence, No FSSAI.. just set up table chairs on the road & arrange a modified vehicle as a kitchen... That's it.",en,-1.0,2.0,1.0,2,2.0,text+photo (fused),175.0,False
+SEED0039,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HJQLKP5bYAAW6Hq?format=jpg&name=small,claude_reviewed_text,3,2026-06-11,twitter,yes,Such a massive Illegal Restaurant on the footpath with illegal power connection from a BEST bus stop.,en,-1.0,2.4,1.0,3,2.67,text+photo (fused),135.0,False
+SEED0040,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HI44EgsboAAfkR7?format=jpg&name=small,claude_reviewed_text,2,2026-06-10,twitter,yes,"See this bulk garbage waste by the famous CocaCola distributor of ghatkoper , he thinks he owns the Sikova road , where he parks multiple trucks / throws garbage on the road",en,-1.0,3.0,1.0,2,2.55,text+photo (fused),140.0,False
+SEED0041,F/N,Matunga,Matunga,Other,Other civic complaint,,yes,https://pbs.twimg.com/media/HIz5jwSagAAtZkn?format=jpg&name=small,claude_reviewed_text,2,2026-06-09,twitter,yes,Watching the illegal car wash operating on Senapati Bapat from Mahim to Matunga Rd by drawing water from underground Mains... It seems it just a rumour..,en,-1.0,2.7,1.0,2,2.39,text+photo (fused),154.0,False
+SEED0042,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HIwmqwabMAAN5Az?format=jpg&name=small,claude_reviewed_text,4,2026-06-08,twitter,yes,The enitre road - footpath has been captured since ages by these stalls which is infact a Fire Hazard,en,-1.0,4.0,1.0,4,4.0,text+photo (fused),15.0,False
+SEED0043,,,,Other,Other civic complaint,,yes,https://x.com/MNCDFanonymous/status/2056967450852557021/video/2,claude_reviewed_text,2,2026-06-07,twitter,yes,"Is this CocaCola distributor above the law , why this special treatment given by MTPHereToHelp & mybmc where he parks more than 30 trucks in small Sikova lane in ghatkoper, creating problems for citizens , we urge CMOMaharashtra & CPMumbaiPolice to take strict action.",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),176.0,False
+SEED0044,,,,Other,Other civic complaint,,yes,https://pbs.twimg.com/media/HIWysgEawAAi61B?format=jpg&name=900x900,claude_reviewed_text,1,2026-06-06,twitter,yes,Full fledged illegal Kabutarkhana,en,-1.0,3.2,1.0,1,2.21,text+photo (fused),162.0,False
+SEED0045,,,,Other,Other civic complaint,,yes,https://pbs.twimg.com/media/HH9UDZTbEAASlTa?format=jpg&name=900x900,claude_reviewed_text,1,2026-06-05,twitter,yes,Which one to Believe? Two boards hardly 50 metres away & 4 minutes away All these AQI monitoring boards seems to be dud...even the Temperatures don't match One showing 41° & other 30°,en,-1.0,2.4,1.0,1,1.77,text+photo (fused),262.0,False
+SEED0046,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HH8K52lWwAAbaKP?format=jpg&name=small,claude_reviewed_text,3,2026-06-04,twitter,yes,"Peak Corruption & Incompetence The recently laid “walking road” at Kala Ghoda, Mumbai has been dug up again by mybmc- Dug up between Dec 2024 - Feb 2026- Finally opened in March 2026.- Dug up & closed again May 9, 2026.Also, they still haven’t built any drainage.",en,-1.0,2.9,1.0,3,2.95,text+photo (fused),123.0,False
+SEED0047,F/N,Sion,Sion,Housing and building,Housing/building complaint,,yes,https://pbs.twimg.com/media/HH3LGVwbkAESTBj?format=jpg&name=small,claude_reviewed_text,4,2026-06-03,twitter,yes,"a new garage is opened inside a residential building and the owner is threatening the residents, request your urgent intervention, Daginawala mansion opp Mahim station West",en,-1.0,2.3,1.0,4,3.06,text+photo (fused),61.0,False
+SEED0048,G/N,Mahim,Mahim,Other,Other civic complaint,,yes,https://pbs.twimg.com/media/HH3TrcHbsAAWE8w?format=jpg&name=small,claude_reviewed_text,3,2026-06-02,twitter,yes,"A Clear picture where it can clearly be seen , the railings on either side of the cycle shop only railings opp the cycle shop is cut and removed , it’s a criminal conspiracy and we urge mybmcWardGN mybmc& Mahim_PS to file an FIR against the owners of the shop .",en,-1.0,2.3,1.0,3,2.62,text+photo (fused),137.0,False
+SEED0049,F/N,Wadala,Wadala,Other,Other civic complaint,,yes,https://pbs.twimg.com/media/HHxpJTTacAAvryy?format=jpg&name=small,claude_reviewed_text,2,2026-06-01,twitter,yes,"Who put this overnight? Isn't it illegal? Remove it immediately At the corner of Azad Nagar, R A.K Marg, Godrej Horizon, Wadala",en,-1.0,2.5,1.0,2,2.27,text+photo (fused),158.0,False
+SEED0050,N,Ghatkopar,Ghatkopar,Other,Other civic complaint,,yes,https://pbs.twimg.com/media/HHsca2SaUAAtTQo?format=jpg&name=medium,claude_reviewed_text,3,2026-05-31,twitter,yes,hello mybmc look at the condition of this park at Ghatkopar east. It is in terrible shape.. Citizens have stopped visiting here and it is becoming a den for drinking alcohol and creating nuisance.,en,-1.0,3.9,1.0,3,3.5,text+photo (fused),52.0,False
+SEED0051,G/N,Mahim,Mahim,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/mumbaimatterz/status/2052037295415738498/video/1,claude_reviewed_text,3,2026-05-30,twitter,yes,"Drinking Water literally going down the Drain.This is on the opp footpath of Mahim House, Mogul Lane.Water seeping through the road/footpath and going down the Drain..Attend at the earliest to arrest depleting water stocks.Every drop counts.",en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),70.0,False
+SEED0052,,,,Solid Waste Management (SWM),Solid waste management complaint,1.0,yes,https://x.com/BombaykiAwaaz/status/2050426628292121040/video/1,claude_reviewed_text,3,2026-05-28,twitter,yes,Precious Water is being wasted due to a leaking underground Mains even as Mumbai is staring at a water crisis with mybmc imposing a 10% #WaterCut across the city from 15th May..,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),71.0,False
+SEED0053,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/mumbaimatterz/status/2047301924652032168/video/1,claude_reviewed_text,2,2026-05-27,twitter,yes,How are pedestrians supposed to walk on this footpath with multiple poles fixed like a maze,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),177.0,False
+SEED0054,G/N,Mahim,Mahim,Other,Other civic complaint,,yes,https://pbs.twimg.com/media/HGWDju-XYAAfvhH?format=jpg&name=small,claude_reviewed_text,2,2026-05-26,twitter,yes,"how do you suppose the people walk on the newly made zebra crossing , opp Mahim station , where you have made a divider will pedestrians jump and go",en,-1.0,3.0,1.0,2,2.55,text+photo (fused),141.0,False
+SEED0055,,,,Other,Other civic complaint,,yes,https://pbs.twimg.com/media/HGXT31FboAAApyZ?format=jpg&name=small,claude_reviewed_text,1,2026-05-24,twitter,yes,Hijacked by Potted Plants & Parked Vehicles,en,-1.0,2.6,1.0,1,1.88,text+photo (fused),258.0,False
+SEED0056,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HGU2yDpagAAHqrW?format=jpg&name=small,claude_reviewed_text,2,2026-05-23,twitter,yes,"The drains nr the holding tanks at Hindmata jn have been cleaned pre monsoon, but the removed silt, trash is all piled on one lane of the road to be blown back into the drains by wind and speeding vehicles.",en,23.0,3.8,3.0,2,2.99,text+photo (fused),3.0,False
+SEED0057,F/N,Matunga,Matunga,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HFxg2LJboAAazKr?format=jpg&name=small,claude_reviewed_text,1,2026-05-22,twitter,yes,"he Yellow Road Markings didn't even last a week all faded All traffic jns on Senapati Bapat Marg across Mahim, Matunga Road, Dadar are the same. What ""Chuna"" are you applying",en,-1.0,2.6,1.0,1,1.88,text+photo (fused),259.0,False
+SEED0058,F/N,Wadala,Wadala,Public health,Public health complaint,,yes,https://x.com/mahitiamanch/status/2087067282426167712/video/1,claude_reviewed_text,3,2026-05-21,twitter,yes,"ir cleaning machanism kept by BMC supper corrupt tecnology . This is inGanesh Nagar Wadala East opp side inside slums .. MOH FN enjoys dpoiling others health ... This is wjat is called "" SETTING"" IN INDIA.",en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),72.0,False
+SEED0059,G/N,Dadar,Dadar,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/santoshgurav299/status/2086768424475316352/video/1,claude_reviewed_text,2,2026-05-20,twitter,yes,"Ward: CR 192, the footpath digging work was done in front of Bhavani Shankar Road, Dadar, Mumbai 28, Ram Mandir for the work; the work is completed, but cement concrete has still not been done here. In a few days, Ganpati stalls will be set up here; so that they don't face any trouble",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),178.0,False
+SEED0060,P/N,Malad West,Malad West,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/Apala_Mayur/status/2086997357510746337/video/1,claude_reviewed_text,3,2026-05-17,twitter,yes,"Roads near Mittal College in Malad West, leading to Ekta Mitra Mandal, have developed potholes and mud due to the rains. Citizens are facing difficulties while commuting. Please have the concerned department conduct an inspection and carry out the necessary repairs at the earliest",en,24.0,,5.0,3,3.0,text-only (claude-reviewed),3.0,False
+SEED0061,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPHVh0Va8AABIdH?format=jpg&name=360x360,claude_reviewed_text,3,2026-05-16,twitter,yes,"low water supply on Manchhu Bhai Road for the past 2 days! With water levels in Mumbai's lakes near 90%,why is mybmc failing to provide adequate water supply? Kindly look into this urgently and restore normal supply ASAP",en,18.0,1.0,3.0,3,1.9,text+photo (fused),3.0,False
+SEED0062,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/SiddiqueHu/status/2086145150141767947/video/1,claude_reviewed_text,4,2026-05-15,twitter,yes,"4 days after lodging a complaint on 04 Aug, Ward 86 officials (R.E & S.E Nisha Dalvi) have failed to respond. Citizens are left with no choice but to manual-fill potholes with debris. Is this where public funds go? Fix this immediately!",en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),16.0,False
+SEED0063,G/N,Mahim,Mahim,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPbmIPqbIAAuHU7?format=jpg&name=small,claude_reviewed_text,2,2026-05-14,twitter,yes,"ebris left on the road itself after demolition of an illegal ramp constructed on the road of Bhagoji Keer Marg. This concerte ramp was constructed by certain residents which was stretching from the footpath till the road thereby blocking and obstructing any car or pedestrians from walking on that patch. The concrete patch  is literally covering the roots of a tree and has left no place for water to seep thru' the roots. After several residents complaints , this patch is finally demolished but the debris are left on this road and this is creating another obstruction. Please get these debris picked up immediately in order to avoid inconvenience as the debris are lying right next to a speed breaker. I am enclosing photos of the same for your reference. Address: Right outside Tadeshwar CHS Mahim west, Bhagoji Keer Marg.",en,-1.0,3.7,1.0,2,2.94,text+photo (fused),125.0,False
+SEED0064,,,,Water Supply,Water/sewerage complaint,4.0,yes,https://pbs.twimg.com/media/HPAUQgQakAATVKP?format=jpg&name=900x900,claude_reviewed_text,3,2026-05-13,twitter,yes,"Days, weeks, months passed but water leakage issue still persist",en,-1.0,3.4,1.0,3,3.22,text+photo (fused),57.0,False
+SEED0065,G/S,Prabhadevi,Prabhadevi,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPFg4CtbEAAEXSJ?format=jpg&name=small,claude_reviewed_text,3,2026-05-12,twitter,yes,"Total eyewash. mybmc comes up with high funda schemes, but it remains on paper and money chewed. Garbage is still spilled over main road-P Balu Marg Prabhdevi . On Prabhadevi beach too garbage remains uncollected. AshwiniBhide mybmcWardGS city has remained dirty & unhygienic.",en,26.0,3.9,6.0,3,3.5,text+photo (fused),4.0,False
+SEED0066,,,,Other,Other civic complaint,,yes,https://pbs.twimg.com/media/HPbwf2NaYAEwYdk?format=jpg&name=900x900,claude_reviewed_text,5,2026-05-11,twitter,yes,"कुर्ला पश्चिम ,विनोबा भावे नगर, मुंबई 70, opp first ground, LIG COLONY, नियर मदीना होटल, वार्ड क्रमांक 167 के अंतर्गत डेनिस लाइन रोड के किनारे का मेन होल ढक्कन ना होने के कारण काफी लोग गिरने के कारण गंभीर चोटें आई ,संबंधित BMC के अधिकारियों को बताया गया है फिर मामले को गंभीरता से नहीं ले रहे हैं यहां की आम लोगों को काफी तकलीफो का सामना करना पड़ रहा है आए दिन बच्चे बूढ़े इसमें गिरते रहते हैं कृपया संज्ञान में लेकर मेन होल का ढक्कन का काम तुरंत किया जाए",mr,-1.0,3.6,1.0,5,4.23,text+photo (fused),12.0,False
+SEED0067,H/E,Santacruz,Santacruz,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPMv5UcaAAAM4uE?format=jpg&name=360x360,claude_reviewed_text,3,2026-05-10,twitter,yes,"Pedestrian safety is severely compromised at TPS6, Road No 3 & 5, nr Sambhaji Krindangan Santacruz W. Trucks continuously hoard & block footpaths Action from H/W ward is virtually non-existent despite years of grievances",en,-1.0,1.2,1.0,3,2.01,text+photo (fused),168.0,False
+SEED0068,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HO305WOboAAH3Uq?format=jpg&name=900x900,claude_reviewed_text,4,2026-05-09,twitter,yes,"Regarding the dangerous potholes on the main road, even after properly filing an online complaint with mybmc and mybmcWardS 11 days have passed but no work has been done on them",en,-1.0,2.0,1.0,4,2.9,text+photo (fused),127.0,False
+SEED0069,,,,Other,Other civic complaint,,yes,https://x.com/singhrk15/status/2087058541999775776/video/1,claude_reviewed_text,2,2026-05-08,twitter,yes,"Please clean this up. This is my 4th request, no action yet. Looks BMC dont care about their city and people at all.",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),179.0,False
+SEED0070,P/N,Malad West,Malad West,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/bendeashish/status/2087118419208667441/video/1,claude_reviewed_text,3,2026-05-07,twitter,yes,Malad west yard. The fine cement is flying in the air everyday from the mixing & crushing facility of Mumbai metro Malad/Malvani yard. Putting the health of the residents at risk. The road side food stalls and the daily consumers are unaware of the danger.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),73.0,False
+SEED0071,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/mashrujeet/status/2086465124618158473/video/2,claude_reviewed_text,3,2026-05-06,twitter,yes,"Pothole complaints are to be attended in 24 hours. For this one, it has been 2 days with no update on your MARG portal.",en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),74.0,False
+SEED0072,K/W,Andheri West,Andheri West,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/Faisalqureshi_q/status/2087087192808227108/video/1,claude_reviewed_text,3,2026-05-05,twitter,yes,"Huge gutter blockage at Link Road, Andheri West, near SAB TV Road Signal.",en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),75.0,False
+SEED0073,H/W,Khar,Khar,Other,Other civic complaint,,yes,https://pbs.twimg.com/media/HPRrLrYaAAAzOHR?format=jpg&name=small,claude_reviewed_text,2,2026-05-04,twitter,yes,t 3rd rd khar west hari market this is th situation. Kindly remove it or levy high penally,en,-1.0,2.1,1.0,2,2.06,text+photo (fused),167.0,False
+SEED0074,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPQ34tkbcAEdZ8k?format=jpg&name=900x900,claude_reviewed_text,4,2026-05-03,twitter,yes,rainage choke on THE SIDE OF JALARAM MARKET R R T ROAD GATE SIDE FULL CHOKE UP PLS HELP URGENTLY AS THIS IS BMC MARKET THE TOTAL SERVICES OF DRAUNAGE ARE COLLAPSED,en,-1.0,3.1,1.0,4,3.51,text+photo (fused),51.0,False
+SEED0075,H/W,Khar,Khar,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPRygc1bkAA0j0m?format=jpg&name=small,claude_reviewed_text,3,2026-05-02,twitter,yes,"Dear BMC H West - This manhole outside Parmeshwari Bhawan at 14th Road, Khar West is full of dirt and leaves. Pls remove it else the road will be flooded with water if it rains heavily",en,-1.0,2.6,1.0,3,2.78,text+photo (fused),131.0,False
+SEED0076,H/W,Khar,Khar,Environment,Environment complaint,,yes,https://x.com/jordanshaikh4/status/2087123235544666567/video/1,claude_reviewed_text,5,2026-04-30,twitter,yes,"Multiple alleged illegal gold-melting kharkhanaas are operating in residential areas, including V.V. Chandan Street, with multiple chimneys releasing dangerous smoke. Residents allege harmful acids/chemicals are being used, creating serious",en,-1.0,,1.0,5,5.0,text-only (claude-reviewed),2.0,False
+SEED0077,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/Nileshmehtx3ys/status/2086822668414890293/video/2,claude_reviewed_text,4,2026-04-29,twitter,yes,Bmc has not taken any action against these hath gadi that's creating problems for the local residents l.They are clearly blocking the road.Local residents are unable to bring emergency vehicles for their safety. Bhaskar lane and anantwadi bhuleshwar Mumbai 400 002,en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),17.0,False
+SEED0078,K/W,Andheri West,Andheri West,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/gautam97773609/status/2087031661678780763/video/1,claude_reviewed_text,3,2026-04-28,twitter,yes,pen invitation to Denge n Malaria @ country club Veera Desai Road Andheri West Mumbai Most inefficient WO of BMC K-Wes,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),76.0,False
+SEED0079,,,,Encroachment,Encroachment complaint,,yes,https://x.com/WahidAnsar98960/status/2087098322310107313/video/1,claude_reviewed_text,3,2026-04-27,twitter,yes,The illegal construction has continued and the open terrace has now been covered.Corrupt officer Rishikesh Chauhan Immediate action is needed.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),77.0,False
+SEED0080,G/S,Worli,Worli,Encroachment,Encroachment complaint,,yes,https://pbs.twimg.com/media/HPVx5TAbwAASpGO?format=jpg&name=small,claude_reviewed_text,3,2026-04-26,twitter,yes,"ampant illegal cooking & encroachments opposite Khanna Plot on Alley Rd/Venus Lane, Worli. Food cooked next to filth, BMC plot misused. 8-month-old pics, zero change!",en,-1.0,2.8,1.0,3,2.89,text+photo (fused),128.0,False
+SEED0081,,,,Environment,Environment complaint,,yes,https://x.com/raisnkhan/status/2086686278301675539/video/1,claude_reviewed_text,4,2026-04-25,twitter,yes,"Illegal/Unsafe Demolition Work Beside Dwarkaa Multispeciality Hospital, Opp. Eagle Bakery Building — Builder Allegedly Violating BMC Air Pollution Norms.",en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),18.0,False
+SEED0082,,,,Transport and mobility,Transport/mobility complaint,,yes,https://pbs.twimg.com/media/HPa1noha8AA2CtE?format=jpg&name=small,claude_reviewed_text,5,2026-04-24,twitter,yes,"-South Ward 83 — This spot has become a “Final Destination” due to the failure of BMC & Traffic Department. Repeated complaints, but still no action. Take immediate spot action before another accident happens.",en,-1.0,3.7,1.0,5,4.29,text+photo (fused),11.0,False
+SEED0083,M/W,Chembur,Chembur,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPTQ0AjaAAA7AlD?format=jpg&name=small,claude_reviewed_text,4,2026-04-23,twitter,yes,"lease take urgent action on the dangerous potholes in Tilak Nagar, Chembur one near Building 84 and another near Buildings 82 & 80. They pose a serious risk to motorists and pedestrians. Please inspect and repair them at the earliest",en,-1.0,2.4,1.0,4,3.12,text+photo (fused),60.0,False
+SEED0084,,,,Solid Waste Management (SWM),Solid waste management complaint,1.0,yes,https://x.com/Abdul__Munshi/status/2084905594620907596/video/1,claude_reviewed_text,4,2026-04-22,twitter,yes,"Shocking scenes at one of Mumbai's busiest railway stations! Garbage bags, overflowing waste, and filthy stagnant water are lying in public areas, creating a serious health and hygiene hazard",en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),19.0,False
+SEED0085,F/N,Sion,Sion,Encroachment,Encroachment complaint,,yes,https://pbs.twimg.com/media/HPSa-sLaAAAt1I-?format=jpg&name=small,claude_reviewed_text,2,2026-04-21,twitter,yes,"illegal construction of 35 feet at Laxman Bawala chawl in residential area khotwadi, santacruz west by Garment Owner without any permission from Bmc,violation of थर law of 14 feet, please take strict action on the owner.",en,-1.0,2.4,1.0,2,2.22,text+photo (fused),160.0,False
+SEED0086,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/zoru75/status/1806215725297938654/video/1,claude_reviewed_text,4,2026-04-20,twitter,yes,"BMC had called Gokhale Bridge an engineering marvel during its inauguration in Andheri, Mumbai. This is the pedestrian walkway on this very same bridge. Low walls, water logged, accident waiting to happen.",en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),20.0,False
+SEED0087,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HN-ZooFaoAA9uOt?format=jpg&name=small,claude_reviewed_text,3,2026-04-19,twitter,yes,"Immediate road repair, drainage restoration, and accountability are urgently needed. Stop ignoring citizens' complaints",en,-1.0,4.2,1.0,3,3.66,text+photo (fused),46.0,False
+SEED0088,,,,Environment,Environment complaint,,yes,https://pbs.twimg.com/media/HPXT_TPagAI5uKh?format=jpg&name=small,claude_reviewed_text,2,2026-04-18,twitter,yes,"This tree may have been uprooted during heavy winds, but why was it completely cut down after removing the load instead of giving it a chance to survive?",en,0.0,3.9,3.0,2,3.04,text+photo (fused),2.0,False
+SEED0089,N,Ghatkopar,Ghatkopar,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPNUyyqbAAA3Phd?format=jpg&name=small,claude_reviewed_text,5,2026-04-16,twitter,yes,"indly see the status of the staircase of the FOB situated at Ghatkopar Mankhurd Link Rd, connecting Grit Heights with Indian Oil Nagar. Many reported incidents of fall has been witnessed. What are we waiting for? Some fatality before we rectify? Pls look into",en,-1.0,4.1,1.0,5,4.5,text+photo (fused),8.0,False
+SEED0090,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HO2vM1daYAATwzk?format=jpg&name=small,claude_reviewed_text,3,2026-04-15,twitter,yes,"10+ footpath encroachments in half Km. No action from BMC despite repeated complaints by residents. Sad state of civic governance. Location: Samarth Ramsas Marg, Juhu Gulmohar Cross 12 through 4.",en,-1.0,3.1,1.0,3,3.06,text+photo (fused),62.0,False
+SEED0091,S,Hiranandani,Hiranandani,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HO2OFtSaEAAHN1Q?format=jpg&name=small,claude_reviewed_text,3,2026-04-13,twitter,yes,Dear mybmc MNC Brookfield covers entire footpath for rebuilding of an existing high quality commercial building into 18 story ugly complex. I called up the officer. No action. On the other side he has occupied even road claiming it's his property as per BMC records. Does it mean that #Hiranandani built this commercial Central Avenue without any footpaths while you were asleep?,en,-1.0,1.5,1.0,3,2.18,text+photo (fused),163.0,False
+SEED0092,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPbjybjaYAAhaA3?format=jpg&name=900x900,claude_reviewed_text,3,2026-04-10,twitter,yes,This is entry point to lane at bldg no 50 and 49 pantnagar opposite to atre maidan gate. Drainage cover broken and Road in damage condition from last 8 days No action by bmc,en,29.0,4.0,3.0,3,3.55,text+photo (fused),2.0,False
+SEED0093,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/RKMANE5/status/2087095006817583262/video/3,claude_reviewed_text,3,2026-04-08,twitter,yes,"Water has accumulated under the bridge near RCF Company on Chunabhatti, Rahul Nagar Road No. 2, and is not draining; please immediately drain the water and implement permanent remedial measures.",en,22.0,,14.0,3,3.0,text-only (claude-reviewed),4.0,False
+SEED0094,,,,Other,Other civic complaint,,yes,https://pbs.twimg.com/media/HPa8wp_bMAAxZUH?format=jpg&name=small,claude_reviewed_text,2,2026-04-07,twitter,yes,These hording are illegal & against the HC & SC order pls remove them asap,en,-1.0,2.3,1.0,2,2.17,text+photo (fused),165.0,False
+SEED0095,K/E,Andheri East,Andheri East,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPbFrr2aYAAwl_C?format=jpg&name=small,claude_reviewed_text,4,2026-04-06,twitter,yes,"When it will get clear from almost more then month is pass I'm following up regarding illegal hakwers encrouchment at marol airport metro station opp Leela business park, Andheri East, it's very dangerous for pedestrian to walk from the footpath why yet no action",en,-1.0,3.0,1.0,4,3.45,text+photo (fused),54.0,False
+SEED0096,,,,Transport and mobility,Transport/mobility complaint,,yes,https://pbs.twimg.com/media/HPbEw0nboAAcR7J?format=jpg&name=small,claude_reviewed_text,3,2026-04-05,twitter,yes,"Banners have been put up on the entire highway from the Western Express Highway Pathanwadi bus stop. With all this rain up there, if they fly off and fall on someone's bike, what then?",en,-1.0,1.5,1.0,3,2.18,text+photo (fused),164.0,False
+SEED0097,,,,Solid Waste Management (SWM),Solid waste management complaint,1.0,yes,https://pbs.twimg.com/media/HPZA9TnaYAAZm1D?format=jpg&name=900x900,claude_reviewed_text,3,2026-04-04,twitter,yes,"Urgent complaint: Garbage is being dumped at Vas Compound, near Nandjyot Industrial Estate, Safed Pul, Mumbai 400072. It is blocking the public path. Reportedly dumped by Sher Bahadur. Please inspect, clear the garbage and take appropriate action urgently.",en,-1.0,1.7,1.0,3,2.29,text+photo (fused),157.0,False
+SEED0098,M/E,Govandi,Govandi,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPZzcrwbkAA-g4N?format=jpg&name=small,claude_reviewed_text,2,2026-04-03,twitter,yes,"Vaibhavlaxmi Developers.  See the encroachment of footpath 
+Chembur Govandi 
+Chembur East Mumbai 400071 ward  no.152",en,-1.0,2.3,1.0,2,2.17,text+photo (fused),166.0,False
+SEED0099,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/Richard82053443/status/2086988528517591241/video/1,claude_reviewed_text,3,2026-04-02,twitter,yes,"Mahalaxmi–Jacob Circle, Mahalaxmi Heights, and Vaishali Bridge/Vaishali Nagar area, there is significant water leakage while the construction of the new bridge is underway. The pipeline may have been damaged due to the construction. Thousands of liters of water are going to waste. Please inspect immediately and stop the leakage.",en,22.0,,14.0,3,3.0,text-only (claude-reviewed),5.0,False
+SEED0100,R/N,Dahisar,Dahisar,Housing and building,Housing/building complaint,,yes,https://pbs.twimg.com/media/HPZ-f2GaUAAhzFB?format=jpg&name=small,claude_reviewed_text,2,2026-04-01,twitter,yes,"This is visual outside my building everyday. Thrash thrown by zero civic sense people staying in illegally occupied land, just opposite Dahisar RTO.",en,-1.0,3.9,1.0,2,3.04,text+photo (fused),63.0,False
+SEED0101,H/E,Santacruz,Santacruz,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPaWBNDa8AA7N9_?format=jpg&name=small,claude_reviewed_text,1,2026-03-31,twitter,yes,"Footpath work updated. Any structure coming up? 
+@mybmc
+ location footpath opposite SVT TOWERS, NEHRU ROAD, VAKOLA, SANTACRUZ EAST.",en,-1.0,3.6,1.0,1,2.43,text+photo (fused),151.0,False
+SEED0102,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPaYkuqasAAVFBK?format=jpg&name=900x900,claude_reviewed_text,2,2026-03-30,twitter,yes,"The footpath outside Antariksha Society on Kakasaheb Gadgil Marg is unusable. On the left there is a local bike mechanic who parks all his bikes on the footpath. On the right, through the night people dump garbage on the footpath.",en,-1.0,3.4,1.0,2,2.77,text+photo (fused),132.0,False
+SEED0103,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPaqEOfakAA6Z_c?format=jpg&name=small,claude_reviewed_text,2,2026-03-29,twitter,yes,"Namaskar,  
+At Nana Chauk Hiralal Compound, below Kennedy Bridge (D ward), garbage has not been collected for many days now.  
+Please collect it at the earliest—this is a request.  
+9892883364 Umesh Damania",en,20.0,3.5,3.0,2,2.83,text+photo (fused),1.0,True
+SEED0104,R/N,Dahisar,Dahisar,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPabVIbbIAAHCyc?format=jpg&name=small,claude_reviewed_text,3,2026-03-28,twitter,yes,"Dear team this is the current situation of the footpath at Mini Nagar Market, Dahisar East, Near Hanuman Mandir-400068. Shpkprs extend the items on the footpath which makes pedestrian to use the road. I request the team to take strict action on this please.",en,25.0,3.0,3.0,3,3.0,text+photo (fused),2.0,False
+SEED0105,P/S,Goregaon West,Goregaon West,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPYDuB4awAESUU6?format=jpg&name=medium,claude_reviewed_text,2,2026-03-27,twitter,yes,Railing stolen. Same footpath. Make entire footpath walkable.  Opposite Ram Mandir Bangur Nagar Goregaon West,en,-1.0,2.8,1.0,2,2.44,text+photo (fused),149.0,False
+SEED0106,,,,Water Supply,Water/sewerage complaint,4.0,yes,https://pbs.twimg.com/media/HPXsk-RbwAACrDI?format=jpg&name=small,claude_reviewed_text,2,2026-03-26,twitter,yes,i request pls resolve this the water leakage,en,-1.0,2.4,1.0,2,2.22,text+photo (fused),161.0,False
+SEED0107,,,,Other,Other civic complaint,,yes,https://pbs.twimg.com/media/HPYEhqHb0AAb7tP?format=jpg&name=small,claude_reviewed_text,2,2026-03-25,twitter,yes,"दुकानचा बाहेर फुटपाट वर टेबल ठेवून फूटपात जाम करून ठेवला आहे या दुकानावर कारवाई होत नाही 
+@mybmc
+ 
+@MumbaiPolice
+ 
+@CPMumbaiPolice
+ खेरवाडी रोड अपोजिट गोमिया मंदिर बांद्रा ईस्ट निर्माण नगर पोलीस स्टेशन",mr,-1.0,2.8,1.0,2,2.44,text+photo (fused),150.0,False
+SEED0108,,,,Other,Other civic complaint,,yes,https://pbs.twimg.com/media/HPX1B1Za4AAUOF0?format=jpg&name=small,claude_reviewed_text,1,2026-03-24,twitter,yes,Still waiting for my priority,en,-1.0,2.7,1.0,1,1.94,text+photo (fused),253.0,False
+SEED0109,R/N,Dahisar,Dahisar,Transport and mobility,Transport/mobility complaint,,yes,https://pbs.twimg.com/media/HPXiCLjbEAAuRhS?format=jpg&name=small,claude_reviewed_text,3,2026-03-22,twitter,yes,"Rajashree Cinema Bus Stop in Dahisar East has been occupied for months. A mentally unstable woman has made it her shelter, causing regular public disruptions, shouting abuses at PM Modi & Hindu deities. Urgent intervention & rehabilitation needed!",en,-1.0,2.9,1.0,3,2.95,text+photo (fused),124.0,False
+SEED0110,T,Mulund,Mulund,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/Grokkagrut/status/2086818228685463777/video/2,claude_reviewed_text,2,2026-03-21,twitter,yes,"its night time 
+
+all rules and policies beocmes dormant .
+
+no place for PEDESTRAIN FIRST 
+
+food safety ignored 
+
+Sarvodaya Nagar , N s Road , Mulund west 400080",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),180.0,False
+SEED0111,,,,Encroachment,Encroachment complaint,,yes,https://pbs.twimg.com/media/HNRwl8cbQAA2NMo?format=jpg&name=large,claude_reviewed_text,2,2026-03-20,twitter,yes,What is the logic of installing fancy street light when those lights not working since install atleast from last 3years it's dead @bmc,en,-1.0,1.6,1.0,2,1.78,text+photo (fused),261.0,False
+SEED0112,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/mamata_baraskar/status/2086803657165770884/video/1,claude_reviewed_text,3,2026-03-19,twitter,yes,"Please install a speed breaker or zebra crossing at the intersection of Gajanan Maharaj Chauk, Kannamwar Nagar 1. Crossing the road is difficult as most buses and construction trucks turn here.",en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),78.0,False
+SEED0113,K/E,Vile Parle,Vile Parle,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPGR98rbcAAcUcQ?format=jpg&name=small,claude_reviewed_text,2,2026-03-18,twitter,yes,"Please do something about this, it's smelling very bad, like garbage, a new road has been completely built like GU  
+
+Address: Bajiprabhu Deshpande Marg, Opposite Vinayak Building, Vile Parle West",en,-1.0,1.8,1.0,2,1.89,text+photo (fused),256.0,False
+SEED0114,,,,Other,Other civic complaint,,yes,https://x.com/KinjalAdhyaru11/status/2086794210905317642/video/2,claude_reviewed_text,1,2026-03-17,twitter,yes,work is going on but with blank Indicator,en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),266.0,False
+SEED0115,F/N,Sion,Sion,Encroachment,Encroachment complaint,,yes,https://pbs.twimg.com/media/HPXIwrpbEAA5hVi?format=jpg&name=900x900,claude_reviewed_text,3,2026-03-16,twitter,yes,"BMC drives against illegal hawkers are a joke. Near Nair hospital, encroachments were removed last week and see they came again today. Ward officials take hufta and do a drama of taking action once in a blue moon & misguide commissioner mam.",en,-1.0,2.3,1.0,3,2.62,text+photo (fused),138.0,False
+SEED0116,E,Mazgaon,Mazgaon,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPWnZYpbgAI7UAA?format=jpg&name=small,claude_reviewed_text,4,2026-03-15,twitter,yes,"Construction site at mazgaon village.
+Behind Bayview-1 building, Ramseth Naik Road, Matharpakadi Road,Mazgaon Mumbai 400010.
+Major threat to the locality with potential breeding ground for mosquitoes high risk for dengue and malaria epidemic.",en,26.0,3.0,6.0,4,3.45,text+photo (fused),5.0,False
+SEED0117,,,,Solid Waste Management (SWM),Solid waste management complaint,1.0,yes,https://pbs.twimg.com/media/HPLCJ3eacAAB3xd?format=jpg&name=small,claude_reviewed_text,4,2026-03-13,twitter,yes,"Insects in dirty water, poor condition of garbage 
+@mybmc
+ please arrange a camp immediately. People will fall sick of dengue, malaria n all.  Thanks for making us suck from your poor planning and servisces 
+@CMOMaharashtra
+ 
+@MoHFW_INDIA
+ please give an award to bmc officials",en,26.0,4.0,6.0,4,4.0,text+photo (fused),1.0,True
+SEED0118,,,,Water Supply,Water/sewerage complaint,4.0,yes,https://x.com/sub_speak/status/2086656602531332407/video/1,claude_reviewed_text,2,2026-03-12,twitter,yes,repairs a storm water drain in my lane. But the entire city needs its SWD system upgraded to prevent flooding.  #upgrade #stormwaterdrains #mumbai,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),181.0,False
+SEED0119,,,,Other,Other civic complaint,,yes,https://x.com/arunotavkar/status/2086718828239896807/video/1,claude_reviewed_text,2,2026-03-11,twitter,yes,"For contributing to keeping Mumbai beautiful and clean, from the public... should they get abuses or good wishes.😡😡😡At least have a little shame. Read the court order. 
+@TawdeRitu
+ 
+@AshwiniBhide
+ 
+@mybmc
+ 
+@CMOMaharashtra
+ 
+@BJP4India",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),182.0,False
+SEED0120,F/N,Sion,Sion,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPWQiNpbAAAeU3n?format=jpg&name=900x900,claude_reviewed_text,2,2026-03-10,twitter,yes,"0 08 2026
+
+Respected Commissioner,
+
+Bmc FN ward
+ward 177
+Lotlikar marg 
+
+Debris on footpath
+Opposite  streetlight poles 
+DBS 6    &    DBS 8
+
+Why debris remains on footpath for days ??
+
+Commissioner ma'am,
+
+Improve your system
+Make your engineers more answerable.
+Thanks.",en,-1.0,2.6,1.0,2,2.33,text+photo (fused),155.0,False
+SEED0121,K/W,Andheri West,Andheri West,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPWRDlubMAAIUix?format=jpg&name=large,claude_reviewed_text,5,2026-03-09,twitter,yes,"This pole can fall at anytime 
+@mybmc
+ look into it immediately 
+
+Oberoi Chambers off Link Road Andheri West",en,-1.0,3.0,1.0,5,3.9,text+photo (fused),43.0,False
+SEED0122,L,Kurla,Kurla,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPWeEoSbsAAjmNu?format=jpg&name=small,claude_reviewed_text,3,2026-03-08,twitter,yes,Illegal encroachments @ Entrance of Moreshwar patankar marg pipe road kurla west Mumbai 70. God knows why the ward L is protecting this encroachment what is there interest why no action taken . Where is pedestrian 1st in kurla,en,-1.0,3.0,1.0,3,3.0,text+photo (fused),79.0,False
+SEED0123,S,Bhandup,Bhandup,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPVYQhTa0AEKYTh?format=jpg&name=small,claude_reviewed_text,2,2026-03-07,twitter,yes,"Please fill in this pot hole. Location: opp. Garden Heights building, Crompton Greaves BEST bus stop, Veer Savarkar Marg, Datar Colony Bhandup East",en,-1.0,3.8,1.0,2,2.99,text+photo (fused),120.0,False
+SEED0124,P/N,Goregaon East,Goregaon East,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPVUIrXa8AATDzK?format=jpg&name=small,claude_reviewed_text,3,2026-03-04,twitter,yes,There is a recurring problem of drain overflow at Aarey Check Naka Goregaon East. Needs to be addressed on priority as its making walking on the road very difficult. Its also a health concern,en,22.0,3.6,14.0,3,3.33,text+photo (fused),3.0,False
+SEED0125,,,,Other,Other civic complaint,,yes,https://pbs.twimg.com/media/HPVFZgjbMAAG56r?format=jpg&name=900x900,claude_reviewed_text,2,2026-03-03,twitter,yes,"फुटपाथ की सफाई करके निकाला गया सूखा कचरा पिछले 3 दिनों से वहीं पड़ा है। यह गटर या नाली का कचरा नहीं है, बल्कि ड्राई वेस्ट है, जिसे सफाई के बाद उठाया नहीं गया।",mr,-1.0,3.4,1.0,2,2.77,text+photo (fused),133.0,False
+SEED0126,,,,Encroachment,Encroachment complaint,,yes,https://x.com/SagarJa98240290/status/2086515417229746495/video/1,claude_reviewed_text,3,2026-03-02,twitter,yes,"In my department, there's a New Asra Hotel. The owner of that hotel has encroached upon the area. The pathway that people use to come and go has been occupied. The designated space for that has been doubled by constructing outside.  
+Moreover, there's a BMC godown on its side, yet no action is being taken.",en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),80.0,False
+SEED0127,,,,Other,Other civic complaint,,yes,https://x.com/MangeshBandsode/status/2086478210422956165/video/1,claude_reviewed_text,2,2026-03-01,twitter,yes,विक्रोळी कन्नमवार  सकल चा बाहेरचा रस्त बिल्डिंग नंबर 233 काका मार्बल च्य बाजुचा हा रस्त आहै,mr,31.0,,27.0,2,2.0,text-only (claude-reviewed),19.0,False
+SEED0128,H/E,Santacruz,Santacruz,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPSfpHFaEAAbovL?format=jpg&name=900x900,claude_reviewed_text,2,2026-02-28,twitter,yes,garbage kept outside municipal garden on Dadabhai cr Road Santacruz West for last 2 3 days.,en,-1.0,3.7,1.0,2,2.94,text+photo (fused),126.0,False
+SEED0129,L,Kurla,Kurla,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/badshahsohail47/status/2086466886213226811/video/1,claude_reviewed_text,3,2026-02-27,twitter,yes,"Excessive smoke from a nearby hotel is spreading onto the public road, causing serious inconvenience to pedestrians and nearby residents. Kindly inspect the premises and take necessary action to stop this public nuisance.
+Pipe road kurla west Mumbai 400070.",en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),81.0,False
+SEED0130,,,,Encroachment,Encroachment complaint,,yes,https://pbs.twimg.com/media/HPSYqH7aEAAD4Su?format=jpg&name=small,claude_reviewed_text,5,2026-02-24,twitter,yes,"Today, an accident occurred due to illegal parking and unauthorized hawkers!
+Despite repeated complaints, no action is taken by BMC and MTP—this negligence is now costing citizens their lives
+Take immediate action against illegal parking and hawkers. Do not endanger the public’s lives!",en,-1.0,3.8,1.0,5,4.34,text+photo (fused),10.0,False
+SEED0131,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/ShreyNaik1987/status/2086455016202858878/video/2,claude_reviewed_text,4,2026-02-22,twitter,yes,"this place is bmc playground under korakendra bridge. This is everyday nuisance, drunk people are danger to little children playing here. Before this I had caught one person urinating near one pillar and today caught people drinking.",en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),21.0,False
+SEED0132,H/W,Bandra West,Bandra West,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPRxvRmbsAA5GSn?format=jpg&name=small,claude_reviewed_text,3,2026-02-21,twitter,yes,"drinking water goes waste almost every night after 10pm.
+Pl fix as soon as possible
+
+Add: Outside Hill slope building, Zig Zag Road, off Pali hill, Bandra West",en,-1.0,2.0,1.0,3,2.45,text+photo (fused),146.0,False
+SEED0133,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/ext_tw_video_thumb/2065400932821852160/pu/img/EnP5qt8XF0HQnGZP?format=jpg&name=small,claude_reviewed_text,2,2026-02-19,twitter,yes,"Are there potholes in the road or is the road in the potholes? This is the question everyone traveling on the Delhi-Mumbai Expressway is asking today. Built at a cost of approximately ₹1 lakh crore, this expressway is now being discussed by many as the ""Pothole Expressway.""",en,-1.0,1.8,1.0,2,1.89,text+photo (fused),257.0,False
+SEED0134,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/GzAVoGWXkAAaEbX?format=jpg&name=360x360,claude_reviewed_text,2,2026-02-18,twitter,yes,"CM Devendra Fadnavis has directed BMC to repair potholes across Mumbai before Ganeshotsav, ensuring smoother travel for citizens amid rising complaints and damaged road conditions.",en,-1.0,1.9,1.0,2,1.94,text+photo (fused),254.0,False
+SEED0135,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/Gy9h0fZWQAIS0rl?format=jpg&name=small,claude_reviewed_text,2,2026-02-17,twitter,yes,"Maharashtra BJP leaders have assured that Mumbai’s roads will be made pothole-free before the Ganesh festival, beginning on August 27, 2025.",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),183.0,False
+SEED0136,F/N,Matunga,Matunga,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/GyzIPSFWgAAbIAt?format=jpg&name=small,claude_reviewed_text,3,2026-02-16,twitter,yes,"Several potholes were spotted across Mumbai on Wednesday, including Matunga and Dadar East near Hindmata flyover, causing traffic delays and raising safety concerns. Residents fear accidents as large craters disrupt daily commutes. To address complaints, the BMC launched the Pothole Quickfix app in June, allowing citizens to report potholes in just a few clicks.",en,21.0,4.5,4.0,3,3.83,text+photo (fused),3.0,False
+SEED0137,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/ext_tw_video_thumb/1954574716699557888/pu/img/0u5Ibx-4YA-kFHRc?format=jpg&name=small,claude_reviewed_text,5,2026-02-14,twitter,yes,"A massive pothole led to an accident at CST Road Kalina, leading to serious injuries in the leg and back for two young men working as delivery boys. The pothole which is near Bharti workshop, has been a major cause of concern for residents who have been complaining about it for quite some time.",en,21.0,,4.0,5,5.0,text-only (claude-reviewed),1.0,True
+SEED0138,F/N,Sion,Sion,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/GtAlIQ0aQAAVB4W?format=jpg&name=small,claude_reviewed_text,2,2026-02-13,twitter,yes,"BMC's announcement today on potholes in Mumbai. BMC commissioner has asked engineers from all wards to go on-ground on two wheeler every two days, identify potholes and fix it. Potholes to be filled in SQUARE SHAPE! More details about the announcement below:",en,21.0,3.8,4.0,2,2.99,text+photo (fused),4.0,False
+SEED0139,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/GSmX7maWwAAhjxE?format=jpg&name=small,claude_reviewed_text,4,2026-02-12,twitter,yes,"“These potholes are causing traffic jams and widespread chaos, as well as endangering the lives and property of citizens, which directly violates their fundamental rights guaranteed under Article 21 of the Indian Constitution,” said Karnani. “The contractors responsible for the roads with these potholes must be held accountable. It is imperative to verify whether the defect liability period is still in effect and to initiate criminal action accordingly.”",en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),22.0,False
+SEED0140,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/ItsAamAadmi/status/1813169914141614246/video/1,claude_reviewed_text,4,2026-02-11,twitter,yes,"This is Ulhasnagar Municipal Corporation important bridge which is repaired 3 times every year still condition is bad. Please see this,Here life is in danger.",en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),23.0,False
+SEED0141,,,,Other,Other civic complaint,,yes,https://pbs.twimg.com/media/G9uKec9WwAAYaRc?format=jpg&name=small,claude_reviewed_text,1,2026-02-10,twitter,yes,"You see, many of these crop of APC politicians have nothing to offer the people. They are selfish, wicked, and only interested in impoverishing the people so that they can keep them subdued. Read on please!",en,-1.0,2.7,1.0,1,1.94,text+photo (fused),255.0,False
+SEED0142,,,,Solid Waste Management (SWM),Solid waste management complaint,1.0,yes,https://pbs.twimg.com/media/FrKUjZLWAAE9kf5?format=jpg&name=small,claude_reviewed_text,3,2026-02-09,twitter,yes,Team @mybmc @mybmcWardHE The complaint is still pending from your end & is still to be cleared!Have found out that only 1 truck is sent every 2 months to clear the clutters of Qabarastan!Y can't u send Garbage Collecting trucks or tempos on daily basis?,en,-1.0,2.8,1.0,3,2.89,text+photo (fused),129.0,False
+SEED0143,,,,Solid Waste Management (SWM),Solid waste management complaint,1.0,yes,https://pbs.twimg.com/media/HPWWcABa0AAYgwU?format=png&name=small,claude_reviewed_text,1,2026-02-08,twitter,yes,"With reference to the abovementioned post, it is submitted that the garbage/waste has been cleared from the concerned site (pictures enclosed). However, the park falls under the jurisdiciton of DUSIB and all sanitation and maintenance work carried out by DUSIB only. The complaint stands resolved.",en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),267.0,False
+SEED0144,A,Fort,Fort,Solid Waste Management (SWM),Solid waste management complaint,1.0,yes,https://pbs.twimg.com/media/HPToJxxb0AAFz_D?format=jpg&name=small,claude_reviewed_text,1,2026-02-07,twitter,yes,"A heartfelt thank you to the BMC SWM team and Ward KW for promptly attending to my complaint regarding the garbage issue at Gaon Devi Dongar, Andheri West. Your quick action has helped make the area cleaner and greener. I truly appreciate the efforts of the concerned officials",en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),268.0,False
+SEED0145,,,,Solid Waste Management (SWM),Solid waste management complaint,1.0,yes,https://x.com/Deeksha20926327/status/2086183045498061110/video/1,claude_reviewed_text,3,2026-02-06,twitter,yes,It's Day 5 of me posting the same story again and again because apparently municipality of Bengaluru doesn't even care to pickup the garbage .The streets are so dirty that you cannot even walk on it. I filed the complaint in your WhatsApp,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),82.0,False
+SEED0146,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPa12Jqa4AAwVGX?format=jpg&name=small,claude_reviewed_text,3,2026-02-05,twitter,yes,"Sirs, When will Hagaduru Main Road on Whitefield main road - heart of IT capital - get Moksha from this please? It is a garbage dump and public urinal in open vacant lands",en,-1.0,3.4,1.0,3,3.22,text+photo (fused),58.0,False
+SEED0148,,,,Solid Waste Management (SWM),Solid waste management complaint,1.0,yes,https://x.com/tribunephl/status/2086711243729928445/video/1,claude_reviewed_text,3,2026-02-02,twitter,yes,"A sea of #garbage blankets a portion of the Manila Bay reclaimed area in front of #Baclaran Church on Monday, 10 August 2026, following days of heavy rains brought by the enhanced southwest monsoon, or habagat. | Zedrich Xylak Madrid",en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),83.0,False
+SEED0149,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPSs72Ga4AAYHGQ?format=jpg&name=small,claude_reviewed_text,2,2026-02-01,twitter,yes,"Look at this sad reality in #Hyderabad Old Bowenpally, Dairy Farm Road. #garbage is thrown all over #trees No department is taking initiative to keep this area clean.",en,-1.0,3.6,1.0,2,2.88,text+photo (fused),130.0,False
+SEED0150,,,,Solid Waste Management (SWM),Solid waste management complaint,1.0,yes,https://pbs.twimg.com/media/HPNInAGb0AA2cMg?format=jpg&name=360x360,claude_reviewed_text,3,2026-01-30,twitter,yes,This is the state of garbage management in Friend’s colony Rampur. Garbage has been piling up and the area is becoming unhygienic. Requesting @npprampur to please look into this and arrange proper garbage collection and cleaning.,en,26.0,3.5,6.0,3,3.28,text+photo (fused),6.0,False
+SEED0151,F/N,Sion,Sion,Solid Waste Management (SWM),Solid waste management complaint,1.0,yes,https://x.com/RVKRao2/status/2087154962182918626/video/1,claude_reviewed_text,2,2026-01-29,twitter,yes,Heaps of garbange dumped by residents near Hindu graveyard (Devunikunta) on the way from #Vijayanagarcolony to Mehidipatnam. This is a daily nuisance. #GHMC has to keep an eye. @GHMCOnline @se_ghmc @CommissionrGHMC,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),184.0,False
+SEED0152,,,,Solid Waste Management (SWM),Solid waste management complaint,1.0,yes,https://pbs.twimg.com/media/HOYct2Da8AAGij-?format=jpg&name=small,claude_reviewed_text,1,2026-01-28,twitter,yes,Implementation is the problem than resources for waste management system. Initially government needs funds from government. But once waste management system will begin to work. Waste will give you money as revenue not just but will be huge money for this important initiative,en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),269.0,False
+SEED0153,,,,Solid Waste Management (SWM),Solid waste management complaint,1.0,yes,https://x.com/Loyiso_Masuku/status/2087163487017398287/video/1,claude_reviewed_text,2,2026-01-27,twitter,yes,"Waste collection is an essential service, and our residents deserve a clean city and healthy environment. As we work to restore waste collection services across Johannesburg, we appeal to all casual workers to allow Pikitup employees to continue serving our communities while",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),185.0,False
+SEED0154,,,,Solid Waste Management (SWM),Solid waste management complaint,1.0,yes,https://pbs.twimg.com/media/HPcKH32b0AAtrE_?format=jpg&name=small,claude_reviewed_text,3,2026-01-26,twitter,yes,"The banks of Kaushika River near Thalaivar Narayanaswamy Memorial, Vaiyampalayam (Kavundampalayam Constituency) have become an open dumping ground. Waste is being dumped here every day with no proper management.",en,-1.0,3.0,1.0,3,3.0,text+photo (fused),84.0,False
+SEED0155,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/card_img/2085955869725048832/WwOhcS7f?format=jpg&name=900x900,claude_reviewed_text,2,2026-01-24,twitter,yes,Open #garbage dumps on roads emerge as stray dog hotspots in #Srinagar,en,6.0,,3.0,2,2.0,text-only (claude-reviewed),3.0,False
+SEED0156,,,,Solid Waste Management (SWM),Solid waste management complaint,1.0,yes,https://pbs.twimg.com/media/HPKwflBaEAAL196?format=jpg&name=900x900,claude_reviewed_text,2,2026-01-23,twitter,yes,23 wards of Gajendragad produce 11 tons of waste daily; no priority given to cleanliness,en,-1.0,4.2,1.0,2,3.21,text+photo (fused),59.0,False
+SEED0157,L,Kurla,Kurla,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPVjehcbYAEHAwV?format=jpg&name=small,claude_reviewed_text,3,2026-01-21,twitter,yes,"Repeated complaints, but no action! Garbage is spilling onto the road beside the public toilet in Kurla West, affecting pedestrians. No dustbin installed. Please clean it urgently @mybmc",en,-1.0,4.0,1.0,3,3.55,text+photo (fused),50.0,False
+SEED0158,N,Ghatkopar,Ghatkopar,Solid Waste Management (SWM),Solid waste management complaint,1.0,yes,https://pbs.twimg.com/media/HPTBQV4bUAAe9Vx?format=jpg&name=small,claude_reviewed_text,4,2026-01-20,twitter,yes,"This is a residential area, NOT a garbage dump! Over 1,000+ peoples here in Chirag Nagar, Ghatkopar (w) ​Residents and School childrena are falling severely ill and getting hospitalized.",en,-1.0,4.8,1.0,4,4.44,text+photo (fused),9.0,False
+SEED0159,,,,Solid Waste Management (SWM),Solid waste management complaint,1.0,yes,https://pbs.twimg.com/media/HPWO_0ObwAA67yh?format=jpg&name=small,claude_reviewed_text,1,2026-01-19,twitter,yes,"Drainage cleaning activity in full swing at Ward-28, Nayapatty! Clearing blockages and ensuring smooth wastewater flow to maintain hygiene and prevent waterlogging in the area.",en,22.0,,14.0,1,1.0,text-only (claude-reviewed),7.0,False
+SEED0160,,,,Water Supply,Water/sewerage complaint,4.0,yes,https://pbs.twimg.com/amplify_video_thumb/2087073897745408001/img/ihn5Sk65oUs8VCXP?format=jpg&name=small,claude_reviewed_text,3,2026-01-18,twitter,yes,You can see for yourself how effectively BMC has carried out the drainage and cleaning work. The reality becomes clear within just two minutes of rain. Even a short spell of rainfall is enough to show the poor condition of the drainage system cleaning and maintenance.,en,-1.0,3.5,1.0,3,3.28,text+photo (fused),56.0,False
+SEED0161,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPbB7YqbUAAo5ba?format=jpg&name=small,claude_reviewed_text,4,2026-01-17,twitter,yes,"This is Ashoka Enclave Main, Sector 34, Faridabad, near More Market. The road is severely waterlogged with stagnant sewage-like water, garbage and sludge, making movement unsafe. Please arrange immediate drainage, cleaning and road repair.",en,-1.0,3.5,1.0,4,3.73,text+photo (fused),44.0,False
+SEED0162,,,,Solid Waste Management (SWM),Solid waste management complaint,1.0,yes,https://pbs.twimg.com/media/HPWB53kaEAAF926?format=jpg&name=small,claude_reviewed_text,4,2026-01-16,twitter,yes,"URGENT: Delhi Jal Board, please take immediate action! The sewer/drain has been completely clogged for the last 5 days, causing wastewater to overflow and enter nearby homes. Residents are facing serious problems, and the situation is getting worse every day.",en,22.0,2.8,14.0,4,3.34,text+photo (fused),2.0,False
+SEED0163,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPWPTaBagAAJX7w?format=jpg&name=small,claude_reviewed_text,1,2026-01-15,twitter,yes,Intensive gully pit and carp channel cleaning work underway along the Vidyut Bhavan Road near 16 No. Tank! Ensuring unhindered water flow and maintaining robust drainage maintenance across the area.,en,22.0,,14.0,1,1.0,text-only (claude-reviewed),8.0,False
+SEED0164,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPWbV98agAALj6L?format=jpg&name=360x360,claude_reviewed_text,4,2026-01-14,twitter,yes,"Nalasopara East needs urgent civic attention. The roads around The Capital Mall & Yashwant Viva Township are in terrible condition — open/poorly maintained drainage, mud-filled stretches and severe waterlogging.",en,-1.0,3.2,1.0,4,3.56,text+photo (fused),49.0,False
+SEED0165,,,,Water Supply,Water/sewerage complaint,4.0,yes,https://pbs.twimg.com/media/HPHiR62aQAAJI0o?format=jpg&name=small,claude_reviewed_text,1,2026-01-13,twitter,yes,"Intensive drainage line cleaning work underway from North P.S. to Telephone Bhavan Island! Ensuring smooth water flow, preventing blockages, and maintaining clean civic infrastructure across the area.",en,22.0,,14.0,1,1.0,text-only (claude-reviewed),9.0,False
+SEED0166,,,,Water Supply,Water/sewerage complaint,4.0,yes,https://pbs.twimg.com/media/HO8_6FHa0AAllr_?format=jpg&name=small,claude_reviewed_text,1,2026-01-12,twitter,yes,"Thorough drainage line cleaning work in full swing at DD Block using advanced jetting machines! Keeping our city’s drainage systems clear and efficient for a cleaner, healthier environment.",en,22.0,,14.0,1,1.0,text-only (claude-reviewed),10.0,False
+SEED0167,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPcEDqDacAAQAXI?format=jpg&name=small,claude_reviewed_text,1,2026-01-11,twitter,yes,"Drain cleaning and cleanliness work has been successfully completed by Silchar Municipal Corporation at Ward No. 19, Azad Hind Road (West), Ward No. 25, Arobinda Lane, and Ward No. 26, Rukmini Lane.",en,22.0,,14.0,1,1.0,text-only (claude-reviewed),11.0,False
+SEED0168,,,,Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/card_img/2087071453917085696/vtfnU4o1?format=jpg&name=small,claude_reviewed_text,3,2026-01-10,twitter,yes,"The roadside drainage is clogged with debris and waste, posing a sanitation risk. Requesting immediate cleaning and maintenance to prevent blockages.",en,22.0,,14.0,3,3.0,text-only (claude-reviewed),6.0,False
+SEED0169,,,,Water Supply,Water/sewerage complaint,4.0,yes,https://pbs.twimg.com/media/HPHhXMebIAAy8Gk?format=jpg&name=small,claude_reviewed_text,1,2026-01-09,twitter,yes,"Intensive gully pit cleaning work underway at BG-97! Ensuring clear drainage channels, preventing waterlogging, and maintaining smooth rainwater flow for the neighborhood.",en,22.0,,14.0,1,1.0,text-only (claude-reviewed),12.0,False
+SEED0170,,,,Water Supply,Water/sewerage complaint,4.0,yes,https://pbs.twimg.com/media/HPLKSV2bAAAtnk_?format=jpg&name=small,claude_reviewed_text,4,2026-01-08,twitter,yes,"Drain water is blocked and stagnant in our area, causing severe waterlogging and a foul smell. This is creating serious inconvenience for residents and may pose health risks. Please arrange immediate drain cleaning and proper drainage. Kindly take urgent action.",en,22.0,3.7,14.0,4,3.83,text+photo (fused),1.0,True
+SEED0172,,,,Public safety,Public safety complaint,,no,,claude_reviewed_text,5,2026-01-06,twitter,yes,"causing serious injuries or even loss of life. I earnestly request the concerned Electricity Department,Tata Power-DDL,MCD & the District Administration to take immediate action by:Repairing the electrical fault & securing the hanging wires...",en,-1.0,,1.0,5,5.0,text-only (claude-reviewed),3.0,False
+SEED0173,,,,Water Supply,Water/sewerage complaint,4.0,no,,claude_reviewed_text,1,2026-01-05,twitter,yes,"Drain cleaning work actively underway at Samarpally (Ward 25)! Ensuring smooth flow and preventing waterlogging for a cleaner, safer neighborhood.",en,22.0,,14.0,1,1.0,text-only (claude-reviewed),13.0,False
+SEED0174,,,,Water Supply,Water/sewerage complaint,4.0,no,,claude_reviewed_text,1,2026-01-04,twitter,yes,"No no you didn't get the message right the cleaning of septic tank,all the drainage is being done by them ,why? If all the people are making mess then all are responsible to cleanse the same not a specific community i.e scs or sts",en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),270.0,False
+SEED0175,,,,Water Supply,Water/sewerage complaint,4.0,no,,claude_reviewed_text,1,2026-01-03,twitter,yes,"Drain cleaning and silt removal activities are being carried out across Gram Panchayats in Nabarangpur District to ensure smooth drainage, prevent waterlogging, and promote a cleaner, healthier environment.",en,22.0,,14.0,1,1.0,text-only (claude-reviewed),14.0,False
+SEED0176,,rathod marve road,malad west,Roads,increase in mosquito,,yes,https://pbs.twimg.com/media/HPLds3FbIAAWS9o?format=jpg&name=large,claude_reviewed_text,2,,twitter,yes,garbage overflow,en,-1.0,2.6,1.0,2,2.33,text+photo (fused),156.0,False
+SEED0177,,key flyover in Ambernath,Ambernath,Roads,Bad Patches/Potholes on the Roads,,yes,https://x.com/Hindfirstnews/status/2085746536877892072/video/1,claude_reviewed_text,2,,twitter,yes,potholes on a key flyover in Ambernath,mr-en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),186.0,False
+SEED0178,,new Manjrekar Wadi Road,connector between N.S. Phadke Marg and Andheri–Kurla Road,Roads,Bad Patches/Potholes on the Roads,,yes,https://x.com/MurjiPatel_/status/2074028403318043025/video/1,claude_reviewed_text,2,,twitter,yes,potholes on road,en,19.0,,5.0,2,2.0,text-only (claude-reviewed),4.0,False
+SEED0179,,"Near MG Road, Shri Hari Mandir Marg",goregaon,Roads,Roads/footpath civic complaint,,yes,https://x.com/MNCDFbombay/status/2085977451809906800/video/1,claude_reviewed_text,2,,twitter,yes,"contractors missed building footpath, specially outside private bungalows / houses",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),187.0,False
+SEED0180,k,Devi Dongri Durgamata Road,Andheri,Roads,,,yes,https://pbs.twimg.com/media/HMdHOf2akAAXv7J?format=jpg&name=900x900,claude_reviewed_text,2,,twitter,yes,Potholes Left Unrepaired,en,-1.0,3.2,1.0,2,2.66,text+photo (fused),136.0,False
+SEED0181,,mumbai-pune road,mumbai-pune,Roads,,,yes',https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw8657MiZpas35cNGkRGuMApH3Q8MAPR840pSKeSlvFg&s=10,claude_reviewed_text,2,,on-news,yes,potholes on highway road,en,19.0,,5.0,2,2.0,text-only (claude-reviewed),5.0,False
+SEED0182,,wagle road,thane,Roads,,,yes,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQVy4kFtQ55rYLaveK_8NnL4JGo3dnZa-1O44Xs0s1wQ&s=10,claude_reviewed_text,2,,on-news,yes,potholes on city road,en,19.0,4.5,5.0,2,3.38,text+photo (fused),3.0,False
+SEED0183,,nitin company-road,thane,Roads,,,yes,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4SXfQv_QMmP9PndIXv20k8FfyPDBnPbkYy4qXBCceYg&s=10,claude_reviewed_text,2,,on-news,yes,potholes on street roads,en,19.0,4.7,5.0,2,3.49,text+photo (fused),1.0,True
+SEED0184,,lbs road,sion,Roads,,,yes,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4SXfQv_QMmP9PndIXv20k8FfyPDBnPbkYy4qXBCceYg&s=10,claude_reviewed_text,2,,on-news,yes,potholes on roads,en,19.0,4.7,5.0,2,3.49,text+photo (fused),2.0,False
+SEED0185,R/N,Dahisar East,"Dahisar Toll Plaza, near Pandurang Wadi Metro Station",Roads,Repairs/re-surfacing of roads/footpaths,7.0,yes,https://pbs.twimg.com/media/HPSOPBVaEAAWiEu?format=jpg&name=small,claude_reviewed_text,4,2026-04-04,twitter,yes,"Important @mybmc
+
+Road at Dahisar Toll plaza, north bound, near Pandurang Wadi metro station, is in terrible shape.
+
+Do not blame MSRDC or NHAI, this road was under your jurisdiction until last year.
+
+NHAI HAS FINISHED white topping on their section.
+
+Fix before any accidents",en,28.0,4.8,3.0,4,4.44,text+photo (fused),1.0,True
+SEED0186,S,Powai / Vikhroli,"Jogeshwari-Vikhroli Link Road, near IIT Main Gate",Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/R_KAMBLE_INDIA/status/2086690368184373681/video/1,claude_reviewed_text,5,2026-04-04,twitter,yes,जोगेश्वरी विक्रोळी लिंक रोडवर पवईकडून गांधीनगर मार्ग कडे जाणाऱ्य ा आय आय टी मेनगेट येथ े राडारोडा पडला आहे. गाड्यांच े अपघात होत आहेत तात्काळ कारवाई अपेक्षित.,mr-en,-1.0,,1.0,5,5.0,text-only (claude-reviewed),4.0,False
+SEED0187,F/N,Matunga,"Tilak Road Extension, opposite Ambedkar College, near BEST Depot",Encroachment,Encroachment complaint,,yes,https://pbs.twimg.com/media/HPNbjP8bcAAhMyq?format=jpg&name=small,claude_reviewed_text,2,2026-04-04,twitter,yes,"PedestrianFirst
+
+Really @mybmc @mybmcwardFN?
+
+Wonder who allows that...
+
+Give them a Inch & they will just grab a Mile
+
+Outside BEST Depot, opposite Ambedkar College, Tilak Road Extn",en,-1.0,3.0,1.0,2,2.55,text+photo (fused),142.0,False
+SEED0188,K/W,Jogeshwari West,"Internal road, Jogeshwari MTNL to Amboli Police Station (Ward 62)",Roads,Roads/footpath civic complaint,7.0,yes,https://x.com/Sarfira202/status/2086709965675491328/video/1,claude_reviewed_text,4,2026-04-04,twitter,yes,"🚨 Urgent Road Safety Concern – Jogeshwari West
+Gaurav Chaurasiya has reported the urgent need for speed breakers on the internal road from Jogeshwari MTNL towards Amboli Police Station.
+The road has regular movement of vehicles and children, with schools nearby. Accidents and near-miss incidents are a serious concern.
+Requesting 
+@mybmc
+ 
+@mybmcWardKW
+ to inspect the road and install proper speed breakers/signage urgently. Please act before a serious accident occurs. 
+K/West – Ward 62. Video attached for reference.
+@discoveryofmaha
+ 
+@MohnaazS
+ 
+@TV9Marathi
+ 
+@weworkngo",en,30.0,,4.0,4,4.0,text-only (claude-reviewed),2.0,False
+SEED0189,R/C,Borivali East,"Below Magathane Flyover, near Magathane Signal, WEH",Roads,Repairs/re-surfacing of roads/footpaths,7.0,yes,https://pbs.twimg.com/media/HPSc9cnaUAA_4RK?format=jpg&name=small,claude_reviewed_text,4,2026-04-03,twitter,yes,"Look at this dangerous spot in Mumbai’s Magathane.
+
+This is particularly dangerous for two wheelers and needs to be fixed on priority. 
+@mybmc
+ 
+@mybmcInfra
+
+
+Please implement a permanent solution, not another round of patchwork that will fail again.
+
+📍 Below Magathane Flyover, near Magathane Signal, Western Express Highway, Borivali East.",en,-1.0,3.4,1.0,4,3.67,text+photo (fused),45.0,False
+SEED0190,,Mumbai (city-wide),General footpath safety (no specific location),Other,Other civic complaint,,yes,https://x.com/full_boyle_/status/2024333660653302270/video/1,claude_reviewed_text,2,2026-04-03,twitter,yes,"The Supreme Court of India declared the right to walk safely on footpaths a fundamental right under Article 21 and Article 19(1)(d) of the Constitution.
+@mybmc
+ 
+@MumbaiPolice
+ Are you guys going to take any action?",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),188.0,False
+SEED0191,A,Fort,Footpath outside BMC Headquarters,Roads,Repairs/re-surfacing of roads/footpaths,7.0,yes,https://x.com/urdujournosaeed/status/2085322914165821748/video/1,claude_reviewed_text,2,2026-03-22,twitter,yes,"This is really pathetic infra..
+
+The condition of the Footpath beside 
+@mybmc
+ headquarters..
+
+No one will believe #BMC is the richest Municipal Corporation in India  & probably Asia too.",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),189.0,False
+SEED0192,K/W,Andheri West,"Fidai Baug Road, Gaon Devi Dongar",Roads,Roads/footpath civic complaint,7.0,yes,https://x.com/sohailshk22/status/2086543796800831988/video/1,claude_reviewed_text,4,2026-03-22,twitter,yes,"🚨 Road Safety Issue – Fidai Baug Road, Andheri West (Gaon Devi Dongar)
+
+The road is covered with dirt and mud, making it extremely slippery and dangerous for two-wheelers. 🛵⚠️ Several bikers are reportedly falling while passing through this stretch.
+
+Requesting the concerned 
+@mybmcwardKW
+ 
+@mybmc
+ authorities to kindly inspect the area and clean the mud and dirt immediately to prevent accidents and ensure the safety of residents and daily commuters. 
+@mieknathshinde
+ 
+@CMOMaharashtra
+ 
+@TawdeRitu
+ 
+@MohsinHaider68
+ 
+@SufiyanMHaider
+ 
+@AndheriLOCA",en,30.0,,4.0,4,4.0,text-only (claude-reviewed),3.0,False
+SEED0193,A,Nariman Point,Jamnalal Bajaj Marg / Vidhan Bhavan Marg / J Tata Marg,Encroachment,Encroachment complaint,,yes,https://pbs.twimg.com/media/HPL9M-UacAA5KBb?format=jpg&name=small;,claude_reviewed_text,2,2026-03-22,twitter,yes,"#IllegalHawkers First
+
+@mybmc
+ 
+@mybmcwardA
+
+
+Nariman Point, Jamnalal Bajaj Marg, Vidhan Bhavan Marg, J Tata Marg, Mumbai-20",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),190.0,False
+SEED0194,K/W,Andheri West (K South division),"Local residential area, Andheri West",Environment,Environment complaint,,yes,https://pbs.twimg.com/media/HPXToNXbUAAiCL3?format=jpg&name=360x360;,claude_reviewed_text,4,2026-04-04,twitter,yes,"@mybmcWardKE
+ 
+@mybmc
+ 
+@mayor_mumbai
+ 
+@CMOMaharashtra
+  
+वडाचे झाड पूर्णपणे घरात दिवाळ तोडून शिरत आहे कृपया वारंवार सांगून सुद्धा, किशोर चव्हाण जे गार्डन खाते चे अधिकारी आहेत पाहणी करून सुद्धा दुर्लक्ष करत आहेत, मोठी घटना होण्याची वाट पहात आहेत का ??
+ के दक्षिण विभाग",mr-en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),24.0,False
+SEED0195,K/W,Andheri West,"SV Road, outside Andheri Station Depot (Gokhale Bridge to Andheri Subway)",Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HOyg9GxacAA6YG7?format=jpg&name=small,claude_reviewed_text,3,2026-04-03,twitter,yes,"This patch of SV road is in a terrible shape.
+
+The valve covers are not leveled with roads and BMC has been layering tar on tar, creating humps and potholes at the same time.
+
+SV road, outside Andheri station depot, Andheri West, Mumbai. 
+
+@mybmc
+ entire SV road from Gokhale Bridge to Andheri subway has this problem.
+
+Bring in a permanent solution. This is unacceptable work.",en,-1.0,4.2,1.0,3,3.66,text+photo (fused),47.0,False
+SEED0196,G/N,Matunga West,"Manmala Tank Road, near Shiv Palace",Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPAwCBObgAANWVl?format=jpg&name=small,claude_reviewed_text,3,2026-04-03,twitter,yes,"Huge shoutout to 
+@mybmc
+ 
+@mybmcinfra
+ 
+@mybmcWardGN
+ for building a ""biodegradable"" speedbreaker! 
+
+Barely 3 months old and it has almost successfully dissolved back into nature as a pile of gravel and potholes. 
+
+And why paint lines when you can let commuters guess where the road ends? 🪄🚗
+
+📌Manmala Tank Road, Nr Shiv Palace, Matunga W.
+
+BTW No Pedestrian First complaint here..",en,30.0,3.2,4.0,3,3.11,text+photo (fused),4.0,False
+SEED0197,H/W,Khar West,Dr. Ambedkar Road & Khar Pali Road junction (opp. Amber Croft CHS),Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HPGWsaPbEAAc8Y4?format=jpg&name=small; ,claude_reviewed_text,5,2026-04-03,twitter,yes,"It's ironic 
+@mybmc
+ claims ₹100cr is allocated for potholes—implicitly admitting thousands of crores spent on concretisation was futile. What about the loss of lives?
+Please fill this life-threatening potholes located at
+ Dr. Ambedkar & Khar Pali Rd junction (Opp Amber Croft CHS, Khar W). 
+
+Please treat the above as a warning NOTICE U/S 80 OF CPC TO SUE BMC FOR COMPENSATION.
+
+IN ADDITION THERETO, 
+
+The 
+@mybmc
+ officers will he solely responsible in the event of any loss or injury to human life or damage to property. 
+
+MNCDF will launch criminal prosecution against officials for Dereliction of duty if the above potholes are not fixed in 24hrs.",en,-1.0,,1.0,5,5.0,text-only (claude-reviewed),5.0,False
+SEED0198,M/E,Govandi / Mankhurd,"FOB staircase, Ghatkopar-Mankhurd Link Road, near Grit Heights",Roads,Repairs/re-surfacing of roads/footpaths,7.0,yes,https://pbs.twimg.com/media/HPNUzlha8AA-MQO?format=jpg&name=small;,claude_reviewed_text,5,2026-04-02,twitter,yes,"@mybmc
+ 
+@mybmcWardME
+ Kindly see the status of the staircase of the FOB situated at Ghatkopar Mankhurd Link Rd, connecting Grit Heights with Indian Oil Nagar. Many reported incidents of fall has been witnessed. What are we waiting for? Some fatality before we rectify? Pls look into",en,-1.0,,1.0,5,5.0,text-only (claude-reviewed),6.0,False
+SEED0199,G/S,Worli,"Pochkhanawala Road, near Old RTO",Solid Waste Management (SWM),Solid waste management complaint,1.0,yes,https://pbs.twimg.com/media/HPIgzTVbsAEqAN1?format=jpg&name=small,claude_reviewed_text,3,2026-04-02,twitter,yes,". 
+@mybmc
+ 
+@mybmcWardGS
+ Disgusting garbage & debris strewn across Pochkhanawala Rd near Old RTO. Unhygienic conditions requiring immediate cleanup and strict monitoring! 
+@AshwiniBhide
+ 
+@TawdeRitu
+ 
+@mayor_mumbai
+ 
+@Worli_PS
+ #Mumbai #Worli",en,27.0,4.0,3.0,3,3.55,text+photo (fused),1.0,True
+SEED0200,P/S,Goregaon West,"SV Road, below Ram Mandir Flyover",Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HOz04_YasAAM-yL?format=jpg&name=small;,claude_reviewed_text,3,2026-04-02,twitter,yes,"BMC Fixed this road on 30th July (image 1).
+
+We have potholes again on August 3. (image 2 & 3). 
+
+What kind of repair is done by 
+@mybmc
+?
+SV road, below Ram Mandir flyover, Goregaon West.
+
+#MNCDFflyingSquad",en,29.0,,3.0,3,3.0,text-only (claude-reviewed),3.0,False
+SEED0201,D,Malabar Hill / Babulnath,Babulnath walkway,Roads,Repairs/re-surfacing of roads/footpaths,7.0,yes,https://x.com/krantis/status/2083216689890742320/video/1,claude_reviewed_text,2,2026-04-02,twitter,yes,"an 
+@mybmc
+ 
+@mybmcWardD
+ 
+@mybmcInfra
+ look into this negligence on the iconic walkway at BABULNATH?",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),191.0,False
+SEED0202,P/S,Goregaon West,"Vasari Hill Road, near Kia Showroom",Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://pbs.twimg.com/media/HOz2jCIaMAAgrUd?format=jpg&name=small,claude_reviewed_text,3,2026-04-01,twitter,yes,"Potholes are back on Vasari Hill Road, near Kia Showroom, Goregaon west.
+
+The BMC is doing a shoddy job of potholes repair across Goregaon..
+
+@mybmc
+
+
+#MNCDFflyingSquad",en,29.0,4.2,3.0,3,3.66,text+photo (fused),1.0,True
+SEED0203,G/S,Worli,"Dainik Shivaji Marg, near St. Regis exit",Solid Waste Management (SWM),Solid waste management complaint,1.0,yes,https://pbs.twimg.com/media/HPA0mRSaYAAMkcl?format=jpg&name=small,claude_reviewed_text,3,2026-03-22,twitter,yes,". 
+@mybmc
+ 
+@mybmcWardGS
+ Unattended garbage overflow spilling onto Dainik Shivji Marg, just off the St. Regis exit. Bins are full to the brim and waste is dumped across the road. Immediate lifting and clearance required! 
+@AshwiniBhide
+ 
+@mayor_mumbai
+ #Mumbai #Worli",en,27.0,3.9,3.0,3,3.5,text+photo (fused),2.0,False
+SEED0204,R/S,Kandivali,"Thakur Village, near Shaheed Bhagat Singh Garden",Encroachment,Encroachment complaint,,yes,https://pbs.twimg.com/media/HOxhPtObAAAzBw1?format=jpg&name=small,claude_reviewed_text,3,2026-02-28,twitter,yes,"What a SHAM of action by 
+@mybmc
+ 
+@mybmcWardRS
+ 
+
+Not one stall effectively removed! 
+
+@TawdeRitu
+ tai 
+@AshwiniBhide
+ mam 
+
+People want unobstructed footpaths to walk
+
+Look at this footpaths in ThakurVillage near Shaheed Bhagat Singh Garden encroached on both sides NO Action Taken!
+@MumbaiPolice
+ this is happening in your watch as well",en,25.0,3.8,3.0,3,3.44,text+photo (fused),1.0,True
+SEED0205,G/N,Dharavi / Mahim,"Mahim East Station Road, below skywalk",Solid Waste Management (SWM),Solid waste management complaint,1.0,yes,https://x.com/PotholeWarriors/status/2084528177142272225/video/1,claude_reviewed_text,3,2026-02-13,twitter,yes,"So much garbage dumped at dharavi mahim east station road below skywalk 
+@mybmc
+ 
+@mybmcWardGN
+ 
+@AshwiniBhide
+ 
+@TawdeRitu",en,27.0,,3.0,3,3.0,text-only (claude-reviewed),3.0,False
+SEED0206,L,"Sakinaka, Andheri East","Khanna Estate, Kurla-Andheri Road, Sakinaka",Public health,Public health complaint,,yes,https://pbs.twimg.com/media/HOx9fXZaoAA11Xt?format=jpg&name=large;,claude_reviewed_text,4,2026-04-04,twitter,yes,"🚨 Urgent Attention Required 🚨
+
+Khanna Estate, Kurla–Andheri Road, Sakinaka, Andheri East, Mumbai 400072
+is severely neglected. Garbage has led to heavy mosquito breeding, creating a serious risk of dengue and other diseases. Request 
+@mybmc
+ to immediately clean the area, spray anti-mosquito chemicals, and carry out larvicide/red powder treatment. 
+Public health cannot wait.
+
+@mybmcWardL
+ 
+@mybmcHealth
+ 
+@CMOMaharashtra
+ 
+@mieknathshinde
+ 
+@Dev_Fadnavis
+ 
+@SunetraA_Pawar
+ 
+@MumbaiPolice
+ 
+@naseemkhaninc
+ 
+@Mi_DilipLande
+ 
+
+ #Mumbai #BMC #Sakinaka #Dengue #PublicHealth",en,26.0,,6.0,4,4.0,text-only (claude-reviewed),2.0,False
+SEED0207,K/W,Andheri West,"Footpath, Andheri West",Encroachment,Encroachment complaint,,yes,https://pbs.twimg.com/media/HPHiil7bgAAKJHv?format=jpg&name=small,claude_reviewed_text,3,2026-04-04,twitter,yes,"@mybmc
+ Footpath in Andheri West is completely blocked by wet cement and construction debris. Where are pedestrians supposed to walk? This is unacceptable. Please clear it immediately. 
+@DNNagarPS
+ #Mumbai #AndheriWest #PedestrianSafety 
+@MNCDFbombay
+ 
+@mumbaimatterz
+ 
+@mybmcwardKW",en,-1.0,3.0,1.0,3,3.0,text+photo (fused),85.0,False
+SEED0208,H/W,Bandra West,"ONGC Flyover, Bandra",Roads,Repairs/re-surfacing of roads/footpaths,7.0,yes,https://pbs.twimg.com/media/HO231ANasAARt9y?format=jpg&name=900x900,claude_reviewed_text,1,2026-04-04,twitter,yes,"This is ONGC Flyover, Bandra. 
+@mybmc
+ 
+@mybmcInfra",en,-1.0,3.7,1.0,1,2.49,text+photo (fused),144.0,False
+SEED0209,K/E,Andheri East (JB Nagar),"Andheri-Kurla Road, from JB Nagar Metro",Encroachment,Encroachment complaint,,yes,https://x.com/AbhishekGoswa14/status/2086112603651424355/video/2,claude_reviewed_text,3,2026-04-04,twitter,yes,"On Andheri Kurla Road, from JB Nagar Metro to the entire road and footpath, hawkers occupy everything—BMC does nothing as long as they're around. As soon as BMC leaves after 6 PM, with support from Andheri police? These people take over completely every day, and even more on Saturdays 
+@CMOMaharashtra
+ 
+@mybmc
+ 
+@TawdeRitu
+ 
+@CPMumbaiPolice
+ 
+@MumbaiPolice
+ 
+@AndheriPS
+ 
+@KiritSomaiya",en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),86.0,False
+SEED0210,K/W,Andheri West,"Gilbert Hill, near Sagar City Gate",Water Supply,Water/sewerage complaint,4.0,yes,https://x.com/discoveryofmaha/status/2086501856403177547/video/1,claude_reviewed_text,3,2026-04-04,twitter,yes,"In the Gilbert Hill area of Andheri West, dirty water from the bathroom is flowing out from the chamber near Sagar City Gate. Local residents are facing considerable trouble due to the dirty water and the stench. This raises the question: who is responsible for this problem, and when will the BMC finally provide a permanent solution? 
+@mybmc
+ 
+@mybmcwardkw
+ 
+@ameetsatam
+ 
+@tawderitu
+ 
+@misanjayghadi
+ 
+@ashwinibhide
+ 
+@cmomaharashtra",en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),87.0,False
+SEED0211,K/W,Andheri West,"Azad Nagar, Andheri West",Other,Other civic complaint,,yes,https://x.com/tv_mumbai/status/2086430172518207532/video/1,claude_reviewed_text,1,2026-04-04,twitter,yes,"Andheri West Azad Nagar
+@mybmc",en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),271.0,False
+SEED0212,K/E,Andheri East (SEEPZ),"MIDC Central Road, near SEEPZ Gate",Encroachment,Encroachment complaint,,yes,https://pbs.twimg.com/media/HO3a3lZaQAEK4Yb?format=jpg&name=small,claude_reviewed_text,2,2026-04-03,twitter,yes,"Footpath or Food Plaza
+
+What is this 
+@mybmc
+ 
+@mybmcWardKE
+?
+
+Pedestrian First?
+
+📌MIDC Central road near SEEPZ gate.
+
+📷 © 
+@Rinkesh_Shah_",en,-1.0,3.8,1.0,2,2.99,text+photo (fused),121.0,False
+SEED0213,S,Powai / Vikhroli,JVLR (Jogeshwari-Vikhroli Link Road),Roads,Bad Patches/Potholes on the Roads,7.0,yes,https://x.com/R_KAMBLE_INDIA/status/2086059900468383809/video/1,claude_reviewed_text,5,2026-04-02,twitter,yes,"JVLR मार्गावर रस्त्यांच्या दुर्दशेमुळे व खड्ड्यांमुळे ५ बळी गेले आहेत. 
+@mybmcWardS
+ सहा.आयुक्त समरीन सय्यद व रस्ते विभागातील सहा.अभि.(प्र) अलंकार वीर आपण बळीचा आकडा वाढल्यावरच झाकणे व खडे बुजवणार आहात का?तात्काळ कारवाई अपेक्षित. 
+@mybmc
+ 
+@AshwiniBhide
+ 
+@TawdeRitu
+ 
+@mumbaimatterz",mr-en,30.0,,4.0,5,5.0,text-only (claude-reviewed),1.0,True
+SEED0214,L,Kurla,"LBS Marg footpath, Kurla",Solid Waste Management (SWM),Solid waste management complaint,1.0,yes,https://x.com/tv_mumbai/status/2084961752996028926/video/1,claude_reviewed_text,2,2026-04-02,twitter,yes,"Kurla LBS Marg Ka Footpath Bana Kachre Ka Dumping Ground
+@mybmc
+ 
+@mybmcWardL
+ 
+@mayor_mumbai
+ 
+@CMOMaharashtra",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),192.0,False
+SEED0215,L,Kurla,"Kurla, near HDIL",Water Supply,Water-logging/drainage complaint,4.0,yes,https://x.com/tv_mumbai/status/2085643018837823641/video/1,claude_reviewed_text,2,2026-03-22,twitter,yes,Kurla HDIL Water Logging,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),193.0,False
+SEED0216,F/N,Matunga West,"Vardaraj Addya Marg, near Smart Bazaar",Encroachment,Encroachment complaint,,yes,https://pbs.twimg.com/media/HO3D9P9aoAASts3?format=jpg&name=small,claude_reviewed_text,2,2026-03-22,twitter,yes,"Attn. 
+@mybmc
+ @mybmcward
+Plz get rid of this illegal Pan Gutkha Tea  Stall bang opp Smart Bazaar, Vardaraj Addya Marg Matunga West.
+
+Less said about hygiene, has made the whole place a mess.
+
+The earlier one was evicted, this has come up with the blessings of a local neta.
+
+Pedestrians First .",en,-1.0,3.0,1.0,2,2.55,text+photo (fused),143.0,False
+SEED0217,H/E,Bandra Kurla Complex (BKC),"Route from SCL to Telephone Exchange, BKC",Encroachment,Encroachment complaint,,yes,https://x.com/hcbkhan/status/2085239822919356775/video/1,claude_reviewed_text,2,2026-03-21,twitter,yes,No space for pedestrian while going to BKC (Telephone Sq) from SCL.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),194.0,False
+SEED0218,G/S,Worli-Prabhadevi,Prabhadevi Railway Station approach road,Roads,Repairs/re-surfacing of roads/footpaths,7.0,no,,claude_reviewed_text,4,2026-07-01 00:00:00,twitter,yes,"Approach road outside Prabhadevi railway station has turned muddy and slippery due to stalled bridge work; north-side staircase construction halted for months due to pending BMC NOC, forcing commuters to risk slips and falls daily.",en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),25.0,False
+SEED0219,F/N,Matunga-Sion,the main road in Matunga-Sion,Solid Waste Management (SWM),Removal of Debris,5.0,yes,,claude_reviewed_text,3,,twitter,yes,"Construction debris dumped near the main road in Matunga-Sion blocking half the road, unsafe for pedestrians",en,10.0,,7.0,3,3.0,text-only (claude-reviewed),1.0,True
+SEED0220,F/N,Matunga-Sion,Matunga-Sion,Solid Waste Management (SWM),Removal of Debris,5.0,no,,claude_reviewed_text,2,,twitter,yes,"Matunga-Sion mein malba pada hua hai sadak par, hatana zaroori hai",hi-en,32.0,,4.0,2,2.0,text-only (claude-reviewed),4.0,False
+SEED0221,P/N,Malad,Malad,Solid Waste Management (SWM),Removal of dead animals,1.0,no,,claude_reviewed_text,3,,made-up,yes,"A dead stray dog has been lying near Malad for two days, health hazard",en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),88.0,False
+SEED0222,N,Ghatkopar,Ghatkopar,Solid Waste Management (SWM),Removal of dead animals,1.0,yes,,claude_reviewed_text,3,,twitter,yes,"A dead stray dog has been lying near Ghatkopar for two days, health hazard",en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),89.0,False
+SEED0223,H/E,Bandra East,Bandra East,Water Supply,Shortage of water supply,4.0,yes,,claude_reviewed_text,3,,twitter,yes,"No water supply in Bandra East for the third day in a row, please look into this urgently",en,18.0,,3.0,3,3.0,text-only (claude-reviewed),1.0,True
+SEED0224,H/E,Bandra East,Bandra East,Water Supply,Shortage of water supply,4.0,no,,claude_reviewed_text,3,,twitter,yes,"Bandra East mein pani nahi aa raha 3 din se, bahut problem ho rahi hai",hi-en,31.0,,27.0,3,3.0,text-only (claude-reviewed),13.0,False
+SEED0225,H/E,Bandra East,the main road in Bandra East,Water Supply,Shortage of water supply,4.0,no,,claude_reviewed_text,2,,twitter,yes,"WATER SHORTAGE in the main road in Bandra East again, this happens every summer",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),195.0,False
+SEED0226,G/N,Dadar-Dharavi,the main road in Dadar-Dharavi,Water Supply,Shortage of water supply,4.0,no,,claude_reviewed_text,3,,twitter,yes,"No water supply in the main road in Dadar-Dharavi for the third day in a row, please look into this urgently",en,18.0,,3.0,3,3.0,text-only (claude-reviewed),2.0,False
+SEED0227,G/N,Dadar-Dharavi,Dadar-Dharavi station road,Water Supply,Shortage of water supply,4.0,no,,claude_reviewed_text,3,,made-up,yes,"Dadar-Dharavi station road mein pani nahi aa raha 3 din se, bahut problem ho rahi hai",hi-en,31.0,,27.0,3,3.0,text-only (claude-reviewed),14.0,False
+SEED0228,G/N,Dadar-Dharavi,Dadar-Dharavi,Water Supply,Shortage of water supply,4.0,no,,claude_reviewed_text,2,,twitter,yes,"WATER SHORTAGE in Dadar-Dharavi again, this happens every summer",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),196.0,False
+SEED0229,S,Bhandup-Powai,Bhandup-Powai station road,Water Supply,Contaminated Water Supply,2.0,no,,claude_reviewed_text,4,,twitter,yes,"Water coming from the tap in Bhandup-Powai station road is muddy and smells bad, unsafe to drink",en,16.0,,6.0,4,4.0,text-only (claude-reviewed),1.0,True
+SEED0230,S,Bhandup-Powai,Bhandup-Powai station road,Water Supply,Contaminated Water Supply,2.0,no,,claude_reviewed_text,4,,made-up,yes,"Bhandup-Powai station road mein ganda pani aa raha hai, bachche bimar ho sakte hain",hi-en,31.0,,27.0,4,4.0,text-only (claude-reviewed),1.0,True
+SEED0231,H/E,Bandra East,Bandra East,Water Supply,Contaminated Water Supply,2.0,yes,,claude_reviewed_text,4,,twitter,yes,"Water coming from the tap in Bandra East is muddy and smells bad, unsafe to drink",en,16.0,,6.0,4,4.0,text-only (claude-reviewed),2.0,False
+SEED0232,H/E,Bandra East,Bandra East station road,Water Supply,Contaminated Water Supply,2.0,yes,,claude_reviewed_text,4,,twitter,yes,"Bandra East station road mein ganda pani aa raha hai, bachche bimar ho sakte hain",hi-en,31.0,,27.0,4,4.0,text-only (claude-reviewed),2.0,False
+SEED0233,P/S,Goregaon,Goregaon,Water Supply,Leaks in Water Lines,4.0,yes,,claude_reviewed_text,2,,twitter,yes,"Water pipeline leaking continuously near Goregaon, wasting huge amount of water daily",en,17.0,,4.0,2,2.0,text-only (claude-reviewed),3.0,False
+SEED0234,P/S,Goregaon,Goregaon,Water Supply,Leaks in Water Lines,4.0,yes,,claude_reviewed_text,2,,twitter,yes,Goregaon ke paas pipeline se pani beh raha hai kai dino se,hi-en,31.0,,27.0,2,2.0,text-only (claude-reviewed),20.0,False
+SEED0235,G/N,Dadar-Dharavi,Dadar-Dharavi station road,Water Supply,Leaks in Water Lines,4.0,yes,,claude_reviewed_text,2,,twitter,yes,"Water pipeline leaking continuously near Dadar-Dharavi station road, wasting huge amount of water daily",en,17.0,,4.0,2,2.0,text-only (claude-reviewed),4.0,False
+SEED0236,G/N,Dadar-Dharavi,Dadar-Dharavi station road,Water Supply,Leaks in Water Lines,4.0,no,,claude_reviewed_text,2,,twitter,yes,Dadar-Dharavi station road ke paas pipeline se pani beh raha hai kai dino se,hi-en,31.0,,27.0,2,2.0,text-only (claude-reviewed),21.0,False
+SEED0237,P/N,Malad,the main road in Malad,Water Supply,Burst water main lines,4.0,no,,claude_reviewed_text,4,,made-up,yes,"Main water line burst near the main road in Malad, road flooded and water supply disrupted",en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),26.0,False
+SEED0238,E,Byculla-Mazgaon,Byculla-Mazgaon,Water Supply,Burst water main lines,4.0,no,,claude_reviewed_text,4,,made-up,yes,"Main water line burst near Byculla-Mazgaon, road flooded and water supply disrupted",en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),27.0,False
+SEED0239,F/S,Parel-Lower Parel,Parel-Lower Parel,Drainage,Drainage Chokes and Blockages,3.0,no,,claude_reviewed_text,3,,twitter,yes,"Drain near Parel-Lower Parel completely choked, water logging on the road every time it rains",en,14.0,,4.0,3,3.0,text-only (claude-reviewed),3.0,False
+SEED0240,F/S,Parel-Lower Parel,Parel-Lower Parel station road,Drainage,Drainage Chokes and Blockages,3.0,no,,claude_reviewed_text,3,,twitter,yes,"Parel-Lower Parel station road mein naala band hai, thoda sa barish mein pani bhar jata hai",hi-en,31.0,,27.0,3,3.0,text-only (claude-reviewed),15.0,False
+SEED0241,D,Malabar Hill-Tardeo,the main road in Malabar Hill-Tardeo,Drainage,Drainage Chokes and Blockages,3.0,no,,claude_reviewed_text,3,,twitter,yes,"Drain near the main road in Malabar Hill-Tardeo completely choked, water logging on the road every time it rains",en,14.0,,4.0,3,3.0,text-only (claude-reviewed),4.0,False
+SEED0242,D,Malabar Hill-Tardeo,Malabar Hill-Tardeo,Drainage,Drainage Chokes and Blockages,3.0,no,,claude_reviewed_text,3,,twitter,yes,"Malabar Hill-Tardeo mein naala band hai, thoda sa barish mein pani bhar jata hai",hi-en,32.0,,4.0,3,3.0,text-only (claude-reviewed),1.0,True
+SEED0243,D,Malabar Hill-Tardeo,Malabar Hill-Tardeo,Drainage,Overflowing drains of manholes,3.0,yes,,claude_reviewed_text,4,,made-up,yes,"Manhole near Malabar Hill-Tardeo overflowing with sewage, terrible smell and health risk",en,16.0,,6.0,4,4.0,text-only (claude-reviewed),3.0,False
+SEED0244,D,Malabar Hill-Tardeo,Malabar Hill-Tardeo,Drainage,Overflowing drains of manholes,3.0,no,,claude_reviewed_text,4,,twitter,yes,Malabar Hill-Tardeo ke paas manhole se ganda pani bahar aa raha hai,hi-en,31.0,,27.0,4,4.0,text-only (claude-reviewed),3.0,False
+SEED0245,G/N,Dadar-Dharavi,Dadar-Dharavi station road,Drainage,Overflowing drains of manholes,3.0,yes,,claude_reviewed_text,4,,twitter,yes,"Manhole near Dadar-Dharavi station road overflowing with sewage, terrible smell and health risk",en,16.0,,6.0,4,4.0,text-only (claude-reviewed),4.0,False
+SEED0246,G/N,Dadar-Dharavi,Dadar-Dharavi station road,Drainage,Overflowing drains of manholes,3.0,no,,claude_reviewed_text,4,,twitter,yes,Dadar-Dharavi station road ke paas manhole se ganda pani bahar aa raha hai,hi-en,31.0,,27.0,4,4.0,text-only (claude-reviewed),4.0,False
+SEED0247,B,Mandvi-Masjid,the main road in Mandvi-Masjid,Drainage,Odour (Foul Smell) from Drains,7.0,no,,claude_reviewed_text,3,,twitter,yes,Terrible smell coming from the drain near the main road in Mandvi-Masjid for over a week now,en,16.0,,6.0,3,3.0,text-only (claude-reviewed),5.0,False
+SEED0248,R/N,Dahisar,Dahisar,Drainage,Odour (Foul Smell) from Drains,7.0,yes,,claude_reviewed_text,3,,made-up,yes,Terrible smell coming from the drain near Dahisar for over a week now,en,16.0,,6.0,3,3.0,text-only (claude-reviewed),6.0,False
+SEED0249,M/W,Chembur,Chembur station road,Drainage,Replacement of Missing/ Damaged Manhole,3.0,no,,claude_reviewed_text,4,,twitter,yes,"Manhole cover missing on the road near Chembur station road, very risky especially at night",en,5.0,,3.0,4,4.0,text-only (claude-reviewed),1.0,True
+SEED0250,M/W,Chembur,Chembur station road,Drainage,Replacement of Missing/ Damaged Manhole,3.0,yes,,claude_reviewed_text,4,,made-up,yes,"Chembur station road mein manhole ka dhakkan gayab hai, koi gir sakta hai",hi-en,31.0,,27.0,4,4.0,text-only (claude-reviewed),5.0,False
+SEED0251,F/S,Parel-Lower Parel,Parel-Lower Parel station road,Drainage,Replacement of Missing/ Damaged Manhole,3.0,no,,claude_reviewed_text,4,,made-up,yes,"Manhole cover missing on the road near Parel-Lower Parel station road, very risky especially at night",en,5.0,,3.0,4,4.0,text-only (claude-reviewed),2.0,False
+SEED0252,F/S,Parel-Lower Parel,Parel-Lower Parel station road,Drainage,Replacement of Missing/ Damaged Manhole,3.0,no,,claude_reviewed_text,4,,made-up,yes,"Parel-Lower Parel station road mein manhole ka dhakkan gayab hai, koi gir sakta hai",hi-en,31.0,,27.0,4,4.0,text-only (claude-reviewed),6.0,False
+SEED0253,E,Byculla-Mazgaon,Byculla-Mazgaon station road,Storm Water Drainage,Flooding during Monsoon,1.0,yes,,claude_reviewed_text,4,,twitter,yes,"Severe waterlogging near Byculla-Mazgaon station road every time it rains, roads become impassable",en,14.0,,4.0,4,4.0,text-only (claude-reviewed),1.0,True
+SEED0254,E,Byculla-Mazgaon,the main road in Byculla-Mazgaon,Storm Water Drainage,Flooding during Monsoon,1.0,no,,claude_reviewed_text,4,,twitter,yes,the main road in Byculla-Mazgaon mein har baarish mein ghutno tak pani bhar jata hai,hi-en,31.0,,27.0,4,4.0,text-only (claude-reviewed),7.0,False
+SEED0255,F/S,Parel-Lower Parel,the main road in Parel-Lower Parel,Storm Water Drainage,Flooding during Monsoon,1.0,yes,,claude_reviewed_text,4,,twitter,yes,"Severe waterlogging near the main road in Parel-Lower Parel every time it rains, roads become impassable",en,14.0,,4.0,4,4.0,text-only (claude-reviewed),2.0,False
+SEED0256,F/S,Parel-Lower Parel,the main road in Parel-Lower Parel,Storm Water Drainage,Flooding during Monsoon,1.0,no,,claude_reviewed_text,4,,twitter,yes,the main road in Parel-Lower Parel mein har baarish mein ghutno tak pani bhar jata hai,hi-en,31.0,,27.0,4,4.0,text-only (claude-reviewed),8.0,False
+SEED0257,B,Mandvi-Masjid,Mandvi-Masjid,Storm Water Drainage,Cleaning of open SWD,7.0,no,,claude_reviewed_text,3,,twitter,yes,"Storm water drain near Mandvi-Masjid full of garbage and silt, needs urgent cleaning before monsoon",en,23.0,,3.0,3,3.0,text-only (claude-reviewed),1.0,True
+SEED0258,N,Ghatkopar,the main road in Ghatkopar,Storm Water Drainage,Cleaning of open SWD,7.0,yes,,claude_reviewed_text,3,,twitter,yes,"Storm water drain near the main road in Ghatkopar full of garbage and silt, needs urgent cleaning before monsoon",en,23.0,,3.0,3,3.0,text-only (claude-reviewed),2.0,False
+SEED0259,K/W,Andheri West-Jogeshwari,the main road in Andheri West-Jogeshwari,Storm Water Drainage,"Providing damage/missing gratings, manhole cover over SWD",7.0,yes,,claude_reviewed_text,4,,twitter,yes,"Drain grating broken near the main road in Andheri West-Jogeshwari, open drain is a serious fall risk for pedestrians",en,15.0,,4.0,4,4.0,text-only (claude-reviewed),1.0,True
+SEED0260,D,Malabar Hill-Tardeo,the main road in Malabar Hill-Tardeo,Storm Water Drainage,"Providing damage/missing gratings, manhole cover over SWD",7.0,yes,,claude_reviewed_text,4,,twitter,yes,"Drain grating broken near the main road in Malabar Hill-Tardeo, open drain is a serious fall risk for pedestrians",en,15.0,,4.0,4,4.0,text-only (claude-reviewed),2.0,False
+SEED0261,K/E,Andheri East (MIDC),"Shipz Colony, J.V.L.R, MIDC, Andheri East",Environment,Environment complaint,,no,,claude_reviewed_text,3,2026-04-04,twitter,yes,"@mybmc
+ 
+@mybmcWardKE
+ 
+@mpcb_official
+ 
+@MumbaiPolice
+ 
+@MidcPolice
+ Shipz Colony, J.V.L.R, M.I.D.C, Andheri East, here the developer is causing pollution across the entire area without following any pollution norms, thereby unnecessarily troubling the people; serious attention should be drawn to this matter at the earliest and a stop work notice should be issued on this development.",en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),90.0,False
+SEED0262,G/N,Dadar,"Bhavani Shankar Road, near Ram Mandir (Ward CR 192)",Roads,Repairs/re-surfacing of roads/footpaths,7.0,no,,claude_reviewed_text,2,2026-03-22,twitter,yes,"Ward: CR 192, the footpath digging work was done in front of Bhavani Shankar Road, Dadar, Mumbai 28, Ram Mandir for the work; the work is completed, but cement concrete has still not been done here. In a few days, Ganpati stalls will be set up here; so that they don't face any trouble 
+@mybmc
+ 
+@AshwiniBhide
+ 
+@TawdeRitu
+ 
+@MTPHereToHelp",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),197.0,False
+SEED0263,K/W,Andheri West,"Cama Road, Andheri West",Solid Waste Management (SWM),Solid waste management complaint,1.0,no,,claude_reviewed_text,4,2026-04-04,twitter,yes,"@mybmc
+ This scrap and garbage has been lying unattended for several months at Cama Road, Andheri West, Mumbai 400058. Despite repeated observations, it has still not been cleared. The accumulated waste is causing severe unhygienic conditions and has become a breeding ground for mosquitoes, creating a serious health risk for nearby residents, especially during the monsoon.
+Kindly arrange for immediate cleaning, removal of the scrap, and regular sanitation of the area.
+Location: Cama Road, Andheri West, Mumbai 400058
+
+@mybmcSWM
+ 
+@mybmcwardKW",en,26.0,,6.0,4,4.0,text-only (claude-reviewed),3.0,False
+SEED0264,R/N,Dahisar East,Dahisar Skywalk,Other,Other civic complaint,,no,,claude_reviewed_text,1,2026-03-22,web_complaint,yes,Complaint reports suspected theft/removal of public property from the skywalk and asks for action.,en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),272.0,False
+SEED0265,R/N,Dahisar,Nanddham Society area,Governance and accountability,Governance/accountability complaint,,no,,claude_reviewed_text,1,2026-03-21,web_complaint,yes,"A written civic complaint is reported as pending with no action, prompting escalation to authorities.",en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),273.0,False
+SEED0266,P/S,Malad West,"Chincholi Hanuman Mandir, SV Road",Environment,Environment complaint,,no,,claude_reviewed_text,1,2026-04-05,web_complaint,yes,Prohibited pigeon feeding is reported and immediate action is requested.,en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),274.0,False
+SEED0267,P/S,Goregaon West,"R-14 MMRDA Colony, Ram Mandir",Water Supply,Water/sewerage complaint,4.0,no,,claude_reviewed_text,4,2026-04-04,web_complaint,yes,"Severe water shortage has reportedly continued for more than a month, including lack of drinking water.",en,8.0,,7.0,4,4.0,text-only (claude-reviewed),1.0,True
+SEED0268,P/S,Goregaon West,"R-14 MMRDA Colony, Ram Mandir",Water Supply,Water/sewerage complaint,4.0,no,,claude_reviewed_text,2,2026-04-04,web_complaint,yes,Residents report very low water pressure even on the ground floor.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),198.0,False
+SEED0269,P/S,Goregaon West,"Building R14 MMRDA, Ram Mandir",Water Supply,Water/sewerage complaint,4.0,no,,claude_reviewed_text,4,2026-04-04,web_complaint,yes,"Inadequate water supply is reported for a month, including lack of basic drinking water.",en,8.0,,7.0,4,4.0,text-only (claude-reviewed),2.0,False
+SEED0270,P/S,Goregaon West,Ram Mandir area,Water Supply,Water/sewerage complaint,4.0,no,,claude_reviewed_text,3,2026-04-04,web_complaint,yes,Complaint says BMC water has not arrived for a month and daily life is affected.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),91.0,False
+SEED0271,P/S,Malad West,Road location near Inorbit Mall,Roads,Roads/footpath civic complaint,7.0,no,,claude_reviewed_text,2,2026-04-04,web_complaint,yes,Bad road patch causes vehicle bumps; resurfacing is requested.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),199.0,False
+SEED0272,P/S,Malad West,Road location near Inorbit Mall,Roads,Roads/footpath civic complaint,7.0,yes,,claude_reviewed_text,1,2026-04-04,web_complaint,yes,Asphalt is requested to fill a gap in the road shown in attached media.,en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),275.0,False
+SEED0273,P/S,Malad West,Road location,Roads,Roads/footpath civic complaint,7.0,no,,claude_reviewed_text,1,2026-04-04,web_complaint,yes,Dust lying on the road is reported and cleaning is requested.,en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),276.0,False
+SEED0274,P/S,Malad West,Road location,Solid Waste Management (SWM),Solid waste management complaint,,no,,claude_reviewed_text,2,2026-04-04,web_complaint,yes,Garbage lying at the reported location is requested to be cleared.,en,11.0,,10.0,2,2.0,text-only (claude-reviewed),2.0,False
+SEED0275,P/S,Malad West,Road location,Solid Waste Management (SWM),Solid waste management complaint,,no,,claude_reviewed_text,2,2026-04-04,web_complaint,yes,Debris lying at the reported location is requested to be cleared.,en,11.0,,10.0,2,2.0,text-only (claude-reviewed),3.0,False
+SEED0276,P/S,Goregaon West,Bhagat Singh Nagar,Encroachment,Encroachment complaint,,no,,claude_reviewed_text,3,2026-03-22,web_complaint,yes,"Illegal debris, food stalls, hawkers and vegetable vendors are reported to block the road.",en,10.0,,7.0,3,3.0,text-only (claude-reviewed),2.0,False
+SEED0277,P/S,Goregaon West,Goregaon Bus/Railway Station entrance,Encroachment,Encroachment complaint,,no,,claude_reviewed_text,2,2026-03-21,web_complaint,yes,Hawkers are reported at the station entrance and action is requested.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),200.0,False
+SEED0278,P/S,Oshiwara,Green Park Colony road,Environment,Environment complaint,,no,,claude_reviewed_text,1,2026-03-21,web_complaint,yes,A roadside car garage is reported to create noise and disturb residents.,en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),277.0,False
+SEED0279,P/S,Goregaon West,"L.T. Road No. 2, M.G. Road",Solid Waste Management (SWM),Solid waste management complaint,,no,,claude_reviewed_text,2,2026-03-21,web_complaint,yes,Debris is reported to have remained on the road for about a month.,en,12.0,,3.0,2,2.0,text-only (claude-reviewed),1.0,True
+SEED0280,P/S,Goregaon,Vivek College Road,Roads,Roads/footpath civic complaint,7.0,no,,claude_reviewed_text,2,2026-03-21,web_complaint,yes,Road is reported to have potholes and residents request resurfacing.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),201.0,False
+SEED0281,P/S,Goregaon East,Outside St. Thomas High School,Roads,Roads/footpath civic complaint,7.0,no,,claude_reviewed_text,3,2026-03-21,web_complaint,yes,An unfinished road section is reported to inconvenience schoolchildren.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),92.0,False
+SEED0282,N,Ghatkopar East,"90 Feet Road, near Bank of Maharashtra",Water Supply,Water/sewerage complaint,4.0,no,,claude_reviewed_text,3,2026-04-05,web_complaint,yes,"Drinking-water pipeline has reportedly leaked under the road for six months, wasting water and damaging the road.",en,17.0,,4.0,3,3.0,text-only (claude-reviewed),1.0,True
+SEED0283,K/E,Marol,"Indira Nagar, near Badi Masjid",Water Supply,Water/sewerage complaint,4.0,no,,claude_reviewed_text,4,2026-04-04,web_complaint,yes,Broken gutter cover has reportedly remained damaged for around ten days and may injure pedestrians.,en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),28.0,False
+SEED0284,F/S,South Mumbai,T. B. Kadam Road,Water Supply,Water/sewerage complaint,4.0,no,,claude_reviewed_text,4,2026-04-04,web_complaint,yes,A choked manhole and overflowing gutter line are reported outside a medical centre.,en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),29.0,False
+SEED0285,P/S,Goregaon West,R-14 MMRDA Colony,Water Supply,Water/sewerage complaint,4.0,no,,claude_reviewed_text,3,2026-04-04,web_complaint,yes,Residents report no adequate water supply for about one month.,en,8.0,,7.0,3,3.0,text-only (claude-reviewed),4.0,False
+SEED0286,T,Mulund West,Devidayal Road,Water Supply,Water/sewerage complaint,4.0,yes,,claude_reviewed_text,2,2026-03-05,web_complaint,yes,Water has reportedly been overflowing from a BMC office area and immediate intervention is requested.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),202.0,False
+SEED0287,M/W,Chembur,"Sindhi Society, Plot 49",Water Supply,Water/sewerage complaint,4.0,yes,,claude_reviewed_text,3,2026-02-26,web_complaint,yes,Residents report no water for four days and request action.,en,8.0,,7.0,3,3.0,text-only (claude-reviewed),5.0,False
+SEED0288,D,Malabar Hill,"Dongarsi Road, near Teen Batti",Water Supply,Water/sewerage complaint,4.0,yes,,claude_reviewed_text,3,2026-02-14,web_complaint,yes,Drains are reported overflowing at a residential building; urgent attention is requested.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),93.0,False
+SEED0289,L,Chandivali,Chandivali Farm Road,Solid Waste Management (SWM),Solid waste management complaint,,no,,claude_reviewed_text,2,2026-04-04,web_complaint,yes,"Road-sweeping staff are reportedly absent for a month, leaving garbage accumulated on the road.",en,4.0,,3.0,2,2.0,text-only (claude-reviewed),1.0,True
+SEED0290,L,Ghatkopar West,Kala Pather near Shravan Garden,Solid Waste Management (SWM),Solid waste management complaint,,no,,claude_reviewed_text,2,2026-02-28,web_complaint,yes,Waste has reportedly not been picked up for seven days.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),203.0,False
+SEED0291,L,Kurla West,Near Habib Hospital,Solid Waste Management (SWM),Solid waste management complaint,,no,,claude_reviewed_text,3,2026-02-28,web_complaint,yes,Repeated illegal garbage dumping is reported as a public-health and environmental hazard.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),94.0,False
+SEED0292,L,Kurla West,Koja Shia Kabristan / Match Factory Lane,Solid Waste Management (SWM),Solid waste management complaint,,no,,claude_reviewed_text,2,2026-02-26,web_complaint,yes,Garbage has reportedly remained for two days without attention.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),204.0,False
+SEED0293,L,Kurla,CST-Kurla area,Solid Waste Management (SWM),Solid waste management complaint,,no,,claude_reviewed_text,3,2026-02-17,web_complaint,yes,A large roadside dumping ground is reported near the CST-Kurla area.,en,10.0,,7.0,3,3.0,text-only (claude-reviewed),3.0,False
+SEED0294,A,South Mumbai,Roadside near BEST work site,Solid Waste Management (SWM),Solid waste management complaint,,no,,claude_reviewed_text,2,2026-02-11,web_complaint,yes,Debris left after utility work is reported at a building entrance and requested to be cleared.,en,11.0,,10.0,2,2.0,text-only (claude-reviewed),4.0,False
+SEED0295,F/S,"Antop Hill, Wadala","Rajiv Gandhi Nagar, Shivshrusti Heights",Solid Waste Management (SWM),Solid waste management complaint,,no,,claude_reviewed_text,3,2026-02-08,web_complaint,yes,Heavy garbage accumulation is reported and cleaning is requested.,en,11.0,,10.0,3,3.0,text-only (claude-reviewed),1.0,True
+SEED0296,S,Powai,Roadside area,Solid Waste Management (SWM),Solid waste management complaint,,no,,claude_reviewed_text,2,2026-02-03,web_complaint,yes,Roadside garbage dumping is reported in Powai.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),205.0,False
+SEED0297,S,Bhandup,Shivaji Nagar,Roads,Roads/footpath civic complaint,7.0,no,,claude_reviewed_text,3,2026-04-04,web_complaint,yes,"Garbage from pothole-cleaning work is reportedly left across the road, affecting breathing and parking.",en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),95.0,False
+SEED0298,T,Mulund East,"Tata Colony, outside Swastik Divine",Solid Waste Management (SWM),Solid waste management complaint,,no,,claude_reviewed_text,3,2026-04-04,web_complaint,yes,Daily garbage dumping is reported; stray animals are feeding on the waste.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),96.0,False
+SEED0299,K/W,Vile Parle West,Bhagat Singh Road and Bajaj Road,Roads,Roads/footpath civic complaint,7.0,no,,claude_reviewed_text,2,2026-04-05,web_complaint,yes,A newly concretised road is reportedly being dug up again without permission.,en,13.0,,3.0,2,2.0,text-only (claude-reviewed),1.0,True
+SEED0300,K/E,Marol,Footpath area,Roads,Roads/footpath civic complaint,7.0,no,,claude_reviewed_text,2,2026-04-05,web_complaint,yes,Complaint asks BMC to clear an obstructed footpath in Marol.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),206.0,False
+SEED0301,L,Kurla,Nehru Nagar signal,Roads,Roads/footpath civic complaint,7.0,no,,claude_reviewed_text,3,2026-04-04,web_complaint,yes,Road work is reported as dangerous because potholes leave a risk for road users.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),97.0,False
+SEED0302,K/W,Vile Parle / Andheri West,Road work area,Roads,Roads/footpath civic complaint,7.0,no,,claude_reviewed_text,2,2026-04-04,web_complaint,yes,Road work ongoing since December is reported to create excessive dust and inconvenience residents.,en,2.0,,5.0,2,2.0,text-only (claude-reviewed),3.0,False
+SEED0303,F/N,Matunga,Pratiksha Nagar Road,Roads,Roads/footpath civic complaint,7.0,no,,claude_reviewed_text,2,2026-02-17,web_complaint,yes,"Contractors are accused of using footpaths for non-pedestrian purposes, obstructing walking.",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),207.0,False
+SEED0304,F/N,Matunga,Deodhar Road,Roads,Roads/footpath civic complaint,7.0,no,,claude_reviewed_text,2,2026-02-01,web_complaint,yes,"Dining, wash basins and dustbins occupy the footpath, leaving pedestrians without usable space.",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),208.0,False
+SEED0305,H/W,Khar West,20th Road,Public safety,Public safety complaint,,no,,claude_reviewed_text,2,2026-04-05,web_complaint,yes,"Night-time redevelopment construction reportedly continues after midnight, causing machine noise on nearby roads.",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),209.0,False
+SEED0306,H/W,Khar West,Municipal market,Encroachment,Encroachment complaint,,no,,claude_reviewed_text,4,2026-04-05,web_complaint,yes,Vendors are reported to have taken over public road space and threatened people nearby.,en,3.0,,4.0,4,4.0,text-only (claude-reviewed),1.0,True
+SEED0307,G/N,Mahim West,"L.J. Road, opposite Victoria Church",Environment,Environment complaint,,no,,claude_reviewed_text,4,2026-04-05,web_complaint,yes,A tree is reported to be close to collapse and uprooting its surroundings.,en,0.0,,3.0,4,4.0,text-only (claude-reviewed),1.0,True
+SEED0308,L,Chandivali Farm Road,Chandivali Farm Road,Solid Waste Management (SWM),Solid waste management complaint,,no,,claude_reviewed_text,2,2026-04-05,web_complaint,yes,"Road-cleaning staff are reported absent, causing garbage to accumulate.",en,4.0,,3.0,2,2.0,text-only (claude-reviewed),2.0,False
+SEED0309,P/S,Malad West,Chincholi Hanuman Mandir,Environment,Environment complaint,,no,,claude_reviewed_text,1,2026-04-05,web_complaint,yes,Pigeon feeding is reported despite being prohibited; action is requested.,en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),278.0,False
+SEED0310,A,Mumbai,Ward A,Governance and accountability,Governance/accountability complaint,,no,,claude_reviewed_text,1,2026-04-05,web_complaint,yes,Citizen asks authorities to investigate a reported civic issue and take action.,en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),279.0,False
+SEED0311,F/N,Sion,Near Sion Station and Our Lady of Good Counsel School,Encroachment,Encroachment complaint,,yes,,claude_reviewed_text,2,2026-03-04,web_complaint,yes,Repeated complaints about roadside encroachment near Sion Station are reported without permanent action.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),210.0,False
+SEED0312,F/N,Matunga,Lakhamshi Nappoo Road outside Matunga station,Solid Waste Management (SWM),Solid waste management complaint,,yes,,claude_reviewed_text,3,2026-03-04,web_complaint,yes,A large waste accumulation is reported outside the station and is said to have remained for more than a year.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),98.0,False
+SEED0313,R/S,Kandivali East,Kandivali station East,Encroachment,Encroachment complaint,,no,,claude_reviewed_text,2,2026-04-04,web_complaint,yes,Station area is reported to be crowded with hawkers.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),211.0,False
+SEED0314,R/S,Kandivali,Kandivali station area,Roads,Roads/footpath civic complaint,7.0,yes,,claude_reviewed_text,4,2026-03-04,web_complaint,yes,Broken/uneven drain covers on the footpath are reported as dangerous to pedestrians.,en,15.0,,4.0,4,4.0,text-only (claude-reviewed),3.0,False
+SEED0315,R/S,Kandivali,Kandivali station area,Roads,Roads/footpath civic complaint,7.0,yes,,claude_reviewed_text,2,2026-03-04,web_complaint,yes,A pothole is reported and BMC is asked to repair it.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),212.0,False
+SEED0316,R/S,Kandivali,Kandivali station area,Roads,Roads/footpath civic complaint,7.0,yes,,claude_reviewed_text,4,2026-03-04,web_complaint,yes,Damaged drain covers on the footpath are reported as a fall hazard.,en,15.0,,4.0,4,4.0,text-only (claude-reviewed),4.0,False
+SEED0317,P/S,Goregaon West,Anmol Fortune Building area,Roads,Roads/footpath civic complaint,7.0,yes,,claude_reviewed_text,3,2026-02-18,web_complaint,yes,Concrete-truck mess on a newly built road creates a skidding risk for two-wheelers.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),99.0,False
+SEED0318,P/N,Malad West,Rathodi-Marve Road,Transport and mobility,Transport/mobility complaint,,yes,,claude_reviewed_text,2,2026-03-04,web_complaint,yes,A vehicle reportedly parked for years prevents cleaning work; action is requested.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),213.0,False
+SEED0319,B,Masjid Bandar,Rasul Street,Encroachment,Encroachment complaint,,no,,claude_reviewed_text,2,2026-03-19,web_complaint,yes,Illegal occupation of public space is reported near Masjid Bandar and removal is requested.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),214.0,False
+SEED0320,B,Nagdevi Cross Lane,"Tayeb Manzil, Abdur Rehman Street",Encroachment,Encroachment complaint,,no,,claude_reviewed_text,4,2026-03-13,web_complaint,yes,Footpath stalls selling food and using gas cylinders are reported as a safety obstruction.,en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),30.0,False
+SEED0321,B,Mohammed Ali Road,48/D Mohammed Ali Road,Encroachment,Encroachment complaint,,no,,claude_reviewed_text,2,2026-03-13,web_complaint,yes,Hawkers are reported to obstruct shopfronts and the footpath.,en,3.0,,4.0,2,2.0,text-only (claude-reviewed),3.0,False
+SEED0322,A,S.S. Saboo Siddik Road,S.S. Saboo Siddik Road,Encroachment,Encroachment complaint,,no,,claude_reviewed_text,2,2026-03-14,web_complaint,yes,Illegal hawkers are reported to occupy the road and residents request enforcement.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),215.0,False
+SEED0323,E,Clare Road / Mirza Galib Road,Opposite St Agnes School,Encroachment,Encroachment complaint,,no,,claude_reviewed_text,2,2026-03-14,web_complaint,yes,"Shopkeeper is reported to have encroached on the footpath, preventing residents from walking.",en,3.0,,4.0,2,2.0,text-only (claude-reviewed),4.0,False
+SEED0324,L,Kurla West,Kapadia Nagar Building 6,Encroachment,Encroachment complaint,,no,,claude_reviewed_text,3,2026-03-14,web_complaint,yes,"Illegal occupation of open society space is reported, affecting safety, cleanliness and movement.",en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),100.0,False
+SEED0325,G/N,"Dadar, Shivaji Park","Road No. 2, opposite Gate 5",Encroachment,Encroachment complaint,,no,,claude_reviewed_text,2,2026-03-05,web_complaint,yes,Tempo and black cart are reported to occupy the lane and removal is requested.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),216.0,False
+SEED0326,E,Madanpura,"Rangwala Chawl, 3rd Ghelabai Street",Encroachment,Encroachment complaint,,no,,claude_reviewed_text,2,2026-03-05,web_complaint,yes,An illegal goat cage is reported to obstruct movement in the area.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),217.0,False
+SEED0327,G/N,Dadar West,V S Agase Road,Solid Waste Management (SWM),Solid waste management complaint,,yes,,claude_reviewed_text,3,2026-03-20,web_complaint,yes,Garbage has remained for four to five months and has not been removed.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),101.0,False
+SEED0328,M/E,Govandi,Baiganwadi Road No. 8,Solid Waste Management (SWM),Solid waste management complaint,,unverified,,claude_reviewed_text,2,2026-03-21,web_complaint,yes,Road is not swept properly and remains dirty even during a festival.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),218.0,False
+SEED0329,H/W,Bandra West,Perry Road / Carter Road near Otters Club,Encroachment,Encroachment complaint,,yes,,claude_reviewed_text,1,2026-03-21,web_complaint,yes,Illegal banner is reported on a road corner and removal is requested.,en,1.0,,3.0,1,1.0,text-only (claude-reviewed),2.0,False
+SEED0330,H/E,"Kalina, Santacruz East",Road No. 3 opposite Golden Square Society,Water Supply,Water/sewerage complaint,4.0,yes,,claude_reviewed_text,2,2026-03-21,web_complaint,yes,"Road contractors are accused of damaging a water pipeline, causing a civic water issue.",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),219.0,False
+SEED0331,P/S,Goregaon East,"Outside St Thomas High School, Road No. 1",Roads,Roads/footpath civic complaint,7.0,yes,,claude_reviewed_text,3,2026-03-21,web_complaint,yes,A road section remains unfinished and is inconveniencing schoolchildren.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),102.0,False
+SEED0332,D,Grant Road,"Raghavji Road, Gowalia Tank",Solid Waste Management (SWM),Solid waste management complaint,,unverified,,claude_reviewed_text,2,2026-03-19,web_complaint,yes,Waste is repeatedly left uncleared despite multiple complaints.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),220.0,False
+SEED0333,D,Grant Road East,Uranwala Street,Solid Waste Management (SWM),Solid waste management complaint,,unverified,,claude_reviewed_text,2,2026-03-14,web_complaint,yes,House debris is dumped on the public footpath and causes inconvenience.,en,10.0,,7.0,2,2.0,text-only (claude-reviewed),6.0,False
+SEED0334,D,Grant Road,Uranwala Street,Solid Waste Management (SWM),Solid waste management complaint,,unverified,,claude_reviewed_text,2,2026-02-25,web_complaint,yes,House debris reportedly remains on the footpath after being dumped by a landlord.,en,12.0,,3.0,2,2.0,text-only (claude-reviewed),2.0,False
+SEED0335,D,Mumbai,Unnamed roadside location,Solid Waste Management (SWM),Solid waste management complaint,,unverified,,claude_reviewed_text,2,2026-03-01,web_complaint,yes,Waste below a resident's balcony causes strong smell and needs cleaning.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),221.0,False
+SEED0336,E,Mazgaon,Belvedar Hill Road near Zamzam Masjid,Solid Waste Management (SWM),Solid waste management complaint,,yes,,claude_reviewed_text,2,2026-04-03,web_complaint,yes,Road and debris need immediate cleaning.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),222.0,False
+SEED0337,E,Dockyard Road,"Near Nawab Ayaz Masjid, D'Lima Street",Solid Waste Management (SWM),Solid waste management complaint,,yes,,claude_reviewed_text,2,2026-04-02,web_complaint,yes,Debris was left on the road after BMC repaired a house gully.,en,12.0,,3.0,2,2.0,text-only (claude-reviewed),3.0,False
+SEED0338,E,Madannpura,Aqsa Manzil B Block house gully,Solid Waste Management (SWM),Solid waste management complaint,,yes,,claude_reviewed_text,4,2026-03-18,web_complaint,yes,Large garbage accumulation has choked the drain and dirty water is entering ground-floor homes.,en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),31.0,False
+SEED0339,E,Dockyard Road,"Near Coronation Building, D'Lima Street",Solid Waste Management (SWM),Solid waste management complaint,,yes,,claude_reviewed_text,2,2026-03-03,web_complaint,yes,Debris left on the road by BMC is requested to be picked up.,en,11.0,,10.0,2,2.0,text-only (claude-reviewed),5.0,False
+SEED0340,E,"Dockyard Road, Mazgaon",Opposite Dargah Masjid,Solid Waste Management (SWM),Solid waste management complaint,,yes,,claude_reviewed_text,2,2026-03-02,web_complaint,yes,Contractor debris remains after house-gully repair work.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),223.0,False
+SEED0341,E,Nagpada,Hakim Dayam Garden / Mastan Talav,Solid Waste Management (SWM),Solid waste management complaint,,yes,,claude_reviewed_text,3,2026-03-02,web_complaint,yes,Poor cleaning is reported in several public areas and a rat problem is reported at Hakim Dayam Garden.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),103.0,False
+SEED0342,E,Nagpada,"Duncan Road, Kazi Pura near public toilet",Solid Waste Management (SWM),Solid waste management complaint,,unverified,,claude_reviewed_text,2,2026-02-28,web_complaint,yes,Sweeping is not done after garbage collection; regular sweeping is requested.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),224.0,False
+SEED0343,E,Byculla West,Pais Street near BMC No. 3,Solid Waste Management (SWM),Solid waste management complaint,,unverified,,claude_reviewed_text,2,2026-02-13,web_complaint,yes,Garbage accumulation is reported and cleaning is requested.,en,11.0,,10.0,2,2.0,text-only (claude-reviewed),6.0,False
+SEED0344,K/E,Jogeshwari East,Hindu Friends Society Road,Encroachment,Encroachment complaint,,unverified,,claude_reviewed_text,2,2026-03-22,web_complaint,yes,Unlicensed vegetable wholesalers reportedly block the footpath and no permanent action has been taken.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),225.0,False
+SEED0345,K/E,Jogeshwari East,Subhash Road near Maruti Garment Hub,Encroachment,Encroachment complaint,,yes,,claude_reviewed_text,3,2026-03-21,web_complaint,yes,A large sheet shed has reportedly blocked a municipal road and is being used as a warehouse.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),104.0,False
+SEED0346,K/E,Andheri East,"Parle G premises, Shahaji Raje Marg",Encroachment,Encroachment complaint,,yes,,claude_reviewed_text,2,2026-03-20,web_complaint,yes,Night-time digging activity is reported as illegal.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),226.0,False
+SEED0347,K/E,JB Nagar,West-side store area,Encroachment,Encroachment complaint,,yes,,claude_reviewed_text,1,2026-03-20,web_complaint,yes,An illegal sandwich stall is reported and removal is requested.,en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),280.0,False
+SEED0348,K/E,"Sher-e-Punjab, Andheri East",Near Dominic School,Encroachment,Encroachment complaint,,unverified,,claude_reviewed_text,3,2026-03-20,web_complaint,yes,"Hawkers and vehicles obstruct the footpath and road, creating daily problems for students and residents.",en,3.0,,4.0,3,3.0,text-only (claude-reviewed),2.0,False
+SEED0349,K/E,Jogeshwari East,Hindu Friends Society Road near Ismail Yusuf Gate 2,Encroachment,Encroachment complaint,,yes,,claude_reviewed_text,1,2026-03-20,web_complaint,yes,Non-licensed hawkers are reported operating on the road.,en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),281.0,False
+SEED0350,K/E,Jogeshwari East,Hindu Friends Society Road,Encroachment,Encroachment complaint,,unverified,,claude_reviewed_text,3,2026-03-17,web_complaint,yes,Hawkers are reportedly cooking on the road and appear to have an electricity connection.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),105.0,False
+SEED0351,K/E,Andheri East MIDC,Near Apsara Hotel / Subhash Nagar,Encroachment,Encroachment complaint,,yes,,claude_reviewed_text,3,2026-03-15,web_complaint,yes,A hotel is alleged to have occupied a public passage and blocked access for pedestrians.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),106.0,False
+SEED0352,K/E,"Sher-e-Punjab, Andheri East",Bus stop and footpath,Encroachment,Encroachment complaint,,yes,,claude_reviewed_text,3,2026-03-14,web_complaint,yes,Food stalls and hawkers occupy the footpath and bus stop; autos and garbage also obstruct the road.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),107.0,False
+SEED0353,K/E,"Chakala, Andheri East",Taruvel Society CHS,Encroachment,Encroachment complaint,,yes,,claude_reviewed_text,2,2026-03-03,web_complaint,yes,A society is alleged to have encroached on the road and public footpath with slides and dividers.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),227.0,False
+SEED0354,K/E,Andheri East,Gundavali Highway near Tata Office,Encroachment,Encroachment complaint,,yes,,claude_reviewed_text,1,2026-03-02,web_complaint,yes,An unauthorized roadside container/stall is reported on previously vacant land.,en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),282.0,False
+SEED0355,K/E,Jogeshwari East,Railway station / Caves Road area,Encroachment,Encroachment complaint,,yes,,claude_reviewed_text,2,2026-03-04,web_complaint,yes,The area is reported to be heavily blocked by non-licensed hawkers.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),228.0,False
+SEED0356,K/E,Andheri East,Outside HR College,Encroachment,Encroachment complaint,,yes,,claude_reviewed_text,1,2026-03-04,web_complaint,yes,A new stall is reported to have appeared on the public footpath.,en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),283.0,False
+SEED0357,G/N,Dadar West,"Opposite Suvidha, Dadar station",Solid Waste Management (SWM),Solid waste management complaint,,yes,,claude_reviewed_text,3,2026-03-15,web_complaint,yes,An illegal garbage depot is reported opposite Dadar West station.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),108.0,False
+SEED0358,G/N,Dharavi,ONGC area,Solid Waste Management (SWM),Solid waste management complaint,,yes,,claude_reviewed_text,2,2026-03-05,web_complaint,yes,A garbage vehicle is alleged to create excessive air pollution during collection.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),229.0,False
+SEED0359,G/N,Mahim East,"Jumman Compound, Jasmine Mill Road",Solid Waste Management (SWM),Solid waste management complaint,,yes,,claude_reviewed_text,2,2026-02-28,web_complaint,yes,Garbage is lying along the roadside and residents request immediate clearance.,en,11.0,,10.0,2,2.0,text-only (claude-reviewed),7.0,False
+SEED0360,G/N,Dadar West,V S Agase Road,Solid Waste Management (SWM),Solid waste management complaint,,yes,,claude_reviewed_text,3,2026-03-20,web_complaint,yes,Garbage has reportedly remained for four to five months.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),109.0,False
+SEED0361,L,Chandivali,Chandivali Farm Road,Solid Waste Management (SWM),Solid waste management complaint,,unverified,,claude_reviewed_text,2,2026-04-04,web_complaint,yes,Road-sweeping staff have reportedly not cleaned the road for a month.,en,4.0,,3.0,2,2.0,text-only (claude-reviewed),3.0,False
+SEED0362,L,Andheri-Kurla Road,Asalpha to Sakinaka,Solid Waste Management (SWM),Solid waste management complaint,,yes,,claude_reviewed_text,2,2026-03-05,web_complaint,yes,Garbage trucks reportedly create a daily traffic jam; photos are referenced in the complaint.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),230.0,False
+SEED0363,L,Chandivali,"Sanjay Nagar, Street D9",Solid Waste Management (SWM),Solid waste management complaint,,yes,,claude_reviewed_text,4,2026-03-01,web_complaint,yes,Public toilets are reportedly overflowing and residents face health problems.,en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),32.0,False
+SEED0364,L,Ghatkopar West,Kala Pather near Shravan Garden,Solid Waste Management (SWM),Solid waste management complaint,,yes,,claude_reviewed_text,2,2026-03-06,web_complaint,yes,Garbage has not been picked up for seven days.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),231.0,False
+SEED0365,L,Kurla West,Koja Shia Kabristan / Match Factory Lane,Solid Waste Management (SWM),Solid waste management complaint,,yes,,claude_reviewed_text,2,2026-02-26,web_complaint,yes,Garbage has been lying for two days without attention.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),232.0,False
+SEED0366,L,Kurla,CST-Kurla area,Solid Waste Management (SWM),Solid waste management complaint,,yes,,claude_reviewed_text,3,2026-02-17,web_complaint,yes,A large dumping ground is reported around the CST-Kurla area.,en,10.0,,7.0,3,3.0,text-only (claude-reviewed),4.0,False
+SEED0367,L,Ghatkopar West,Kala Pather near Shravan Garden,Solid Waste Management (SWM),Solid waste management complaint,,yes,,claude_reviewed_text,1,2026-02-28,web_complaint,yes,Dustbin cleaning is requested near the BMC chowki and training centre.,en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),284.0,False
+SEED0368,N,Ghatkopar East,90 Feet Road near Bank of Maharashtra,Water Supply,Water/sewerage complaint,4.0,unverified,,claude_reviewed_text,3,2026-04-05,web_complaint,yes,"Drinking-water pipeline has leaked under the road for six months, wasting water and damaging the road.",en,17.0,,4.0,3,3.0,text-only (claude-reviewed),2.0,False
+SEED0369,K/E,Marol,Indira Nagar near Badi Masjid,Water Supply,Water/sewerage complaint,4.0,yes,,claude_reviewed_text,4,2026-04-04,web_complaint,yes,A broken gutter cover has remained damaged for about ten days and could cause injury.,en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),33.0,False
+SEED0370,P/S,Goregaon West,R-14 MMRDA Colony,Water Supply,Water/sewerage complaint,4.0,unverified,,claude_reviewed_text,4,2026-04-04,web_complaint,yes,"Residents report severe water shortage for more than a month, including lack of drinking water.",en,8.0,,7.0,4,4.0,text-only (claude-reviewed),3.0,False
+SEED0371,P/S,Goregaon West,R-14 MMRDA Colony,Water Supply,Water/sewerage complaint,4.0,yes,,claude_reviewed_text,2,2026-04-04,web_complaint,yes,Water pressure is reported to be very low even on the ground floor.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),233.0,False
+SEED0372,F/S,South Mumbai,T. B. Kadam Road,Water Supply,Water/sewerage complaint,4.0,unverified,,claude_reviewed_text,4,2026-04-04,web_complaint,yes,A choked manhole and overflowing gutter line are reported near a medical research centre.,en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),34.0,False
+SEED0373,L,Kurla West,"Kajupada Pipeline, Gandhinagar",Water Supply,Water/sewerage complaint,4.0,unverified,,claude_reviewed_text,5,2026-03-15,web_complaint,yes,Extremely dirty and contaminated drinking water has reportedly been coming from taps for eight months.,en,-1.0,,1.0,5,5.0,text-only (claude-reviewed),7.0,False
+SEED0374,A,Cuffe Parade,Sunflower Building,Water Supply,Water/sewerage complaint,4.0,unverified,,claude_reviewed_text,3,2026-02-28,web_complaint,yes,A drain filled with stagnant water and debris causes flooding every year and needs repair.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),110.0,False
+SEED0375,A,Cuffe Parade,Sunflower Building,Water Supply,Water/sewerage complaint,4.0,yes,,claude_reviewed_text,3,2026-03-02,web_complaint,yes,A choked drain caused by leaves and debris produces standing water and bad smell.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),111.0,False
+SEED0376,K/W,Andheri West,SV Road near Moti Mahal Hotel,Water Supply,Water/sewerage complaint,4.0,unverified,,claude_reviewed_text,2,2026-03-15,web_complaint,yes,Water leakage on SV Road is reported and immediate repair is requested.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),234.0,False
+SEED0377,B,Mohammed Ali Road,"Minara Masjid Lane, Memonwada Road",Water Supply,Water/sewerage complaint,4.0,yes,,claude_reviewed_text,3,2026-03-15,web_complaint,yes,Residents report recurring lack of water supply despite repeated complaints.,en,8.0,,7.0,3,3.0,text-only (claude-reviewed),6.0,False
+SEED0378,M/W,Chembur,"Sindhi Society, Plot 49",Water Supply,Water/sewerage complaint,4.0,yes,,claude_reviewed_text,3,2026-02-26,web_complaint,yes,Residents report no water for four days and request urgent action.,en,8.0,,7.0,3,3.0,text-only (claude-reviewed),7.0,False
+SEED0379,R/Central,"Gorai 2, Borivali",RSC 37,Roads,Roads/footpath civic complaint,7.0,yes,,claude_reviewed_text,2,2026-03-02,web_complaint,yes,Road work has moved very slowly for five months and causes dust and inconvenience.,en,2.0,,5.0,2,2.0,text-only (claude-reviewed),4.0,False
+SEED0380,P/S,Goregaon East,Aarey Colony Unit 8 / Nityanand Nagar,Encroachment,Encroachment complaint,,yes,,claude_reviewed_text,2,2026-03-02,web_complaint,yes,Unauthorized occupation of land is reported and inspection/action is requested.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),235.0,False
+SEED0381,P/N,Malad,Housing society,Housing and building,Housing/building complaint,,yes,,claude_reviewed_text,2,2026-03-02,web_complaint,yes,A complaint says access inside a housing society is being blocked and asks for investigation.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),236.0,False
+SEED0382,M/W,Chembur,Postal Colony,Roads,Roads/footpath civic complaint,7.0,yes,,claude_reviewed_text,3,2026-03-02,web_complaint,yes,"Illegal parking, dug-up roads, footpaths, debris and missing lights are reported as a long-running problem.",en,2.0,,5.0,3,3.0,text-only (claude-reviewed),1.0,True
+SEED0383,H/W,Bandra West,Bandra roads and footpaths,Roads,Roads/footpath civic complaint,7.0,unverified,,claude_reviewed_text,2,2026-03-22,web_complaint,yes,"Dirty roads and footpaths, leaves, mud and parked vehicles are reported as a recurring problem.",en,2.0,,5.0,2,2.0,text-only (claude-reviewed),5.0,False
+SEED0384,F/N,Wadala West,"Himai Nivas, Rafi Ahmed Kidwai Road",Roads,Roads/footpath civic complaint,7.0,yes,,claude_reviewed_text,2,2026-04-04,web_complaint,yes,"A newly built footpath has been dug up for fibre work, creating dust and access problems.",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),237.0,False
+SEED0385,F/N,Wadala West,Hira Mahal,Roads,Roads/footpath civic complaint,7.0,unverified,,claude_reviewed_text,2,2026-04-04,web_complaint,yes,Airtel is reported to have dug up a newly built footpath without notice and created dust.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),238.0,False
+SEED0386,F/N,Wadala West,"Himai Nivas, Rafi Ahmed Kidwai Road",Roads,Roads/footpath civic complaint,7.0,yes,,claude_reviewed_text,2,2026-04-04,web_complaint,yes,Footpath digging has stopped road access and creates dust for residents.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),239.0,False
+SEED0387,F/N,Matunga East,Matunga East flyover,Roads,Roads/footpath civic complaint,7.0,yes,,claude_reviewed_text,4,2026-04-04,web_complaint,yes,Multiple gaps have developed in the flyover and need inspection and repair.,en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),35.0,False
+SEED0388,F/N,Matunga,"Murubai Gaon, Devi Mandir Road near Don Bosco School",Roads,Roads/footpath civic complaint,7.0,yes,,claude_reviewed_text,4,2026-03-02,web_complaint,yes,Road improvement work removed protective railings that helped keep schoolchildren safe.,en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),36.0,False
+SEED0389,F/N,Matunga,"Murubai Gaon, Devi Mandir Road",Roads,Roads/footpath civic complaint,7.0,yes,,claude_reviewed_text,3,2026-03-02,web_complaint,yes,Manhole covers on the footpath do not fit properly and have gaps around the frame.,en,5.0,,3.0,3,3.0,text-only (claude-reviewed),3.0,False
+SEED0390,F/N,Matunga,"Murubai Gaon, Devi Mandir Road",Roads,Roads/footpath civic complaint,7.0,yes,,claude_reviewed_text,1,2026-03-02,web_complaint,yes,Road manhole covers make loud banging noises whenever vehicles pass over them.,en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),285.0,False
+SEED0391,F/N,Sion Koliwada,Sion Koliwada footpath,Roads,Roads/footpath civic complaint,7.0,yes,,claude_reviewed_text,2,2026-03-02,web_complaint,yes,Debris has been dumped across the footpath despite multiple complaints.,en,10.0,,7.0,2,2.0,text-only (claude-reviewed),7.0,False
+SEED0392,F/N,Pratiksha Nagar,Karmaveer Bhaurao Patil Vidhyalay road,Roads,Roads/footpath civic complaint,7.0,yes,,claude_reviewed_text,3,2026-02-27,web_complaint,yes,Road condition is described as extremely poor and expected to worsen during monsoon.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),112.0,False
+SEED0393,L,Kurla,Nehru Nagar signal,Roads,Roads/footpath civic complaint,7.0,unverified,,claude_reviewed_text,4,2026-04-04,web_complaint,yes,Road work and potholes are reported as a serious safety concern.,en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),37.0,False
+SEED0394,K/E,Marol,Marol footpath,Roads,Roads/footpath civic complaint,7.0,unverified,,claude_reviewed_text,2,2026-04-05,web_complaint,yes,A blocked footpath is reported and clearance is requested.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),240.0,False
+SEED0395,P/S,Malad West,Near Inorbit Mall,Roads,Roads/footpath civic complaint,7.0,yes,,claude_reviewed_text,2,2026-04-04,web_complaint,yes,A bad road patch causes bumps to vehicles and resurfacing is requested.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),241.0,False
+SEED0396,P/S,Malad West,Roadside location,Roads,Roads/footpath civic complaint,7.0,yes,,claude_reviewed_text,1,2026-04-04,web_complaint,yes,Dust is lying on the road and cleaning is requested.,en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),286.0,False
+SEED0397,P/S,Malad West,Roadside location,Solid Waste Management (SWM),Solid waste management complaint,,yes,,claude_reviewed_text,2,2026-04-04,web_complaint,yes,Garbage is lying at the reported location and needs clearing.,en,11.0,,10.0,2,2.0,text-only (claude-reviewed),8.0,False
+SEED0398,P/S,Malad West,Roadside location,Solid Waste Management (SWM),Solid waste management complaint,,yes,,claude_reviewed_text,2,2026-04-04,web_complaint,yes,Debris is lying at the reported location and needs clearing.,en,11.0,,10.0,2,2.0,text-only (claude-reviewed),9.0,False
+SEED0399,G/N,Dadar West,Dadar station / Suvidha,Solid Waste Management (SWM),Solid waste management complaint,,yes,,claude_reviewed_text,3,2026-03-15,web_complaint,yes,Illegal garbage depot is reported opposite the station.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),113.0,False
+SEED0400,R/Central,Borivali,"Babhai Naka, L T Road",Solid Waste Management (SWM),Solid waste management complaint,,yes,,claude_reviewed_text,2,2026-03-02,web_complaint,yes,"Garbage trucks are reportedly parked along the road, worsening cleanliness and traffic.",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),242.0,False
+SEED0401,L,Kurla West,Kapadia Nagar near Mithi River,Public health,Public health complaint,,yes,,claude_reviewed_text,3,2026-03-02,web_complaint,yes,Mosquito infestation is alarming and fogging is reported to have little effect.,en,9.0,,4.0,3,3.0,text-only (claude-reviewed),1.0,True
+SEED0402,L,Kurla East,"Pila Gate, Umar Wadi Road, Qureshi Nagar",Public health,Public health complaint,,yes,,claude_reviewed_text,3,2026-03-02,web_complaint,yes,Mosquito breeding and increasing mosquito nuisance are reported in the locality.,en,9.0,,4.0,3,3.0,text-only (claude-reviewed),2.0,False
+SEED0403,F/N,Wadala / Bhakti Park,RMC plant near freeway service road,Environment,Environment complaint,,yes,,claude_reviewed_text,2,2026-03-02,web_complaint,yes,Dust pollution and cement-truck tyre marks are reported around an RMC plant.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),243.0,False
+SEED0404,K/W,Andheri West,"Lokhandwala, Sneha Sagar Building",Environment,Environment complaint,,yes,,claude_reviewed_text,3,2026-03-02,web_complaint,yes,Demolition creates a large dust cloud; complaint says no water sprinklers or green safety net are being used.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),114.0,False
+SEED0405,F/N,Matunga,Opposite Nappoo Hall,Environment,Environment complaint,,yes,,claude_reviewed_text,2,2026-03-01,web_complaint,yes,Several mature trees are alleged to have been cut down from a footpath over time.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),244.0,False
+SEED0406,H/E,Santacruz East,"Ambedkar Chowk, opposite Bharat Cooperative Bank",Encroachment,Encroachment complaint,,yes,,claude_reviewed_text,1,2026-03-01,web_complaint,yes,Illegal banners are reported and action is requested.,en,1.0,,3.0,1,1.0,text-only (claude-reviewed),3.0,False
+SEED0407,G/N,Mahim East,Jumman Compound,Solid Waste Management (SWM),Solid waste management complaint,,yes,,claude_reviewed_text,2,2026-02-28,web_complaint,yes,Roadside garbage is reported and residents request clearance.,en,11.0,,10.0,2,2.0,text-only (claude-reviewed),10.0,False
+SEED0408,D,Malabar Hill,Nepean Sea Road,Encroachment,Encroachment complaint,,yes,,claude_reviewed_text,2,2026-02-28,web_complaint,yes,Encroachers and hawkers are reported on the footpath; the complaint references videos and photos.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),245.0,False
+SEED0409,D,Malabar Hill,Pedder Road,Encroachment,Encroachment complaint,,yes,,claude_reviewed_text,3,2026-04-04,web_complaint,yes,Illegal hoardings are reported as obstructing traffic visibility and creating visual clutter.,en,2.0,,5.0,3,3.0,text-only (claude-reviewed),2.0,False
+SEED0410,D,Malabar Hill,BMC D Ward office,Encroachment,Encroachment complaint,,yes,,claude_reviewed_text,2,2026-04-04,web_complaint,yes,A banner outside the ward office is reported to obstruct pedestrians and vehicles.,en,1.0,,3.0,2,2.0,text-only (claude-reviewed),1.0,True
+SEED0411,D,Malabar Hill,Ridge Road near Chandanbala Jain Temple,Encroachment,Encroachment complaint,,yes,,claude_reviewed_text,2,2026-03-22,web_complaint,yes,Footpath encroachment and illegal parking are reported with no action.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),246.0,False
+SEED0412,D,Lamington Road,Tara Temple Lane,Encroachment,Encroachment complaint,,yes,,claude_reviewed_text,1,2026-03-21,web_complaint,yes,Complaint requests strict action against hawkers and illegal stalls.,en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),287.0,False
+SEED0413,G/N,Mahim,General Arunkumar Vaidya Ground area,Parks and open spaces,Parks/open spaces complaint,,yes,,claude_reviewed_text,1,2026-03-02,web_complaint,yes,A civic issue around the public ground is reported and requests attention.,en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),288.0,False
+SEED0414,C,Mumbai,Building below civic bench location,Parks and open spaces,Parks/open spaces complaint,,yes,,claude_reviewed_text,1,2026-03-02,web_complaint,yes,A bench placed below a building is reported to attract nuisance and residents request removal.,en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),289.0,False
+SEED0415,S,Powai,"Tiwari Compound, Millindnagar",Public health,Public health complaint,,yes,,claude_reviewed_text,4,2026-03-22,web_complaint,yes,Gutter water is flowing out and residents report illness in the surrounding area.,en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),38.0,False
+SEED0416,S,Bhandup East,"Friends Colony, Juvekar Marg",Public health,Public health complaint,,yes,,claude_reviewed_text,2,2026-03-06,web_complaint,yes,Mosquitoes are reported as excessive and residents request proper fogging.,en,9.0,,4.0,2,2.0,text-only (claude-reviewed),3.0,False
+SEED0417,S,MMRDA Colony,Ward S,Public health,Public health complaint,,yes,,claude_reviewed_text,2,2026-03-05,web_complaint,yes,Increased mosquitoes are reported and spraying/fogging is requested.,en,9.0,,4.0,2,2.0,text-only (claude-reviewed),4.0,False
+SEED0418,S,Bhandup West,"Jokim Compound, P.N. Road",Public health,Public health complaint,,yes,,claude_reviewed_text,4,2026-02-13,web_complaint,yes,"Public toilet is reported unclean and unrepaired for years, causing foul smell and health concerns.",en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),39.0,False
+SEED0419,S,Vikhroli East,Krantiveer Mahatma Jyotiba Phule Community Hospital,Public health,Public health complaint,,yes,,claude_reviewed_text,3,2026-04-03,web_complaint,yes,Residents report that the municipal hospital has facilities but lacks doctors.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),115.0,False
+SEED0420,S,Vikhroli East,Tagore Nagar,Public health,Public health complaint,,yes,,claude_reviewed_text,3,2026-03-22,web_complaint,yes,Demolition work is reported to spread dust because dust-control measures are not being used.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),116.0,False
+SEED0421,K/E,Andheri East,"Road 23 to SEEPZ, near Mahakali Caves Road",Transport and mobility,Transport/mobility complaint,,yes,,claude_reviewed_text,2,2026-03-02,web_complaint,yes,Tourist vehicles and tempos are reported parked on the footpath despite repeated complaints.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),247.0,False
+SEED0422,C,Dhanji Street,Building 96/98,Transport and mobility,Transport/mobility complaint,,yes,,claude_reviewed_text,1,2026-03-02,web_complaint,yes,An abandoned vehicle has reportedly been left at the location for a month.,en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),290.0,False
+SEED0423,S,Mumbai,Roadside near a busy junction,Transport and mobility,Transport/mobility complaint,,unverified,,claude_reviewed_text,2,2026-03-02,web_complaint,yes,An unknown generator van has been parked on the road for two days and may create congestion.,en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),248.0,False
+SEED0424,R/S,Mumbai,SV Road near Adani Electricity Office,Transport and mobility,Transport/mobility complaint,,yes,,claude_reviewed_text,3,2026-03-02,web_complaint,yes,Daily traffic jams are reported near the junction and work has reportedly stopped.,en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),117.0,False
+SEED0425,R/N,Dahisar,Dahisar,Roads,Bad Patches/Potholes on the Roads,7.0,no,,claude_reviewed_text,4,,twitter,no,"Huge pothole on the main road near Dahisar, very dangerous for bikes and autos",en,24.0,,5.0,4,4.0,text-only (claude-reviewed),1.0,True
+SEED0426,R/N,Dahisar,Dahisar,Roads,Bad Patches/Potholes on the Roads,7.0,yes,,claude_reviewed_text,4,,twitter,no,"Dahisar mein road pe bada gaddha hai, kal ek bike wala gir gaya",hi-en,31.0,,27.0,4,4.0,text-only (claude-reviewed),9.0,False
+SEED0427,R/N,Dahisar,the main road in Dahisar,Roads,Bad Patches/Potholes on the Roads,7.0,no,,claude_reviewed_text,3,,twitter,no,"POTHOLE outside the main road in Dahisar again!! @mybmc please fix this, it's been months",en,28.0,,3.0,3,3.0,text-only (claude-reviewed),2.0,False
+SEED0428,R/N,Dahisar,the main road in Dahisar,Roads,Bad Patches/Potholes on the Roads,7.0,no,,claude_reviewed_text,3,,twitter,no,"Road near the main road in Dahisar is full of potholes after the rains, cars are getting damaged",en,24.0,,5.0,3,3.0,text-only (claude-reviewed),4.0,False
+SEED0429,D,Malabar Hill-Tardeo,Malabar Hill-Tardeo,Roads,Bad Patches/Potholes on the Roads,7.0,yes,,claude_reviewed_text,4,,twitter,no,"Huge pothole on the main road near Malabar Hill-Tardeo, very dangerous for bikes and autos",en,24.0,,5.0,4,4.0,text-only (claude-reviewed),2.0,False
+SEED0430,D,Malabar Hill-Tardeo,the main road in Malabar Hill-Tardeo,Roads,Bad Patches/Potholes on the Roads,7.0,yes,,claude_reviewed_text,4,,made-up,no,"the main road in Malabar Hill-Tardeo mein road pe bada gaddha hai, kal ek bike wala gir gaya",hi-en,31.0,,27.0,4,4.0,text-only (claude-reviewed),10.0,False
+SEED0431,D,Malabar Hill-Tardeo,Malabar Hill-Tardeo,Roads,Bad Patches/Potholes on the Roads,7.0,no,,claude_reviewed_text,3,,twitter,no,"POTHOLE outside Malabar Hill-Tardeo again!! @mybmc please fix this, it's been months",en,28.0,,3.0,3,3.0,text-only (claude-reviewed),3.0,False
+SEED0432,D,Malabar Hill-Tardeo,Malabar Hill-Tardeo,Roads,Bad Patches/Potholes on the Roads,7.0,no,,claude_reviewed_text,3,,twitter,no,"Road near Malabar Hill-Tardeo is full of potholes after the rains, cars are getting damaged",en,24.0,,5.0,3,3.0,text-only (claude-reviewed),5.0,False
+SEED0433,S,Bhandup-Powai,Bhandup-Powai station road,Roads,Street Lighting,7.0,yes,,claude_reviewed_text,3,,twitter,no,"Streetlight near Bhandup-Powai station road not working for over a week, very unsafe at night",en,7.0,,4.0,3,3.0,text-only (claude-reviewed),3.0,False
+SEED0434,S,Bhandup-Powai,Bhandup-Powai station road,Roads,Street Lighting,7.0,yes,,claude_reviewed_text,3,,made-up,no,"Bhandup-Powai station road ke paas streetlight kharab hai, kai din se andhera rehta hai",hi-en,31.0,,27.0,3,3.0,text-only (claude-reviewed),16.0,False
+SEED0435,S,Bhandup-Powai,Bhandup-Powai,Roads,Street Lighting,7.0,no,,claude_reviewed_text,4,,twitter,no,"No street lighting on the stretch near Bhandup-Powai, women feel unsafe walking here at night",en,7.0,,4.0,4,4.0,text-only (claude-reviewed),1.0,True
+SEED0436,L,Kurla,the main road in Kurla,Roads,Street Lighting,7.0,yes,,claude_reviewed_text,3,,twitter,no,"Streetlight near the main road in Kurla not working for over a week, very unsafe at night",en,7.0,,4.0,3,3.0,text-only (claude-reviewed),4.0,False
+SEED0437,L,Kurla,the main road in Kurla,Roads,Street Lighting,7.0,no,,claude_reviewed_text,3,,twitter,no,"the main road in Kurla ke paas streetlight kharab hai, kai din se andhera rehta hai",hi-en,31.0,,27.0,3,3.0,text-only (claude-reviewed),17.0,False
+SEED0438,L,Kurla,Kurla station road,Roads,Street Lighting,7.0,yes,,claude_reviewed_text,4,,twitter,no,"No street lighting on the stretch near Kurla station road, women feel unsafe walking here at night",en,7.0,,4.0,4,4.0,text-only (claude-reviewed),2.0,False
+SEED0439,R/N,Dahisar,Dahisar station road,Roads,Unauthorised Digging of roads,7.0,no,,claude_reviewed_text,2,,twitter,no,"Road dug up near Dahisar station road for pipeline work weeks ago, still not restored",en,13.0,,3.0,2,2.0,text-only (claude-reviewed),2.0,False
+SEED0440,R/N,Dahisar,Dahisar,Roads,Unauthorised Digging of roads,7.0,no,,claude_reviewed_text,2,,twitter,no,"Dahisar mein road khodi hui hai, dhool aur traffic jam ho raha hai roz",hi-en,31.0,,27.0,2,2.0,text-only (claude-reviewed),22.0,False
+SEED0441,R/C,Borivali,Borivali,Roads,Unauthorised Digging of roads,7.0,no,,claude_reviewed_text,2,,twitter,no,"Road dug up near Borivali for pipeline work weeks ago, still not restored",en,13.0,,3.0,2,2.0,text-only (claude-reviewed),3.0,False
+SEED0442,R/C,Borivali,Borivali station road,Roads,Unauthorised Digging of roads,7.0,yes,,claude_reviewed_text,2,,twitter,no,"Borivali station road mein road khodi hui hai, dhool aur traffic jam ho raha hai roz",hi-en,31.0,,27.0,2,2.0,text-only (claude-reviewed),23.0,False
+SEED0443,F/N,Matunga-Sion,Matunga-Sion station road,Roads,Fallen Tree on road,5.0,yes,,claude_reviewed_text,4,,twitter,no,"A tree fell across the road near Matunga-Sion station road after last night's storm, blocking traffic",en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),40.0,False
+SEED0444,F/N,Matunga-Sion,the main road in Matunga-Sion,Roads,Fallen Tree on road,5.0,no,,claude_reviewed_text,4,,twitter,no,"the main road in Matunga-Sion ke paas ek ped gir gaya hai road pe, koi hata nahi raha",hi-en,31.0,,27.0,4,4.0,text-only (claude-reviewed),11.0,False
+SEED0445,K/E,Andheri East,the main road in Andheri East,Roads,Fallen Tree on road,5.0,no,,claude_reviewed_text,4,,twitter,no,"A tree fell across the road near the main road in Andheri East after last night's storm, blocking traffic",en,-1.0,,1.0,4,4.0,text-only (claude-reviewed),41.0,False
+SEED0446,K/E,Andheri East,Andheri East,Roads,Fallen Tree on road,5.0,no,,claude_reviewed_text,4,,twitter,no,"Andheri East ke paas ek ped gir gaya hai road pe, koi hata nahi raha",hi-en,31.0,,27.0,4,4.0,text-only (claude-reviewed),12.0,False
+SEED0447,R/N,Dahisar,the main road in Dahisar,Roads,Repairs/re-surfacing of roads/footpaths,7.0,yes,,claude_reviewed_text,3,,twitter,no,"Footpath near the main road in Dahisar is completely broken, elderly people keep tripping",en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),118.0,False
+SEED0448,R/N,Dahisar,Dahisar,Roads,Repairs/re-surfacing of roads/footpaths,7.0,yes,,claude_reviewed_text,3,,twitter,no,"Dahisar mein footpath tuta hua hai kai mahino se, koi repair nahi hua",hi-en,32.0,,4.0,3,3.0,text-only (claude-reviewed),2.0,False
+SEED0449,S,Bhandup-Powai,Bhandup-Powai station road,Roads,Repairs/re-surfacing of roads/footpaths,7.0,no,,claude_reviewed_text,3,,twitter,no,"Footpath near Bhandup-Powai station road is completely broken, elderly people keep tripping",en,-1.0,,1.0,3,3.0,text-only (claude-reviewed),119.0,False
+SEED0450,S,Bhandup-Powai,Bhandup-Powai,Roads,Repairs/re-surfacing of roads/footpaths,7.0,no,,claude_reviewed_text,3,,twitter,no,"Bhandup-Powai mein footpath tuta hua hai kai mahino se, koi repair nahi hua",hi-en,32.0,,4.0,3,3.0,text-only (claude-reviewed),3.0,False
+SEED0451,F/S,Parel-Lower Parel,Parel-Lower Parel station road,Solid Waste Management (SWM),Garbage not lifted from road/ authorised collection point,2.0,no,,claude_reviewed_text,2,,made-up,no,"Garbage not collected from the bin near Parel-Lower Parel station road for 3 days now, smells terrible",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),249.0,False
+SEED0452,F/S,Parel-Lower Parel,Parel-Lower Parel,Solid Waste Management (SWM),Garbage not lifted from road/ authorised collection point,2.0,yes,,claude_reviewed_text,2,,twitter,no,"Parel-Lower Parel ke paas kachra 3 din se nahi utha, bahut badbu aa rahi hai",hi-en,31.0,,27.0,2,2.0,text-only (claude-reviewed),24.0,False
+SEED0453,F/S,Parel-Lower Parel,the main road in Parel-Lower Parel,Solid Waste Management (SWM),Garbage not lifted from road/ authorised collection point,2.0,no,,claude_reviewed_text,3,,twitter,no,"Trash piling up near the main road in Parel-Lower Parel, dogs and rats everywhere now",en,6.0,,3.0,3,3.0,text-only (claude-reviewed),1.0,True
+SEED0454,R/N,Dahisar,the main road in Dahisar,Solid Waste Management (SWM),Garbage not lifted from road/ authorised collection point,2.0,no,,claude_reviewed_text,2,,made-up,no,"Garbage not collected from the bin near the main road in Dahisar for 3 days now, smells terrible",en,-1.0,,1.0,2,2.0,text-only (claude-reviewed),250.0,False
+SEED0455,R/N,Dahisar,Dahisar station road,Solid Waste Management (SWM),Garbage not lifted from road/ authorised collection point,2.0,yes,,claude_reviewed_text,2,,twitter,no,"Dahisar station road ke paas kachra 3 din se nahi utha, bahut badbu aa rahi hai",hi-en,31.0,,27.0,2,2.0,text-only (claude-reviewed),25.0,False
+SEED0456,R/N,Dahisar,the main road in Dahisar,Solid Waste Management (SWM),Garbage not lifted from road/ authorised collection point,2.0,no,,claude_reviewed_text,3,,twitter,no,"Trash piling up near the main road in Dahisar, dogs and rats everywhere now",en,6.0,,3.0,3,3.0,text-only (claude-reviewed),2.0,False
+SEED0457,D,Malabar Hill-Tardeo,the main road in Malabar Hill-Tardeo,Solid Waste Management (SWM),Collection point not attended properly,2.0,yes,,claude_reviewed_text,2,,made-up,no,"The garbage collection point at the main road in Malabar Hill-Tardeo hasn't been attended in days, overflowing",en,20.0,,3.0,2,2.0,text-only (claude-reviewed),2.0,False
+SEED0458,D,Malabar Hill-Tardeo,the main road in Malabar Hill-Tardeo,Solid Waste Management (SWM),Collection point not attended properly,2.0,yes,,claude_reviewed_text,2,,made-up,no,"the main road in Malabar Hill-Tardeo ka collection point bhara hua hai, koi lene nahi aaya",hi-en,31.0,,27.0,2,2.0,text-only (claude-reviewed),26.0,False
+SEED0459,E,Byculla-Mazgaon,the main road in Byculla-Mazgaon,Solid Waste Management (SWM),Collection point not attended properly,2.0,no,,claude_reviewed_text,2,,twitter,no,"The garbage collection point at the main road in Byculla-Mazgaon hasn't been attended in days, overflowing",en,20.0,,3.0,2,2.0,text-only (claude-reviewed),3.0,False
+SEED0460,E,Byculla-Mazgaon,the main road in Byculla-Mazgaon,Solid Waste Management (SWM),Collection point not attended properly,2.0,no,,claude_reviewed_text,2,,twitter,no,"the main road in Byculla-Mazgaon ka collection point bhara hua hai, koi lene nahi aaya",hi-en,31.0,,27.0,2,2.0,text-only (claude-reviewed),27.0,False
+SEED0461,R/S,Kandivali,Kandivali,Solid Waste Management (SWM),Sweeping of roads,1.0,no,,claude_reviewed_text,1,,twitter,no,"Roads near Kandivali haven't been swept in weeks, dust everywhere",en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),291.0,False
+SEED0462,T,Mulund,the main road in Mulund,Solid Waste Management (SWM),Sweeping of roads,1.0,yes,,claude_reviewed_text,1,,twitter,no,"Roads near the main road in Mulund haven't been swept in weeks, dust everywhere",en,-1.0,,1.0,1,1.0,text-only (claude-reviewed),292.0,False
+SEED0463,L,Kurla,Kurla station road,Solid Waste Management (SWM),Removal of Debris,5.0,yes,,claude_reviewed_text,3,,twitter,no,"Construction debris dumped near Kurla station road blocking half the road, unsafe for pedestrians",en,10.0,,7.0,3,3.0,text-only (claude-reviewed),5.0,False
+SEED0464,L,Kurla,the main road in Kurla,Solid Waste Management (SWM),Removal of Debris,5.0,no,,claude_reviewed_text,3,,twitter,no,"the main road in Kurla mein malba pada hua hai sadak par, hatana zaroori hai",hi-en,31.0,,27.0,3,3.0,text-only (claude-reviewed),18.0,False
