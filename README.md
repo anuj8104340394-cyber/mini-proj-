@@ -57,7 +57,7 @@ sequenceDiagram
 │   │   │   └── provision_bmc_staff.py # Staff account provisioning
 │   │   └── tests/                  # Backend unit & integration test suites
 │   ├── frontend/                   # BMC Staff Dashboard (React + Leaflet + Vite)
-│   ├── citizen-frontend/           # Direct Citizen Complaint Portal (React + Vite)
+│   ├── citizen-frontend/           # Public Citizen Complaint Portal (React + Vite)
 │   ├── artifacts/                  # Trained NLP & Computer Vision model weights
 │   ├── docker-compose.yml          # Container configuration
 │   └── .env.example                # Sample environment variables
@@ -77,66 +77,135 @@ sequenceDiagram
 │   └── .env.example
 │
 ├── test_e2e_resolution_sync.js     # End-to-end automated multi-service test suite
+├── run_all.ps1                     # One-click Windows PowerShell service launcher
 └── README.md
 ```
 
 ---
 
-## 🚀 Getting Started
+## 💻 System Requirements & Prerequisites
 
-### Prerequisites
+Ensure the following tools are installed on your system before running:
 
-- **Node.js** (v18+)
-- **Python** (3.10+)
-- **MongoDB** (running locally on `mongodb://127.0.0.1:27017` or cloud MongoDB Atlas)
+| Requirement | Minimum Version | Recommended | Notes |
+| :--- | :--- | :--- | :--- |
+| **Node.js** | v18.0.0+ | v20+ / v22+ | Required for frontend builds & Express server |
+| **npm** | v9.0.0+ | v10+ / v11+ | Included with Node.js |
+| **Python** | 3.10+ | 3.11 / 3.12 / 3.14 | Required for FastAPI, PyTorch & scikit-learn |
+| **MongoDB** | 6.0+ | Local or Atlas | Database for Civic Twitter |
+| **Operating System** | Windows, macOS, or Linux | Windows 10/11 or Ubuntu | Cross-platform |
 
 ---
 
-### 1. Start the BMC Complaint Backend & Portals
+## ⚙️ Step-by-Step Setup & Installation
 
-#### Backend API (Port 8000)
+### 1. Clone the Repository
+```bash
+git clone https://github.com/anuj8104340394-cyber/mini-proj-.git
+cd mini-proj-
+```
+
+---
+
+### 2. Configure Environment Files (`.env`)
+
+#### A. BMC Complaint Portal Environment
+Create `Mini Proj/.env` by copying `Mini Proj/.env.example`:
+```powershell
+Copy-Item "Mini Proj\.env.example" "Mini Proj\.env"
+```
+
+Default configuration inside `Mini Proj/.env`:
+```env
+DATABASE_URL=sqlite:///./bmc.db
+ARTIFACTS_DIR=./artifacts
+CLUSTER_SIMILARITY_THRESHOLD=0.75
+MAX_CLUSTER_RADIUS_KM=3.0
+SEED_ON_STARTUP=true
+SYNC_LIVE_DEMO=true
+BMC_SERVICE_KEY=bmc_shared_service_key_2026
+TWITTER_API_URL=http://localhost:5000
+CITIZEN_FRONTEND_URL=http://localhost:5174
+BMC_FRONTEND_URL=http://localhost:5173
+JWT_SECRET_KEY=iT9oEsYdeXmfkVZqD75h0ok7gcsFdYyk-6CuMWQxk2k1wcnnUHJVLX0D-3dwU-1YZDFxxftMkpAQlg9M6khMaw
+JWT_ACCESS_TOKEN_EXPIRE_MINUTES=60
+```
+*(If PostgreSQL is not running, the application automatically uses local SQLite `bmc.db` without any extra setup).*
+
+#### B. Twitter Clone Environment
+Create `clone twitter/server/.env` by copying `clone twitter/server/.env.example`:
+```powershell
+Copy-Item "clone twitter\server\.env.example" "clone twitter\server\.env"
+```
+
+Default configuration inside `clone twitter/server/.env`:
+```env
+PORT=5000
+MONGO_URI=mongodb://127.0.0.1:27017/twitter_app
+JWT_SECRET=supersecretjwtkey_twitter_replica_2026
+CLIENT_URL=http://localhost:5175
+BMC_API_URL=http://localhost:8000
+BMC_SERVICE_KEY=bmc_shared_service_key_2026
+```
+*(If using MongoDB Atlas cloud cluster, replace `MONGO_URI` with your connection string).*
+
+---
+
+### 3. Install All Dependencies
+
+#### Python Backend Dependencies:
 ```powershell
 cd "Mini Proj\backend"
 pip install -r requirements.txt
-python -m uvicorn app.main:app --host 0.0.0.0 --port 8000
+cd ..\..
 ```
-*API interactive documentation will be live at `http://localhost:8000/docs`.*
 
-#### BMC Staff Portal (Port 5173)
+#### Node.js Dependencies (All Frontend & Server Modules):
 ```powershell
+# 1. BMC Staff Dashboard
 cd "Mini Proj\frontend"
 npm install
-npm run dev
-```
-*Accessible at `http://localhost:5173`.*
 
-#### Citizen Portal (Port 5174)
-```powershell
-cd "Mini Proj\citizen-frontend"
+# 2. BMC Citizen Portal
+cd "..\citizen-frontend"
 npm install
-npm run dev
+
+# 3. Twitter Express Backend
+cd "..\..\clone twitter\server"
+npm install
+
+# 4. Twitter React Client
+cd "..\client"
+npm install
+
+cd ..\..
 ```
-*Accessible at `http://localhost:5174`.*
 
 ---
 
-### 2. Start the Civic Twitter Clone
+## 🚀 Running the Services
 
-#### Twitter Express Server (Port 5000)
-```powershell
-cd "clone twitter\server"
-npm install
-node src/server.js
-```
-*Server running at `http://localhost:5000`.*
+### Option A: One-Click Launcher (Windows PowerShell)
 
-#### Twitter Web Client (Port 5175)
+You can launch all 5 services simultaneously in separate windows with one command:
+
 ```powershell
-cd "clone twitter\client"
-npm install
-npm run dev
+powershell -ExecutionPolicy Bypass -File .\run_all.ps1
 ```
-*Social app accessible at `http://localhost:5175`.*
+
+---
+
+### Option B: Running Manually (Separate Terminals)
+
+If you prefer running services in separate terminals:
+
+| Terminal | Service | Command | URL |
+| :--- | :--- | :--- | :--- |
+| **Terminal 1** | **BMC FastAPI Backend** | `cd "Mini Proj\backend"`<br>`python -m uvicorn app.main:app --host 0.0.0.0 --port 8000` | [http://localhost:8000/docs](http://localhost:8000/docs) |
+| **Terminal 2** | **Civic Twitter Server** | `cd "clone twitter\server"`<br>`node src/server.js` | [http://localhost:5000/api/health](http://localhost:5000/api/health) |
+| **Terminal 3** | **BMC Staff Dashboard** | `cd "Mini Proj\frontend"`<br>`npm run dev` | [http://localhost:5173](http://localhost:5173) |
+| **Terminal 4** | **BMC Citizen Portal** | `cd "Mini Proj\citizen-frontend"`<br>`npm run dev` | [http://localhost:5174](http://localhost:5174) |
+| **Terminal 5** | **Civic Twitter Client** | `cd "clone twitter\client"`<br>`npm run dev` | [http://localhost:5175](http://localhost:5175) |
 
 ---
 
@@ -145,43 +214,59 @@ npm run dev
 ### BMC Staff Portal (`http://localhost:5173`)
 | Field | Value |
 | :--- | :--- |
-| **Email** | `bmc.staff1@local.bmc` *(or `bmc.staff2@local.bmc` – `bmc.staff5@local.bmc`)* |
+| **Email** | `bmc.staff1@local.bmc` *(or `bmc.staff2@local.bmc` through `bmc.staff5@local.bmc`)* |
 | **Password** | `Admin@123` |
 | **Role** | `admin` |
 
+*(To rotate a staff password: `python -m app.provision_bmc_staff --rotate bmc.staff1@local.bmc`)*
+
 ### Civic Twitter Platform (`http://localhost:5175`)
 *All demo accounts use password:* **`password123`**
-- **User accounts:** `sarahc`, `marcusj`, `emilyd`, `rohanm`
-- **Admin account:** `alexrivera`
-- **Official Bot Account:** `@bmc`
+- **Regular Citizen Accounts:** `sarahc`, `marcusj`, `emilyd`, `rohanm`
+- **Admin Account:** `alexrivera`
+- **Official Bot Account:** `@bmc` *(auto-replies to complaints & resolutions)*
 
 ---
 
-## 🧪 Automated Testing
+## 🧪 Testing the Resolution Synchronization
 
-### Run the Complete End-to-End Test Suite
-
-Tests the entire lifecycle across both applications: Twitter post registration $\rightarrow$ BMC portal ingestion $\rightarrow$ BMC staff resolution $\rightarrow$ automatic `@bmc` reply $\rightarrow$ citizen notification $\rightarrow$ idempotency & deduplication $\rightarrow$ reopening & re-resolving.
+To verify that the complete complaint registration and resolution synchronization workflow is working:
 
 ```powershell
 node test_e2e_resolution_sync.js
 ```
 
-### Run BMC Backend Unit Tests
-```powershell
-cd "Mini Proj\backend"
-python -m unittest discover -s tests -p "test_*.py"
-```
+### What this test verifies:
+1. **Security**: Verifies that unauthenticated or tampered requests to `/api/posts/bmc-resolve` are rejected with `401 Unauthorized` / `403 Forbidden`.
+2. **Registration**: Posts a civic complaint on Twitter mentioning `@bmc` $\rightarrow$ verifies it is ingested into BMC database with cluster & severity assigned.
+3. **Bot Reply**: Verifies the official `@bmc` bot publishes an automated reference reply under the citizen's tweet.
+4. **Staff Resolution**: Staff marks complaint as `resolved` on BMC Staff Portal $\rightarrow$ database commit verified.
+5. **Auto-Reply**: Verifies exactly **one** resolution reply from `@bmc` is published:
+   > *"Your complaint #CMP-XXXX has been marked as resolved by BMC. Please check the BMC Complaint Portal for updates."*
+6. **In-App Notification**: Verifies citizen receives resolution notification on Twitter.
+7. **Idempotency**: Retries and duplicate calls are safely skipped without creating duplicate replies.
+8. **Reopen & Re-resolve**: Verifies complaints reopened by staff update the tweet to `open`, and re-resolving publishes a new resolution reply for that cycle.
 
 ---
 
-## 🔒 Security & Synchronization Features
+## 🛠️ Troubleshooting & FAQs
 
-- **Authenticated Webhooks**: Backend-to-backend communication uses constant-time comparison (`crypto.timingSafeEqual`) against a shared `X-Service-Key`.
-- **Database-Commit Gating**: Automated resolution replies trigger strictly **after** the status change has been committed to the database.
-- **Deduplication & Idempotency**: Event keys track resolution cycles to safely drop duplicate requests or retries without posting repeated comments.
-- **Reopen & Re-resolve Policy**: Complaints reopened by staff transition to `open` on Twitter and notify the citizen; subsequent resolutions trigger a fresh resolution reply for that new cycle.
-- **Network Resilience**: Exponential backoff retry logic (1s, 2s, 4s) ensures transient network hiccups do not drop resolution events.
+### 1. `Port already in use`
+- Ensure no other service is occupying ports `8000`, `5000`, `5173`, `5174`, or `5175`.
+- On Windows, check with:
+  ```powershell
+  Get-NetTCPConnection -LocalPort 8000, 5000, 5173, 5174, 5175
+  ```
+
+### 2. MongoDB DNS Resolution on Windows
+- If connecting to MongoDB Atlas on Windows fails with `querySrv ECONNREFUSED`, Google Public DNS servers are automatically configured in `server.js`:
+  ```javascript
+  const dns = require('dns');
+  dns.setServers(['8.8.8.8', '1.1.1.1']);
+  ```
+
+### 3. PostgreSQL vs SQLite Fallback
+- The BMC backend is pre-configured to automatically fall back to local SQLite (`bmc.db`) if a PostgreSQL server is not detected, enabling instant local development without Docker.
 
 ---
 
