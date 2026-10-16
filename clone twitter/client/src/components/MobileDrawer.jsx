@@ -1,10 +1,12 @@
 import React, { useEffect } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import { X, User, Bell, LogOut, LogIn, UserPlus } from 'lucide-react';
+import { X, User, Bell, LogOut, LogIn, UserPlus, Download } from 'lucide-react';
 import { useAuth } from '../context/AuthContext';
+import { usePWA } from '../context/PWAContext';
 
 export default function MobileDrawer({ isOpen, onClose, unreadCount = 0 }) {
   const { user, isAuthenticated, logout } = useAuth();
+  const { isInstallable, isInstalled, isIOS, installApp } = usePWA();
   const navigate = useNavigate();
 
   // Prevent background scrolling when drawer is open
@@ -158,6 +160,19 @@ export default function MobileDrawer({ isOpen, onClose, unreadCount = 0 }) {
                   <span>Sign up</span>
                 </button>
               </>
+            )}
+
+            {!isInstalled && (isInstallable || isIOS) && (
+              <button
+                onClick={() => {
+                  onClose();
+                  installApp();
+                }}
+                className="w-full flex items-center space-x-3.5 px-3 py-3 rounded-xl text-sky-400 hover:bg-zinc-900 transition font-medium text-sm min-h-[44px]"
+              >
+                <Download className="w-5 h-5 text-sky-400" />
+                <span>Install App</span>
+              </button>
             )}
           </nav>
         </div>

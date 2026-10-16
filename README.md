@@ -228,6 +228,31 @@ If you prefer running services in separate terminals:
 
 ---
 
+## 📱 Progressive Web App (PWA) — Mobile & Desktop Installation
+
+Civic Twitter is built as a production-grade **Progressive Web App (PWA)** that can be installed directly onto your device without needing Google Play Store or Apple App Store:
+
+### 📲 Features:
+- **Standalone App Experience:** Launches in its own dedicated, borderless window without browser URL bars.
+- **Home Screen & Desktop Icon:** Crisp, high-resolution app icon on your home screen and taskbar.
+- **Offline Shell & Caching:** Offline fallback screen (`offline.html`) and automatic asset caching with service worker (`sw.js`).
+- **In-App Install Prompt:** Click the **"Install App"** button in the sidebar, header, or floating banner.
+- **Auto Update Detection:** Informs users when a new frontend update is available with a 1-click update banner.
+
+### 🚀 How to Install:
+- **Android (Chrome / Samsung Internet / Edge):**
+  1. Open `http://localhost:5175` (or your public URL/LAN IP) in Chrome.
+  2. Tap the **"Install App"** button on screen, or tap `⋮` (menu) $\rightarrow$ **"Install app"** / **"Add to Home screen"**.
+- **iPhone / iPad (iOS Safari):**
+  1. Open the website in Safari.
+  2. Tap the **Share** button in Safari's bottom toolbar.
+  3. Scroll down and tap **"Add to Home Screen"** $\rightarrow$ tap **"Add"**.
+- **Windows / macOS / Linux (Chrome & Edge):**
+  1. Open the website in Chrome or Microsoft Edge.
+  2. Click the **"Install App"** icon in the desktop navigation or the install icon in the browser address bar.
+
+---
+
 ## 🧪 Testing the Resolution Synchronization
 
 To verify that the complete complaint registration and resolution synchronization workflow is working:

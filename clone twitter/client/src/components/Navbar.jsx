@@ -1,13 +1,15 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Link, NavLink, useNavigate } from 'react-router-dom';
-import { Home, User, LogOut, LogIn, UserPlus, Search, X, Loader2, Bell } from 'lucide-react';
+import { Home, User, LogOut, LogIn, UserPlus, Search, X, Loader2, Bell, Download } from 'lucide-react';
 import TwitterIcon from './TwitterIcon';
 import MobileTopBar from './MobileTopBar';
 import { useAuth } from '../context/AuthContext';
+import { usePWA } from '../context/PWAContext';
 import { usersAPI, notificationsAPI } from '../services/api';
 
 export default function Navbar() {
   const { user, isAuthenticated, logout } = useAuth();
+  const { isInstallable, isInstalled, isIOS, installApp } = usePWA();
   const navigate = useNavigate();
 
   // Search state
@@ -279,6 +281,17 @@ export default function Navbar() {
                   <span>Sign Up</span>
                 </NavLink>
               </>
+            )}
+
+            {!isInstalled && (isInstallable || isIOS) && (
+              <button
+                onClick={installApp}
+                className="flex items-center space-x-1.5 px-3 py-1.5 rounded-full text-xs font-semibold text-sky-400 bg-sky-500/10 hover:bg-sky-500/20 border border-sky-500/30 transition shadow-xs cursor-pointer ml-1"
+                title="Install Progressive Web App"
+              >
+                <Download className="w-3.5 h-3.5" />
+                <span>Install App</span>
+              </button>
             )}
           </nav>
         </div>

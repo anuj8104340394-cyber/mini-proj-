@@ -8,12 +8,15 @@ import {
   LogOut,
   PenSquare,
   ShieldCheck,
-  CheckCircle2
+  CheckCircle2,
+  Download
 } from 'lucide-react';
 import { useAuth } from '../context/AuthContext';
+import { usePWA } from '../context/PWAContext';
 
 export default function Sidebar({ onOpenPostModal }) {
   const { user, logout, isAuthenticated } = useAuth();
+  const { isInstallable, isInstalled, isIOS, installApp } = usePWA();
   const navigate = useNavigate();
 
   return (
@@ -76,6 +79,17 @@ export default function Sidebar({ onOpenPostModal }) {
               <ShieldCheck className="w-4 h-4 text-amber-400" />
               <span>Admin Authority Active</span>
             </div>
+          )}
+
+          {!isInstalled && (isInstallable || isIOS) && (
+            <button
+              onClick={installApp}
+              className="flex items-center space-x-4 p-3 rounded-xl transition font-medium text-sky-400 hover:bg-sky-500/10 border border-sky-500/20 w-full text-left"
+              title="Install App"
+            >
+              <Download className="w-6 h-6 shrink-0" />
+              <span className="hidden xl:inline text-base font-semibold">Install App</span>
+            </button>
           )}
         </nav>
 

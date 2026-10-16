@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Offline | Civic Twitter</title>
+  <meta name="theme-color" content="#000000">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    }
+    body {
+      background-color: #000000;
+      color: #f4f4f5;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      padding: 24px;
+      text-align: center;
+    }
+    .card {
+      background: #09090b;
+      border: 1px solid #27272a;
+      border-radius: 20px;
+      padding: 36px 24px;
+      max-width: 400px;
+      width: 100%;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .icon-wrap {
+      width: 68px;
+      height: 68px;
+      border-radius: 50%;
+      background: rgba(14, 165, 233, 0.12);
+      border: 1px solid rgba(14, 165, 233, 0.3);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
+    .icon-wrap svg {
+      width: 32px;
+      height: 32px;
+      stroke: #38bdf8;
+      stroke-width: 2;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+    }
+    h1 {
+      font-size: 20px;
+      font-weight: 700;
+      margin-bottom: 10px;
+      color: #ffffff;
+    }
+    p {
+      font-size: 14px;
+      color: #a1a1aa;
+      line-height: 1.5;
+      margin-bottom: 24px;
+    }
+    .btn {
+      background: #0284c7;
+      color: #ffffff;
+      border: none;
+      padding: 12px 24px;
+      font-size: 14px;
+      font-weight: 600;
+      border-radius: 9999px;
+      cursor: pointer;
+      transition: background 0.2s, transform 0.1s;
+      width: 100%;
+      text-decoration: none;
+      display: inline-block;
+    }
+    .btn:hover {
+      background: #0ea5e9;
+    }
+    .btn:active {
+      transform: scale(0.98);
+    }
+    .subtext {
+      margin-top: 18px;
+      font-size: 12px;
+      color: #71717a;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="icon-wrap">
+      <svg viewBox="0 0 24 24">
+        <line x1="1" y1="1" x2="23" y2="23"></line>
+        <path d="M16.72 11.06A10.94 10.94 0 0 1 19 12.55"></path>
+        <path d="M5 12.55a10.94 10.94 0 0 1 5.17-2.39"></path>
+        <path d="M10.71 5.05A16 16 0 0 1 22.58 9"></path>
+        <path d="M1.42 9a15.91 15.91 0 0 1 4.7-2.88"></path>
+        <path d="M8.53 16.11a6 6 0 0 1 6.95 0"></path>
+        <line x1="12" y1="20" x2="12.01" y2="20"></line>
+      </svg>
+    </div>
+    <h1>You are currently offline</h1>
+    <p>Please check your cellular data or Wi-Fi connection. Civic Twitter will automatically reconnect when your signal is restored.</p>
+    <button class="btn" onclick="window.location.reload()">Retry Connection</button>
+    <div class="subtext">Civic Twitter Progressive Web App</div>
+  </div>
+</body>
+</html>

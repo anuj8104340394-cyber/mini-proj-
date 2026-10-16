@@ -1,0 +1,87 @@
+{
+  "id": "/",
+  "name": "Civic Twitter - Citizen Grievance Portal",
+  "short_name": "CivicX",
+  "description": "Civic grievance reporting, real-time BMC resolution sync, and interactive social timeline.",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "window-controls-overlay",
+    "minimal-ui"
+  ],
+  "orientation": "portrait-primary",
+  "background_color": "#000000",
+  "theme_color": "#0ea5e9",
+  "categories": [
+    "social",
+    "government",
+    "utilities",
+    "news"
+  ],
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Home Feed",
+      "short_name": "Home",
+      "description": "View live citizen complaints and posts",
+      "url": "/",
+      "icons": [
+        {
+          "src": "/icons/icon-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Alerts & Notifications",
+      "short_name": "Alerts",
+      "description": "View BMC resolution updates and mentions",
+      "url": "/notifications",
+      "icons": [
+        {
+          "src": "/icons/icon-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Search Civic Posts",
+      "short_name": "Search",
+      "description": "Search citizens and ward complaints",
+      "url": "/search",
+      "icons": [
+        {
+          "src": "/icons/icon-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

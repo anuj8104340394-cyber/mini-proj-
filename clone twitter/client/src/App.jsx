@@ -1,9 +1,12 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { AuthProvider, useAuth } from './context/AuthContext';
+import { PWAProvider } from './context/PWAContext';
 import Navbar from './components/Navbar';
 import BottomNav from './components/BottomNav';
 import NotificationToast from './components/NotificationToast';
+import InstallPromptBanner from './components/InstallPromptBanner';
+import IOSInstallModal from './components/IOSInstallModal';
 
 // Pages
 import Home from './pages/Home';
@@ -58,6 +61,8 @@ function MainLayout() {
     <div className="min-h-screen bg-black text-zinc-100 flex flex-col font-sans antialiased">
       <Navbar />
       <NotificationToast />
+      <InstallPromptBanner />
+      <IOSInstallModal />
       <main className="flex-1 pb-20 md:pb-12 min-h-[100dvh]">
         <Routes>
           <Route path="/" element={<Home />} />
@@ -102,9 +107,11 @@ function MainLayout() {
 export default function App() {
   return (
     <BrowserRouter>
-      <AuthProvider>
-        <MainLayout />
-      </AuthProvider>
+      <PWAProvider>
+        <AuthProvider>
+          <MainLayout />
+        </AuthProvider>
+      </PWAProvider>
     </BrowserRouter>
   );
 }
